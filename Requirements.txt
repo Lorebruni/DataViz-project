@@ -1,4 +1,2 @@
 py -m pip install streamlit
-py -m pip install plotly.express
-py -m pip install plotly.subplots
-py -m pip install plotly.graph_objects
+py -m pip install plotly

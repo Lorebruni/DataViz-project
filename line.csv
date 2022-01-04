@@ -1,0 +1,904 @@
+Country Name,Country Code,Indicator Name,Year,Value
+Angola,AGO,Number of people using drinking water services if only population grows,2000,6745805.541832779
+Benin,BEN,Number of people using drinking water services if only population grows,2000,4271837.511520301
+Botswana,BWA,Number of people using drinking water services if only population grows,2000,1235769.4096397832
+Burkina Faso,BFA,Number of people using drinking water services if only population grows,2000,6740248.39176235
+Burundi,BDI,Number of people using drinking water services if only population grows,2000,3231734.8703544247
+Cabo Verde,CPV,Number of people using drinking water services if only population grows,2000,338604.9368980854
+Cameroon,CMR,Number of people using drinking water services if only population grows,2000,8938930.912285
+Central African Republic,CAF,Number of people using drinking water services if only population grows,2000,2148230.262882058
+Chad,TCD,Number of people using drinking water services if only population grows,2000,3302645.0053705974
+Comoros,COM,Number of people using drinking water services if only population grows,2000,493263.3632337684
+Equatorial Guinea,GNQ,Number of people using drinking water services if only population grows,2000,309746.707355484
+Eritrea,ERI,Number of people using drinking water services if only population grows,2000,1073175.135836507
+Eswatini,SWZ,Number of people using drinking water services if only population grows,2000,535516.0954270727
+Ethiopia,ETH,Number of people using drinking water services if only population grows,2000,11977051.706061691
+Gabon,GAB,Number of people using drinking water services if only population grows,2000,993355.8558588127
+Ghana,GHA,Number of people using drinking water services if only population grows,2000,12308446.74186729
+Guinea,GIN,Number of people using drinking water services if only population grows,2000,4384688.319449601
+Guinea-Bissau,GNB,Number of people using drinking water services if only population grows,2000,672655.777541706
+Kenya,KEN,Number of people using drinking water services if only population grows,2000,15107491.954456935
+Lesotho,LSO,Number of people using drinking water services if only population grows,2000,1346262.8246614821
+Liberia,LBR,Number of people using drinking water services if only population grows,2000,1756462.6602261048
+Madagascar,MDG,Number of people using drinking water services if only population grows,2000,5718141.598970902
+Malawi,MWI,Number of people using drinking water services if only population grows,2000,5998251.792317695
+Mali,MLI,Number of people using drinking water services if only population grows,2000,5413897.392375931
+Mauritania,MRT,Number of people using drinking water services if only population grows,2000,1078271.3380160439
+Mauritius,MUS,Number of people using drinking water services if only population grows,2000,1178324.8552110435
+Mozambique,MOZ,Number of people using drinking water services if only population grows,2000,3737054.16047964
+Namibia,NAM,Number of people using drinking water services if only population grows,2000,1370447.6762787895
+Niger,NER,Number of people using drinking water services if only population grows,2000,4175296.8036035993
+Nigeria,NGA,Number of people using drinking water services if only population grows,2000,52765528.58491389
+Rwanda,RWA,Number of people using drinking water services if only population grows,2000,3581980.5364817716
+Senegal,SEN,Number of people using drinking water services if only population grows,2000,5841897.499679467
+Seychelles,SYC,Number of people using drinking water services if only population grows,2000,75666.5050518169
+Sierra Leone,SLE,Number of people using drinking water services if only population grows,2000,1859965.9099142877
+Somalia,SOM,Number of people using drinking water services if only population grows,2000,2099270.275879775
+South Africa,ZAF,Number of people using drinking water services if only population grows,2000,37988751.29625982
+South Sudan,SSD,Number of people using drinking water services if only population grows,2000,
+Sudan,SDN,Number of people using drinking water services if only population grows,2000,11845479.661112443
+Tanzania,TZA,Number of people using drinking water services if only population grows,2000,9270717.970604122
+Togo,TGO,Number of people using drinking water services if only population grows,2000,2230836.198621256
+Uganda,UGA,Number of people using drinking water services if only population grows,2000,6268041.693679282
+Zambia,ZMB,Number of people using drinking water services if only population grows,2000,5021548.993866746
+Zimbabwe,ZWE,Number of people using drinking water services if only population grows,2000,8539148.331005713
+Angola,AGO,Number of people using drinking water services if only population grows,2001,6972212.793682638
+Benin,BEN,Number of people using drinking water services if only population grows,2001,4402981.341424188
+Botswana,BWA,Number of people using drinking water services if only population grows,2001,1259337.5173011764
+Burkina Faso,BFA,Number of people using drinking water services if only population grows,2001,6935719.9041856965
+Burundi,BDI,Number of people using drinking water services if only population grows,2001,3306044.9970381646
+Cabo Verde,CPV,Number of people using drinking water services if only population grows,2001,344554.15647565434
+Cameroon,CMR,Number of people using drinking water services if only population grows,2001,9178028.87505625
+Central African Republic,CAF,Number of people using drinking water services if only population grows,2001,2196379.872034368
+Chad,TCD,Number of people using drinking water services if only population grows,2001,3430074.436568497
+Comoros,COM,Number of people using drinking water services if only population grows,2001,505574.984244421
+Equatorial Guinea,GNQ,Number of people using drinking water services if only population grows,2001,322767.53548711556
+Eritrea,ERI,Number of people using drinking water services if only population grows,2001,1111706.9793919355
+Eswatini,SWZ,Number of people using drinking water services if only population grows,2001,539870.8201585432
+Ethiopia,ETH,Number of people using drinking water services if only population grows,2001,12326935.084845299
+Gabon,GAB,Number of people using drinking water services if only population grows,2001,1017332.5660635313
+Ghana,GHA,Number of people using drinking water services if only population grows,2001,12613672.930665128
+Guinea,GIN,Number of people using drinking water services if only population grows,2001,4478518.133303581
+Guinea-Bissau,GNB,Number of people using drinking water services if only population grows,2001,687102.166311066
+Kenya,KEN,Number of people using drinking water services if only population grows,2001,15525304.851962237
+Lesotho,LSO,Number of people using drinking water services if only population grows,2001,1348205.2583256713
+Liberia,LBR,Number of people using drinking water services if only population grows,2001,1821506.3271306704
+Madagascar,MDG,Number of people using drinking water services if only population grows,2001,5897346.452120912
+Malawi,MWI,Number of people using drinking water services if only population grows,2001,6150645.97711687
+Mali,MLI,Number of people using drinking water services if only population grows,2001,5574712.6455629
+Mauritania,MRT,Number of people using drinking water services if only population grows,2001,1107865.1895304634
+Mauritius,MUS,Number of people using drinking water services if only population grows,2001,1187671.0533189767
+Mozambique,MOZ,Number of people using drinking water services if only population grows,2001,3844650.844782675
+Namibia,NAM,Number of people using drinking water services if only population grows,2001,1392657.9057398352
+Niger,NER,Number of people using drinking water services if only population grows,2001,4329980.004271468
+Nigeria,NGA,Number of people using drinking water services if only population grows,2001,54107578.03477951
+Rwanda,RWA,Number of people using drinking water services if only population grows,2001,3716281.6451645102
+Senegal,SEN,Number of people using drinking water services if only population grows,2001,5984026.21794047
+Seychelles,SYC,Number of people using drinking water services if only population grows,2001,75732.7229199398
+Sierra Leone,SLE,Number of people using drinking water services if only population grows,2001,1928731.8709018095
+Somalia,SOM,Number of people using drinking water services if only population grows,2001,2173677.0412871563
+South Africa,ZAF,Number of people using drinking water services if only population grows,2001,38498638.30660476
+South Sudan,SSD,Number of people using drinking water services if only population grows,2001,
+Sudan,SDN,Number of people using drinking water services if only population grows,2001,12147776.091481736
+Tanzania,TZA,Number of people using drinking water services if only population grows,2001,9516099.701756246
+Togo,TGO,Number of people using drinking water services if only population grows,2001,2293427.1960699847
+Uganda,UGA,Number of people using drinking water services if only population grows,2001,6463851.084386366
+Zambia,ZMB,Number of people using drinking water services if only population grows,2001,5154732.148813333
+Zimbabwe,ZWE,Number of people using drinking water services if only population grows,2001,8569638.199929016
+Angola,AGO,Number of people using drinking water services if only population grows,2002,7208243.287711906
+Benin,BEN,Number of people using drinking water services if only population grows,2002,4539034.15225596
+Botswana,BWA,Number of people using drinking water services if only population grows,2002,1281869.3832230782
+Burkina Faso,BFA,Number of people using drinking water services if only population grows,2002,7138083.825821506
+Burundi,BDI,Number of people using drinking water services if only population grows,2002,3396515.138113118
+Cabo Verde,CPV,Number of people using drinking water services if only population grows,2002,350290.64973840653
+Cameroon,CMR,Number of people using drinking water services if only population grows,2002,9425037.307434374
+Central African Republic,CAF,Number of people using drinking water services if only population grows,2002,2243654.945727842
+Chad,TCD,Number of people using drinking water services if only population grows,2002,3564927.6168219303
+Comoros,COM,Number of people using drinking water services if only population grows,2002,517930.26026050403
+Equatorial Guinea,GNQ,Number of people using drinking water services if only population grows,2002,336424.0244850744
+Eritrea,ERI,Number of people using drinking water services if only population grows,2002,1161488.2786580725
+Eswatini,SWZ,Number of people using drinking water services if only population grows,2002,542771.4844060467
+Ethiopia,ETH,Number of people using drinking water services if only population grows,2002,12685509.424439907
+Gabon,GAB,Number of people using drinking water services if only population grows,2002,1041837.3477635342
+Ghana,GHA,Number of people using drinking water services if only population grows,2002,12926156.939434672
+Guinea,GIN,Number of people using drinking water services if only population grows,2002,4568436.132431739
+Guinea-Bissau,GNB,Number of people using drinking water services if only population grows,2002,702415.8983441369
+Kenya,KEN,Number of people using drinking water services if only population grows,2002,15952175.753409443
+Lesotho,LSO,Number of people using drinking water services if only population grows,2002,1344293.900255197
+Liberia,LBR,Number of people using drinking water services if only population grows,2002,1865163.7305794088
+Madagascar,MDG,Number of people using drinking water services if only population grows,2002,6080200.487024591
+Malawi,MWI,Number of people using drinking water services if only population grows,2002,6302185.786045045
+Mali,MLI,Number of people using drinking water services if only population grows,2002,5745484.78908574
+Mauritania,MRT,Number of people using drinking water services if only population grows,2002,1138895.52433444
+Mauritius,MUS,Number of people using drinking water services if only population grows,2002,1195945.0298466494
+Mozambique,MOZ,Number of people using drinking water services if only population grows,2002,3959063.377594562
+Namibia,NAM,Number of people using drinking water services if only population grows,2002,1413927.3085368734
+Niger,NER,Number of people using drinking water services if only population grows,2002,4491598.106595043
+Nigeria,NGA,Number of people using drinking water services if only population grows,2002,55489256.47920453
+Rwanda,RWA,Number of people using drinking water services if only population grows,2002,3804733.4961678116
+Senegal,SEN,Number of people using drinking water services if only population grows,2002,6131652.957819391
+Seychelles,SYC,Number of people using drinking water services if only population grows,2002,78083.9235613177
+Sierra Leone,SLE,Number of people using drinking water services if only population grows,2002,2014619.2372403678
+Somalia,SOM,Number of people using drinking water services if only population grows,2002,2248118.588483887
+South Africa,ZAF,Number of people using drinking water services if only population grows,2002,38988319.376000375
+South Sudan,SSD,Number of people using drinking water services if only population grows,2002,
+Sudan,SDN,Number of people using drinking water services if only population grows,2002,12466424.266820315
+Tanzania,TZA,Number of people using drinking water services if only population grows,2002,9778714.045438275
+Togo,TGO,Number of people using drinking water services if only population grows,2002,2354343.8452643044
+Uganda,UGA,Number of people using drinking water services if only population grows,2002,6670121.8061032295
+Zambia,ZMB,Number of people using drinking water services if only population grows,2002,5289483.100251879
+Zimbabwe,ZWE,Number of people using drinking water services if only population grows,2002,8591477.15068737
+Angola,AGO,Number of people using drinking water services if only population grows,2003,7455956.296531978
+Benin,BEN,Number of people using drinking water services if only population grows,2003,4679121.162369914
+Botswana,BWA,Number of people using drinking water services if only population grows,2003,1304241.0753492531
+Burkina Faso,BFA,Number of people using drinking water services if only population grows,2003,7348007.332591018
+Burundi,BDI,Number of people using drinking water services if only population grows,2003,3500396.3128573764
+Cabo Verde,CPV,Number of people using drinking water services if only population grows,2003,355802.5546241775
+Cameroon,CMR,Number of people using drinking water services if only population grows,2003,9680440.206394374
+Central African Republic,CAF,Number of people using drinking water services if only population grows,2003,2290306.27854413
+Chad,TCD,Number of people using drinking water services if only population grows,2003,3705120.7422217955
+Comoros,COM,Number of people using drinking water services if only population grows,2003,530420.1392099974
+Equatorial Guinea,GNQ,Number of people using drinking water services if only population grows,2003,350875.600547346
+Eritrea,ERI,Number of people using drinking water services if only population grows,2003,1217624.6075235794
+Eswatini,SWZ,Number of people using drinking water services if only population grows,2003,544764.5592525684
+Ethiopia,ETH,Number of people using drinking water services if only population grows,2003,13052371.057703067
+Gabon,GAB,Number of people using drinking water services if only population grows,2003,1067420.9156422645
+Ghana,GHA,Number of people using drinking water services if only population grows,2003,13247888.794992583
+Guinea,GIN,Number of people using drinking water services if only population grows,2003,4657303.2836160045
+Guinea-Bissau,GNB,Number of people using drinking water services if only population grows,2003,718566.1770757124
+Kenya,KEN,Number of people using drinking water services if only population grows,2003,16390322.723630238
+Lesotho,LSO,Number of people using drinking water services if only population grows,2003,1336693.044079302
+Liberia,LBR,Number of people using drinking water services if only population grows,2003,1897431.2005671992
+Madagascar,MDG,Number of people using drinking water services if only population grows,2003,6266618.838989995
+Malawi,MWI,Number of people using drinking water services if only population grows,2003,6456339.2964727925
+Mali,MLI,Number of people using drinking water services if only population grows,2003,5926403.247194335
+Mauritania,MRT,Number of people using drinking water services if only population grows,2003,1171303.718823405
+Mauritius,MUS,Number of people using drinking water services if only population grows,2003,1204631.0174445151
+Mozambique,MOZ,Number of people using drinking water services if only population grows,2003,4078684.641589522
+Namibia,NAM,Number of people using drinking water services if only population grows,2003,1434999.6875682345
+Niger,NER,Number of people using drinking water services if only population grows,2003,4660353.766964028
+Nigeria,NGA,Number of people using drinking water services if only population grows,2003,56915173.20520858
+Rwanda,RWA,Number of people using drinking water services if only population grows,2003,3863471.8894365844
+Senegal,SEN,Number of people using drinking water services if only population grows,2003,6285351.9081046535
+Seychelles,SYC,Number of people using drinking water services if only population grows,2003,77205.3710011519
+Sierra Leone,SLE,Number of people using drinking water services if only population grows,2003,2110082.3708530013
+Somalia,SOM,Number of people using drinking water services if only population grows,2003,2322432.6024530027
+South Africa,ZAF,Number of people using drinking water services if only population grows,2003,39468411.11369119
+South Sudan,SSD,Number of people using drinking water services if only population grows,2003,
+Sudan,SDN,Number of people using drinking water services if only population grows,2003,12794636.547434023
+Tanzania,TZA,Number of people using drinking water services if only population grows,2003,10056285.60714859
+Togo,TGO,Number of people using drinking water services if only population grows,2003,2414861.8401123355
+Uganda,UGA,Number of people using drinking water services if only population grows,2003,6885668.3720643995
+Zambia,ZMB,Number of people using drinking water services if only population grows,2003,5426899.594988102
+Zimbabwe,ZWE,Number of people using drinking water services if only population grows,2003,8611547.395821072
+Angola,AGO,Number of people using drinking water services if only population grows,2004,7717906.05877853
+Benin,BEN,Number of people using drinking water services if only population grows,2004,4821877.936382672
+Botswana,BWA,Number of people using drinking water services if only population grows,2004,1327662.5450286432
+Burkina Faso,BFA,Number of people using drinking water services if only population grows,2004,7566306.829494462
+Burundi,BDI,Number of people using drinking water services if only population grows,2004,3613135.4269569344
+Cabo Verde,CPV,Number of people using drinking water services if only population grows,2004,361096.1975661217
+Cameroon,CMR,Number of people using drinking water services if only population grows,2004,9944594.80779875
+Central African Republic,CAF,Number of people using drinking water services if only population grows,2004,2336746.3538069343
+Chad,TCD,Number of people using drinking water services if only population grows,2004,3847749.056522264
+Comoros,COM,Number of people using drinking water services if only population grows,2004,543168.3102749541
+Equatorial Guinea,GNQ,Number of people using drinking water services if only population grows,2004,366347.6064730062
+Eritrea,ERI,Number of people using drinking water services if only population grows,2004,1273257.2154425725
+Eswatini,SWZ,Number of people using drinking water services if only population grows,2004,546623.9457542273
+Ethiopia,ETH,Number of people using drinking water services if only population grows,2004,13426545.721688386
+Gabon,GAB,Number of people using drinking water services if only population grows,2004,1094788.4432738232
+Ghana,GHA,Number of people using drinking water services if only population grows,2004,13581168.807451291
+Guinea,GIN,Number of people using drinking water services if only population grows,2004,4749156.43918565
+Guinea-Bissau,GNB,Number of people using drinking water services if only population grows,2004,735473.4913738064
+Kenya,KEN,Number of people using drinking water services if only population grows,2004,16842389.19680397
+Lesotho,LSO,Number of people using drinking water services if only population grows,2004,1328479.5894924372
+Liberia,LBR,Number of people using drinking water services if only population grows,2004,1933565.6118539774
+Madagascar,MDG,Number of people using drinking water services if only population grows,2004,6456604.409374111
+Malawi,MWI,Number of people using drinking water services if only population grows,2004,6618635.202638406
+Mali,MLI,Number of people using drinking water services if only population grows,2004,6117502.145928478
+Mauritania,MRT,Number of people using drinking water services if only population grows,2004,1204959.4072193683
+Mauritius,MUS,Number of people using drinking water services if only population grows,2004,1212209.0427427785
+Mozambique,MOZ,Number of people using drinking water services if only population grows,2004,4200943.713226187
+Namibia,NAM,Number of people using drinking water services if only population grows,2004,1456858.6343462903
+Niger,NER,Number of people using drinking water services if only population grows,2004,4836455.168760574
+Nigeria,NGA,Number of people using drinking water services if only population grows,2004,58390812.151074044
+Rwanda,RWA,Number of people using drinking water services if only population grows,2004,3919165.885855179
+Senegal,SEN,Number of people using drinking water services if only population grows,2004,6445514.208822432
+Seychelles,SYC,Number of people using drinking water services if only population grows,2004,76919.9813160025
+Sierra Leone,SLE,Number of people using drinking water services if only population grows,2004,2204578.718319208
+Somalia,SOM,Number of people using drinking water services if only population grows,2004,2396926.9138607867
+South Africa,ZAF,Number of people using drinking water services if only population grows,2004,39951980.89548636
+South Sudan,SSD,Number of people using drinking water services if only population grows,2004,
+Sudan,SDN,Number of people using drinking water services if only population grows,2004,13121954.608959477
+Tanzania,TZA,Number of people using drinking water services if only population grows,2004,10344650.210158205
+Togo,TGO,Number of people using drinking water services if only population grows,2004,2476988.9488672023
+Uganda,UGA,Number of people using drinking water services if only population grows,2004,7108494.563553681
+Zambia,ZMB,Number of people using drinking water services if only population grows,2004,5568589.926102315
+Zimbabwe,ZWE,Number of people using drinking water services if only population grows,2004,8638636.405331187
+Angola,AGO,Number of people using drinking water services if only population grows,2005,7995821.869713438
+Benin,BEN,Number of people using drinking water services if only population grows,2005,4966360.0087621
+Botswana,BWA,Number of people using drinking water services if only population grows,2005,1352887.2858918502
+Burkina Faso,BFA,Number of people using drinking water services if only population grows,2005,7793552.522584632
+Burundi,BDI,Number of people using drinking water services if only population grows,2005,3731266.109954862
+Cabo Verde,CPV,Number of people using drinking water services if only population grows,2005,366169.2061518062
+Cameroon,CMR,Number of people using drinking water services if only population grows,2005,10217756.93862
+Central African Republic,CAF,Number of people using drinking water services if only population grows,2005,2383067.8179852404
+Chad,TCD,Number of people using drinking water services if only population grows,2005,3990780.9299637033
+Comoros,COM,Number of people using drinking water services if only population grows,2005,556260.264507675
+Equatorial Guinea,GNQ,Number of people using drinking water services if only population grows,2005,382994.3586460026
+Eritrea,ERI,Number of people using drinking water services if only population grows,2005,1323275.3946333707
+Eswatini,SWZ,Number of people using drinking water services if only population grows,2005,548907.8326975425
+Ethiopia,ETH,Number of people using drinking water services if only population grows,2005,13807570.248137895
+Gabon,GAB,Number of people using drinking water services if only population grows,2005,1124517.3319562702
+Ghana,GHA,Number of people using drinking water services if only population grows,2005,13927409.21271662
+Guinea,GIN,Number of people using drinking water services if only population grows,2005,4846981.603526056
+Guinea-Bissau,GNB,Number of people using drinking water services if only population grows,2005,753077.3679831051
+Kenya,KEN,Number of people using drinking water services if only population grows,2005,17310120.605153825
+Lesotho,LSO,Number of people using drinking water services if only population grows,2005,1321964.1914739262
+Liberia,LBR,Number of people using drinking water services if only population grows,2005,1984413.6392044052
+Madagascar,MDG,Number of people using drinking water services if only population grows,2005,6650172.067631512
+Malawi,MWI,Number of people using drinking water services if only population grows,2005,6793014.501553905
+Mali,MLI,Number of people using drinking water services if only population grows,2005,6318514.906513532
+Mauritania,MRT,Number of people using drinking water services if only population grows,2005,1239785.9278855866
+Mauritius,MUS,Number of people using drinking water services if only population grows,2005,1219407.819296913
+Mozambique,MOZ,Number of people using drinking water services if only population grows,2005,4324031.134950945
+Namibia,NAM,Number of people using drinking water services if only population grows,2005,1480210.532527054
+Niger,NER,Number of people using drinking water services if only population grows,2005,5020157.65903571
+Nigeria,NGA,Number of people using drinking water services if only population grows,2005,59920305.79590476
+Rwanda,RWA,Number of people using drinking water services if only population grows,2005,3991270.639608828
+Senegal,SEN,Number of people using drinking water services if only population grows,2005,6612486.281245908
+Seychelles,SYC,Number of people using drinking water services if only population grows,2005,77277.1847454542
+Sierra Leone,SLE,Number of people using drinking water services if only population grows,2005,2290438.9026721134
+Somalia,SOM,Number of people using drinking water services if only population grows,2005,2471839.0799623863
+South Africa,ZAF,Number of people using drinking water services if only population grows,2005,40449555.78176594
+South Sudan,SSD,Number of people using drinking water services if only population grows,2005,
+Sudan,SDN,Number of people using drinking water services if only population grows,2005,13441304.609478543
+Tanzania,TZA,Number of people using drinking water services if only population grows,2005,10640921.13103653
+Togo,TGO,Number of people using drinking water services if only population grows,2005,2542165.763371172
+Uganda,UGA,Number of people using drinking water services if only population grows,2005,7337293.774321625
+Zambia,ZMB,Number of people using drinking water services if only population grows,2005,5715921.817655922
+Zimbabwe,ZWE,Number of people using drinking water services if only population grows,2005,8679448.155677188
+Angola,AGO,Number of people using drinking water services if only population grows,2006,8290538.958787476
+Benin,BEN,Number of people using drinking water services if only population grows,2006,5112366.416157158
+Botswana,BWA,Number of people using drinking water services if only population grows,2006,1380586.0727078344
+Burkina Faso,BFA,Number of people using drinking water services if only population grows,2006,8030018.482387918
+Burundi,BDI,Number of people using drinking water services if only population grows,2006,3854373.93755508
+Cabo Verde,CPV,Number of people using drinking water services if only population grows,2006,371022.3711853753
+Cameroon,CMR,Number of people using drinking water services if only population grows,2006,10500243.501639374
+Central African Republic,CAF,Number of people using drinking water services if only population grows,2006,2430096.22783135
+Chad,TCD,Number of people using drinking water services if only population grows,2006,4133268.5321640885
+Comoros,COM,Number of people using drinking water services if only population grows,2006,569722.3768072746
+Equatorial Guinea,GNQ,Number of people using drinking water services if only population grows,2006,400861.8453926772
+Eritrea,ERI,Number of people using drinking water services if only population grows,2006,1366136.6167328125
+Eswatini,SWZ,Number of people using drinking water services if only population grows,2006,551847.9110387505
+Ethiopia,ETH,Number of people using drinking water services if only population grows,2006,14195122.354413675
+Gabon,GAB,Number of people using drinking water services if only population grows,2006,1156536.4173839618
+Ghana,GHA,Number of people using drinking water services if only population grows,2006,14287752.185307339
+Guinea,GIN,Number of people using drinking water services if only population grows,2006,4952245.175084494
+Guinea-Bissau,GNB,Number of people using drinking water services if only population grows,2006,771359.8889020344
+Kenya,KEN,Number of people using drinking water services if only population grows,2006,17794163.51008823
+Lesotho,LSO,Number of people using drinking water services if only population grows,2006,1317870.0472829894
+Liberia,LBR,Number of people using drinking water services if only population grows,2006,2052920.34905828
+Madagascar,MDG,Number of people using drinking water services if only population grows,2006,6847298.60290628
+Malawi,MWI,Number of people using drinking water services if only population grows,2006,6980107.21472114
+Mali,MLI,Number of people using drinking water services if only population grows,2006,6530130.479289148
+Mauritania,MRT,Number of people using drinking water services if only population grows,2006,1275743.1052049438
+Mauritius,MUS,Number of people using drinking water services if only population grows,2006,1225108.464031962
+Mozambique,MOZ,Number of people using drinking water services if only population grows,2006,4447709.964036102
+Namibia,NAM,Number of people using drinking water services if only population grows,2006,1505412.774057567
+Niger,NER,Number of people using drinking water services if only population grows,2006,5211573.988435344
+Nigeria,NGA,Number of people using drinking water services if only population grows,2006,61505332.24466417
+Rwanda,RWA,Number of people using drinking water services if only population grows,2006,4082978.1847670507
+Senegal,SEN,Number of people using drinking water services if only population grows,2006,6786680.134152654
+Seychelles,SYC,Number of people using drinking water services if only population grows,2006,78901.85412954
+Sierra Leone,SLE,Number of people using drinking water services if only population grows,2006,2364930.120100416
+Somalia,SOM,Number of people using drinking water services if only population grows,2006,2546856.0646536574
+South Africa,ZAF,Number of people using drinking water services if only population grows,2006,40963928.68334095
+South Sudan,SSD,Number of people using drinking water services if only population grows,2006,
+Sudan,SDN,Number of people using drinking water services if only population grows,2006,13750659.247046605
+Tanzania,TZA,Number of people using drinking water services if only population grows,2006,10944881.678723633
+Togo,TGO,Number of people using drinking water services if only population grows,2006,2610679.0429437906
+Uganda,UGA,Number of people using drinking water services if only population grows,2006,7572346.4079000605
+Zambia,ZMB,Number of people using drinking water services if only population grows,2006,5868880.324479411
+Zimbabwe,ZWE,Number of people using drinking water services if only population grows,2006,8736080.514278153
+Angola,AGO,Number of people using drinking water services if only population grows,2007,8601365.690184513
+Benin,BEN,Number of people using drinking water services if only population grows,2007,5260380.590529946
+Botswana,BWA,Number of people using drinking water services if only population grows,2007,1410325.0074477957
+Burkina Faso,BFA,Number of people using drinking water services if only population grows,2007,8275553.157193753
+Burundi,BDI,Number of people using drinking water services if only population grows,2007,3983248.747749748
+Cabo Verde,CPV,Number of people using drinking water services if only population grows,2007,375684.95242016815
+Cameroon,CMR,Number of people using drinking water services if only population grows,2007,10792143.229635624
+Central African Republic,CAF,Number of people using drinking water services if only population grows,2007,2477262.722223592
+Chad,TCD,Number of people using drinking water services if only population grows,2007,4275920.957245751
+Comoros,COM,Number of people using drinking water services if only population grows,2007,583543.7334223952
+Equatorial Guinea,GNQ,Number of people using drinking water services if only population grows,2007,419866.2657628068
+Eritrea,ERI,Number of people using drinking water services if only population grows,2007,1402806.6589831442
+Eswatini,SWZ,Number of people using drinking water services if only population grows,2007,555339.7866918229
+Ethiopia,ETH,Number of people using drinking water services if only population grows,2007,14590314.295410896
+Gabon,GAB,Number of people using drinking water services if only population grows,2007,1190841.656130441
+Ghana,GHA,Number of people using drinking water services if only population grows,2007,14661170.470443849
+Guinea,GIN,Number of people using drinking water services if only population grows,2007,5064373.577109819
+Guinea-Bissau,GNB,Number of people using drinking water services if only population grows,2007,790377.0478855141
+Kenya,KEN,Number of people using drinking water services if only population grows,2007,18293686.55084884
+Lesotho,LSO,Number of people using drinking water services if only population grows,2007,1315878.6057459223
+Liberia,LBR,Number of people using drinking water services if only population grows,2007,2134748.30478714
+Madagascar,MDG,Number of people using drinking water services if only population grows,2007,7047947.385566425
+Malawi,MWI,Number of people using drinking water services if only population grows,2007,7178160.472752379
+Mali,MLI,Number of people using drinking water services if only population grows,2007,6751740.530502439
+Mauritania,MRT,Number of people using drinking water services if only population grows,2007,1312886.6930950703
+Mauritius,MUS,Number of people using drinking water services if only population grows,2007,1230701.886608985
+Mozambique,MOZ,Number of people using drinking water services if only population grows,2007,4572872.058816443
+Namibia,NAM,Number of people using drinking water services if only population grows,2007,1532292.008570354
+Niger,NER,Number of people using drinking water services if only population grows,2007,5411074.465453393
+Nigeria,NGA,Number of people using drinking water services if only population grows,2007,63145752.554231085
+Rwanda,RWA,Number of people using drinking water services if only population grows,2007,4187009.1485854564
+Senegal,SEN,Number of people using drinking water services if only population grows,2007,6968420.723814413
+Seychelles,SYC,Number of people using drinking water services if only population grows,2007,79305.6898604867
+Sierra Leone,SLE,Number of people using drinking water services if only population grows,2007,2430005.0108570545
+Somalia,SOM,Number of people using drinking water services if only population grows,2007,2621676.662371052
+South Africa,ZAF,Number of people using drinking water services if only population grows,2007,41496408.19635365
+South Sudan,SSD,Number of people using drinking water services if only population grows,2007,
+Sudan,SDN,Number of people using drinking water services if only population grows,2007,14054144.350385563
+Tanzania,TZA,Number of people using drinking water services if only population grows,2007,11258364.17953856
+Togo,TGO,Number of people using drinking water services if only population grows,2007,2682019.597260936
+Uganda,UGA,Number of people using drinking water services if only population grows,2007,7814813.303106955
+Zambia,ZMB,Number of people using drinking water services if only population grows,2007,6027704.087182724
+Zimbabwe,ZWE,Number of people using drinking water services if only population grows,2007,8808254.627910856
+Angola,AGO,Number of people using drinking water services if only population grows,2008,8926519.281042371
+Benin,BEN,Number of people using drinking water services if only population grows,2008,5411025.331615421
+Botswana,BWA,Number of people using drinking water services if only population grows,2008,1440538.447657727
+Burkina Faso,BFA,Number of people using drinking water services if only population grows,2008,8529704.795159902
+Burundi,BDI,Number of people using drinking water services if only population grows,2008,4116937.5673103547
+Cabo Verde,CPV,Number of people using drinking water services if only population grows,2008,380255.0095700778
+Cameroon,CMR,Number of people using drinking water services if only population grows,2008,11093138.06745375
+Central African Republic,CAF,Number of people using drinking water services if only population grows,2008,2521735.387756464
+Chad,TCD,Number of people using drinking water services if only population grows,2008,4420410.940061371
+Comoros,COM,Number of people using drinking water services if only population grows,2008,597734.3386251146
+Equatorial Guinea,GNQ,Number of people using drinking water services if only population grows,2008,439872.72066578816
+Eritrea,ERI,Number of people using drinking water services if only population grows,2008,1433817.3308594953
+Eswatini,SWZ,Number of people using drinking water services if only population grows,2008,559226.3359048292
+Ethiopia,ETH,Number of people using drinking water services if only population grows,2008,14995770.630973263
+Gabon,GAB,Number of people using drinking water services if only population grows,2008,1228019.3450319732
+Ghana,GHA,Number of people using drinking water services if only population grows,2008,15044163.485182373
+Guinea,GIN,Number of people using drinking water services if only population grows,2008,5181768.988652407
+Guinea-Bissau,GNB,Number of people using drinking water services if only population grows,2008,810193.7976892513
+Kenya,KEN,Number of people using drinking water services if only population grows,2008,18806989.195310265
+Lesotho,LSO,Number of people using drinking water services if only population grows,2008,1316013.708530612
+Liberia,LBR,Number of people using drinking water services if only population grows,2008,2224747.9565922534
+Madagascar,MDG,Number of people using drinking water services if only population grows,2008,7252114.4262460815
+Malawi,MWI,Number of people using drinking water services if only population grows,2008,7385885.17956014
+Mali,MLI,Number of people using drinking water services if only population grows,2008,6980297.456425528
+Mauritania,MRT,Number of people using drinking water services if only population grows,2008,1351309.751403778
+Mauritius,MUS,Number of people using drinking water services if only population grows,2008,1235160.5413468995
+Mozambique,MOZ,Number of people using drinking water services if only population grows,2008,4700157.987521069
+Namibia,NAM,Number of people using drinking water services if only population grows,2008,1560445.024637983
+Niger,NER,Number of people using drinking water services if only population grows,2008,5619445.396881911
+Nigeria,NGA,Number of people using drinking water services if only population grows,2008,64841398.43945876
+Rwanda,RWA,Number of people using drinking water services if only population grows,2008,4300230.6421802575
+Senegal,SEN,Number of people using drinking water services if only population grows,2008,7157802.853987531
+Seychelles,SYC,Number of people using drinking water services if only population grows,2008,81099.16817598439
+Sierra Leone,SLE,Number of people using drinking water services if only population grows,2008,2488408.955492961
+Somalia,SOM,Number of people using drinking water services if only population grows,2008,2696697.9060569373
+South Africa,ZAF,Number of people using drinking water services if only population grows,2008,42053728.22645281
+South Sudan,SSD,Number of people using drinking water services if only population grows,2008,
+Sudan,SDN,Number of people using drinking water services if only population grows,2008,14358250.499521608
+Tanzania,TZA,Number of people using drinking water services if only population grows,2008,11582855.028989473
+Togo,TGO,Number of people using drinking water services if only population grows,2008,2755887.0765139842
+Uganda,UGA,Number of people using drinking water services if only population grows,2008,8065374.001204703
+Zambia,ZMB,Number of people using drinking water services if only population grows,2008,6194305.605361061
+Zimbabwe,ZWE,Number of people using drinking water services if only population grows,2008,8897108.907672187
+Angola,AGO,Number of people using drinking water services if only population grows,2009,9263342.63195558
+Benin,BEN,Number of people using drinking water services if only population grows,2009,5565199.685984027
+Botswana,BWA,Number of people using drinking water services if only population grows,2009,1469008.0238662937
+Burkina Faso,BFA,Number of people using drinking water services if only population grows,2009,8791798.091154601
+Burundi,BDI,Number of people using drinking water services if only population grows,2009,4254516.807616177
+Cabo Verde,CPV,Number of people using drinking water services if only population grows,2009,384858.28049404814
+Cameroon,CMR,Number of people using drinking water services if only population grows,2009,11402693.31367375
+Central African Republic,CAF,Number of people using drinking water services if only population grows,2009,2559652.5779774543
+Chad,TCD,Number of people using drinking water services if only population grows,2009,4569246.79237255
+Comoros,COM,Number of people using drinking water services if only population grows,2009,612307.8346046299
+Equatorial Guinea,GNQ,Number of people using drinking water services if only population grows,2009,460695.2128706381
+Eritrea,ERI,Number of people using drinking water services if only population grows,2009,1460566.036660512
+Eswatini,SWZ,Number of people using drinking water services if only population grows,2009,563228.4642845099
+Ethiopia,ETH,Number of people using drinking water services if only population grows,2009,15414934.649060005
+Gabon,GAB,Number of people using drinking water services if only population grows,2009,1268766.570809745
+Ghana,GHA,Number of people using drinking water services if only population grows,2009,15431769.250562662
+Guinea,GIN,Number of people using drinking water services if only population grows,2009,5301844.461508101
+Guinea-Bissau,GNB,Number of people using drinking water services if only population grows,2009,830902.528008864
+Kenya,KEN,Number of people using drinking water services if only population grows,2009,19331523.48108008
+Lesotho,LSO,Number of people using drinking water services if only population grows,2009,1318003.825530574
+Liberia,LBR,Number of people using drinking water services if only population grows,2009,2314941.2329497323
+Madagascar,MDG,Number of people using drinking water services if only population grows,2009,7459793.196892026
+Malawi,MWI,Number of people using drinking water services if only population grows,2009,7601234.168778454
+Mali,MLI,Number of people using drinking water services if only population grows,2009,7211686.349071406
+Mauritania,MRT,Number of people using drinking water services if only population grows,2009,1391145.5155959937
+Mauritius,MUS,Number of people using drinking water services if only population grows,2009,1238444.7163353255
+Mozambique,MOZ,Number of people using drinking water services if only population grows,2009,4830576.075435511
+Namibia,NAM,Number of people using drinking water services if only population grows,2009,1589202.0941887533
+Niger,NER,Number of people using drinking water services if only population grows,2009,5837657.691060666
+Nigeria,NGA,Number of people using drinking water services if only population grows,2009,66591269.25097454
+Rwanda,RWA,Number of people using drinking water services if only population grows,2009,4416822.508381698
+Senegal,SEN,Number of people using drinking water services if only population grows,2009,7354799.097170171
+Seychelles,SYC,Number of people using drinking water services if only population grows,2009,81418.1331182102
+Sierra Leone,SLE,Number of people using drinking water services if only population grows,2009,2544856.608564424
+Somalia,SOM,Number of people using drinking water services if only population grows,2009,2772532.3811033233
+South Africa,ZAF,Number of people using drinking water services if only population grows,2009,42643011.287567005
+South Sudan,SSD,Number of people using drinking water services if only population grows,2009,
+Sudan,SDN,Number of people using drinking water services if only population grows,2009,14672219.550791794
+Tanzania,TZA,Number of people using drinking water services if only population grows,2009,11920451.951513521
+Togo,TGO,Number of people using drinking water services if only population grows,2009,2831732.4249441843
+Uganda,UGA,Number of people using drinking water services if only population grows,2009,8324935.970712187
+Zambia,ZMB,Number of people using drinking water services if only population grows,2009,6371049.590512907
+Zimbabwe,ZWE,Number of people using drinking water services if only population grows,2009,9003052.290376626
+Angola,AGO,Number of people using drinking water services if only population grows,2010,9609766.184235763
+Benin,BEN,Number of people using drinking water services if only population grows,2010,5723569.38362218
+Botswana,BWA,Number of people using drinking water services if only population grows,2010,1494283.148036138
+Burkina Faso,BFA,Number of people using drinking water services if only population grows,2010,9061288.968730323
+Burundi,BDI,Number of people using drinking water services if only population grows,2010,4395332.407828293
+Cabo Verde,CPV,Number of people using drinking water services if only population grows,2010,389584.9168645292
+Cameroon,CMR,Number of people using drinking water services if only population grows,2010,11720353.204477498
+Central African Republic,CAF,Number of people using drinking water services if only population grows,2010,2588651.51287497
+Chad,TCD,Number of people using drinking water services if only population grows,2010,4724185.043878085
+Comoros,COM,Number of people using drinking water services if only population grows,2010,627264.2213609408
+Equatorial Guinea,GNQ,Number of people using drinking water services if only population grows,2010,482182.49188183196
+Eritrea,ERI,Number of people using drinking water services if only population grows,2010,1484215.173328753
+Eswatini,SWZ,Number of people using drinking water services if only population grows,2010,567158.6885743239
+Ethiopia,ETH,Number of people using drinking water services if only population grows,2010,15850077.51991073
+Gabon,GAB,Number of people using drinking water services if only population grows,2010,1313422.9812861443
+Ghana,GHA,Number of people using drinking water services if only population grows,2010,15820370.987015776
+Guinea,GIN,Number of people using drinking water services if only population grows,2010,5422996.853978193
+Guinea-Bissau,GNB,Number of people using drinking water services if only population grows,2010,852562.5922245677
+Kenya,KEN,Number of people using drinking water services if only population grows,2010,19865071.815959215
+Lesotho,LSO,Number of people using drinking water services if only population grows,2010,1321606.5664556301
+Liberia,LBR,Number of people using drinking water services if only population grows,2010,2399561.328720343
+Madagascar,MDG,Number of people using drinking water services if only population grows,2010,7671057.319437868
+Malawi,MWI,Number of people using drinking water services if only population grows,2010,7822601.450498669
+Mali,MLI,Number of people using drinking water services if only population grows,2010,7443112.829819088
+Mauritania,MRT,Number of people using drinking water services if only population grows,2010,1432465.72784514
+Mauritius,MUS,Number of people using drinking water services if only population grows,2010,1241394.3184788001
+Mozambique,MOZ,Number of people using drinking water services if only population grows,2010,4964945.389050338
+Namibia,NAM,Number of people using drinking water services if only population grows,2010,1618097.3858387005
+Niger,NER,Number of people using drinking water services if only population grows,2010,6066436.1209324775
+Nigeria,NGA,Number of people using drinking water services if only population grows,2010,68394191.7392553
+Rwanda,RWA,Number of people using drinking water services if only population grows,2010,4532660.386337581
+Senegal,SEN,Number of people using drinking water services if only population grows,2010,7559343.269607905
+Seychelles,SYC,Number of people using drinking water services if only population grows,2010,83723.634104123
+Sierra Leone,SLE,Number of people using drinking water services if only population grows,2010,2602831.726949062
+Somalia,SOM,Number of people using drinking water services if only population grows,2010,2849713.6448910437
+South Africa,ZAF,Number of people using drinking water services if only population grows,2010,43268124.876881026
+South Sudan,SSD,Number of people using drinking water services if only population grows,2010,
+Sudan,SDN,Number of people using drinking water services if only population grows,2010,15002822.206277642
+Tanzania,TZA,Number of people using drinking water services if only population grows,2010,12272665.419403309
+Togo,TGO,Number of people using drinking water services if only population grows,2010,2909123.0119825527
+Uganda,UGA,Number of people using drinking water services if only population grows,2010,8594491.225258552
+Zambia,ZMB,Number of people using drinking water services if only population grows,2010,6559476.359302407
+Zimbabwe,ZWE,Number of people using drinking water services if only population grows,2010,9125779.331127591
+Angola,AGO,Number of people using drinking water services if only population grows,2011,9965422.930656273
+Benin,BEN,Number of people using drinking water services if only population grows,2011,5886315.478199084
+Botswana,BWA,Number of people using drinking water services if only population grows,2011,1515564.455167928
+Burkina Faso,BFA,Number of people using drinking water services if only population grows,2011,9338090.909860734
+Burundi,BDI,Number of people using drinking water services if only population grows,2011,4538607.702364933
+Cabo Verde,CPV,Number of people using drinking water services if only population grows,2011,394498.9738172094
+Cameroon,CMR,Number of people using drinking water services if only population grows,2011,12045988.674005
+Central African Republic,CAF,Number of people using drinking water services if only population grows,2011,2607460.516393822
+Chad,TCD,Number of people using drinking water services if only population grows,2011,4885787.357202186
+Comoros,COM,Number of people using drinking water services if only population grows,2011,642618.0505625244
+Equatorial Guinea,GNQ,Number of people using drinking water services if only population grows,2011,504267.6191354718
+Eritrea,ERI,Number of people using drinking water services if only population grows,2011,1504594.3371239484
+Eswatini,SWZ,Number of people using drinking water services if only population grows,2011,570987.1818925492
+Ethiopia,ETH,Number of people using drinking water services if only population grows,2011,16302207.507109279
+Gabon,GAB,Number of people using drinking water services if only population grows,2011,1362334.6937658908
+Ghana,GHA,Number of people using drinking water services if only population grows,2011,16208607.534075521
+Guinea,GIN,Number of people using drinking water services if only population grows,2011,5544464.766868909
+Guinea-Bissau,GNB,Number of people using drinking water services if only population grows,2011,875180.1496494032
+Kenya,KEN,Number of people using drinking water services if only population grows,2011,20407458.380617294
+Lesotho,LSO,Number of people using drinking water services if only population grows,2011,1327049.0894192534
+Liberia,LBR,Number of people using drinking water services if only population grows,2011,2477312.685991603
+Madagascar,MDG,Number of people using drinking water services if only population grows,2011,7885877.41764409
+Malawi,MWI,Number of people using drinking water services if only population grows,2011,8049919.772212048
+Mali,MLI,Number of people using drinking water services if only population grows,2011,7673211.8570767315
+Mauritania,MRT,Number of people using drinking water services if only population grows,2011,1475283.9166753483
+Mauritius,MUS,Number of people using drinking water services if only population grows,2011,1243383.885188838
+Mozambique,MOZ,Number of people using drinking water services if only population grows,2011,5103341.2521
+Namibia,NAM,Number of people using drinking water services if only population grows,2011,1646979.695302537
+Niger,NER,Number of people using drinking water services if only population grows,2011,6306213.634238988
+Nigeria,NGA,Number of people using drinking water services if only population grows,2011,70250453.2835516
+Rwanda,RWA,Number of people using drinking water services if only population grows,2011,4647336.580607344
+Senegal,SEN,Number of people using drinking water services if only population grows,2011,7771412.117549179
+Seychelles,SYC,Number of people using drinking water services if only population grows,2011,81551.5015004859
+Sierra Leone,SLE,Number of people using drinking water services if only population grows,2011,2662714.047043459
+Somalia,SOM,Number of people using drinking water services if only population grows,2011,2928367.57437203
+South Africa,ZAF,Number of people using drinking water services if only population grows,2011,43932807.2370866
+South Sudan,SSD,Number of people using drinking water services if only population grows,2011,
+Sudan,SDN,Number of people using drinking water services if only population grows,2011,15352285.110595696
+Tanzania,TZA,Number of people using drinking water services if only population grows,2011,12639902.247292425
+Togo,TGO,Number of people using drinking water services if only population grows,2011,2988067.8979551415
+Uganda,UGA,Number of people using drinking water services if only population grows,2011,8872405.579421058
+Zambia,ZMB,Number of people using drinking water services if only population grows,2011,6760615.682119117
+Zimbabwe,ZWE,Number of people using drinking water services if only population grows,2011,9267070.953345599
+Angola,AGO,Number of people using drinking water services if only population grows,2012,10330481.97432266
+Benin,BEN,Number of people using drinking water services if only population grows,2012,6053323.489044179
+Botswana,BWA,Number of people using drinking water services if only population grows,2012,1533721.2452985663
+Burkina Faso,BFA,Number of people using drinking water services if only population grows,2012,9622228.302177414
+Burundi,BDI,Number of people using drinking water services if only population grows,2012,4684307.733675449
+Cabo Verde,CPV,Number of people using drinking water services if only population grows,2012,399546.6766702763
+Cameroon,CMR,Number of people using drinking water services if only population grows,2012,12379528.851270625
+Central African Republic,CAF,Number of people using drinking water services if only population grows,2012,2617947.860641078
+Chad,TCD,Number of people using drinking water services if only population grows,2012,5053282.977864059
+Comoros,COM,Number of people using drinking water services if only population grows,2012,658340.218872427
+Equatorial Guinea,GNQ,Number of people using drinking water services if only population grows,2012,526919.4247659257
+Eritrea,ERI,Number of people using drinking water services if only population grows,2012,
+Eswatini,SWZ,Number of people using drinking water services if only population grows,2012,574851.8935671515
+Ethiopia,ETH,Number of people using drinking water services if only population grows,2012,16770087.74704132
+Gabon,GAB,Number of people using drinking water services if only population grows,2012,1414938.054600878
+Ghana,GHA,Number of people using drinking water services if only population grows,2012,16597253.961538313
+Guinea,GIN,Number of people using drinking water services if only population grows,2012,5667678.949608666
+Guinea-Bissau,GNB,Number of people using drinking water services if only population grows,2012,898689.1276525651
+Kenya,KEN,Number of people using drinking water services if only population grows,2012,20958169.42340889
+Lesotho,LSO,Number of people using drinking water services if only population grows,2012,1334463.1858633715
+Liberia,LBR,Number of people using drinking water services if only population grows,2012,2550209.246763592
+Madagascar,MDG,Number of people using drinking water services if only population grows,2012,8104447.882428993
+Malawi,MWI,Number of people using drinking water services if only population grows,2012,8283362.376381099
+Mali,MLI,Number of people using drinking water services if only population grows,2012,7903141.737876255
+Mauritania,MRT,Number of people using drinking water services if only population grows,2012,1519521.7806287687
+Mauritius,MUS,Number of people using drinking water services if only population grows,2012,1246836.835796379
+Mozambique,MOZ,Number of people using drinking water services if only population grows,2012,5245796.579157535
+Namibia,NAM,Number of people using drinking water services if only population grows,2012,1676059.0285320505
+Niger,NER,Number of people using drinking water services if only population grows,2012,6556932.381792588
+Nigeria,NGA,Number of people using drinking water services if only population grows,2012,72159291.42269857
+Rwanda,RWA,Number of people using drinking water services if only population grows,2012,4763069.261400823
+Senegal,SEN,Number of people using drinking water services if only population grows,2012,7990937.072239401
+Seychelles,SYC,Number of people using drinking water services if only population grows,2012,82355.4423782597
+Sierra Leone,SLE,Number of people using drinking water services if only population grows,2012,2723304.7215699423
+Somalia,SOM,Number of people using drinking water services if only population grows,2012,3008621.702773895
+South Africa,ZAF,Number of people using drinking water services if only population grows,2012,44633062.46130647
+South Sudan,SSD,Number of people using drinking water services if only population grows,2012,
+Sudan,SDN,Number of people using drinking water services if only population grows,2012,15718878.021469316
+Tanzania,TZA,Number of people using drinking water services if only population grows,2012,13021675.087854508
+Togo,TGO,Number of people using drinking water services if only population grows,2012,3068645.0016659987
+Uganda,UGA,Number of people using drinking water services if only population grows,2012,9159150.78961432
+Zambia,ZMB,Number of people using drinking water services if only population grows,2012,6973680.286001361
+Zimbabwe,ZWE,Number of people using drinking water services if only population grows,2012,9425777.246831771
+Angola,AGO,Number of people using drinking water services if only population grows,2013,10704015.099648252
+Benin,BEN,Number of people using drinking water services if only population grows,2013,6224633.857698696
+Botswana,BWA,Number of people using drinking water services if only population grows,2013,1551017.0072784664
+Burkina Faso,BFA,Number of people using drinking water services if only population grows,2013,9913450.882127667
+Burundi,BDI,Number of people using drinking water services if only population grows,2013,4833414.352964978
+Cabo Verde,CPV,Number of people using drinking water services if only population grows,2013,404686.112804082
+Cameroon,CMR,Number of people using drinking water services if only population grows,2013,12720650.4954375
+Central African Republic,CAF,Number of people using drinking water services if only population grows,2013,2624754.13053461
+Chad,TCD,Number of people using drinking water services if only population grows,2013,5225491.268102607
+Comoros,COM,Number of people using drinking water services if only population grows,2013,674388.8902437778
+Equatorial Guinea,GNQ,Number of people using drinking water services if only population grows,2013,550026.5148271656
+Eritrea,ERI,Number of people using drinking water services if only population grows,2013,
+Eswatini,SWZ,Number of people using drinking water services if only population grows,2013,578877.4573538997
+Ethiopia,ETH,Number of people using drinking water services if only population grows,2013,17250945.56006492
+Gabon,GAB,Number of people using drinking water services if only population grows,2013,1469437.7824441982
+Ghana,GHA,Number of people using drinking water services if only population grows,2013,16987462.02056785
+Guinea,GIN,Number of people using drinking water services if only population grows,2013,5795796.7347033145
+Guinea-Bissau,GNB,Number of people using drinking water services if only population grows,2013,922922.1049068428
+Kenya,KEN,Number of people using drinking water services if only population grows,2013,21514229.72206348
+Lesotho,LSO,Number of people using drinking water services if only population grows,2013,1343430.3020628672
+Liberia,LBR,Number of people using drinking water services if only population grows,2013,2619689.0124889067
+Madagascar,MDG,Number of people using drinking water services if only population grows,2013,8327351.161208238
+Malawi,MWI,Number of people using drinking water services if only population grows,2013,8521854.29890616
+Mali,MLI,Number of people using drinking water services if only population grows,2013,8135773.510783113
+Mauritania,MRT,Number of people using drinking water services if only population grows,2013,1565003.03893642
+Mauritius,MUS,Number of people using drinking water services if only population grows,2013,1249587.8783879536
+Mozambique,MOZ,Number of people using drinking water services if only population grows,2013,5393084.862689305
+Namibia,NAM,Number of people using drinking water services if only population grows,2013,1705634.739465789
+Niger,NER,Number of people using drinking water services if only population grows,2013,6818203.63179121
+Nigeria,NGA,Number of people using drinking water services if only population grows,2013,74117015.53397769
+Rwanda,RWA,Number of people using drinking water services if only population grows,2013,4881300.939163862
+Senegal,SEN,Number of people using drinking water services if only population grows,2013,8217773.841168918
+Seychelles,SYC,Number of people using drinking water services if only population grows,2013,83890.5777434751
+Sierra Leone,SLE,Number of people using drinking water services if only population grows,2013,2784723.43240564
+Somalia,SOM,Number of people using drinking water services if only population grows,2013,3091015.266136961
+South Africa,ZAF,Number of people using drinking water services if only population grows,2013,45354915.85787813
+South Sudan,SSD,Number of people using drinking water services if only population grows,2013,
+Sudan,SDN,Number of people using drinking water services if only population grows,2013,16100527.60139131
+Tanzania,TZA,Number of people using drinking water services if only population grows,2013,13417447.333215728
+Togo,TGO,Number of people using drinking water services if only population grows,2013,3150601.993034575
+Uganda,UGA,Number of people using drinking water services if only population grows,2013,9460178.822807379
+Zambia,ZMB,Number of people using drinking water services if only population grows,2013,7196123.706905308
+Zimbabwe,ZWE,Number of people using drinking water services if only population grows,2013,9594834.888189485
+Angola,AGO,Number of people using drinking water services if only population grows,2014,11085006.042227421
+Benin,BEN,Number of people using drinking water services if only population grows,2014,6400240.362387058
+Botswana,BWA,Number of people using drinking water services if only population grows,2014,1570619.8735085547
+Burkina Faso,BFA,Number of people using drinking water services if only population grows,2014,10211466.578790352
+Burundi,BDI,Number of people using drinking water services if only population grows,2014,4987429.721649008
+Cabo Verde,CPV,Number of people using drinking water services if only population grows,2014,409854.8086912268
+Cameroon,CMR,Number of people using drinking water services if only population grows,2014,13068985.999279374
+Central African Republic,CAF,Number of people using drinking water services if only population grows,2014,2634329.172609558
+Chad,TCD,Number of people using drinking water services if only population grows,2014,5400641.864164252
+Comoros,COM,Number of people using drinking water services if only population grows,2014,690649.470287322
+Equatorial Guinea,GNQ,Number of people using drinking water services if only population grows,2014,573460.6329868373
+Eritrea,ERI,Number of people using drinking water services if only population grows,2014,
+Eswatini,SWZ,Number of people using drinking water services if only population grows,2014,583233.7799540338
+Ethiopia,ETH,Number of people using drinking water services if only population grows,2014,17740784.60529899
+Gabon,GAB,Number of people using drinking water services if only population grows,2014,1523402.1606246114
+Ghana,GHA,Number of people using drinking water services if only population grows,2014,17381278.55940739
+Guinea,GIN,Number of people using drinking water services if only population grows,2014,5933151.34020605
+Guinea-Bissau,GNB,Number of people using drinking water services if only population grows,2014,947656.7862052037
+Kenya,KEN,Number of people using drinking water services if only population grows,2014,22071972.592804335
+Lesotho,LSO,Number of people using drinking water services if only population grows,2014,1353311.3488646753
+Liberia,LBR,Number of people using drinking water services if only population grows,2014,2688241.353606715
+Madagascar,MDG,Number of people using drinking water services if only population grows,2014,8555339.068111759
+Malawi,MWI,Number of people using drinking water services if only population grows,2014,8764104.829639545
+Mali,MLI,Number of people using drinking water services if only population grows,2014,8375327.92396571
+Mauritania,MRT,Number of people using drinking water services if only population grows,2014,1611490.7374483699
+Mauritius,MUS,Number of people using drinking water services if only population grows,2014,1251852.450077373
+Mozambique,MOZ,Number of people using drinking water services if only population grows,2014,5546146.066944538
+Namibia,NAM,Number of people using drinking water services if only population grows,2014,1736119.9670852688
+Niger,NER,Number of people using drinking water services if only population grows,2014,7089356.038885685
+Nigeria,NGA,Number of people using drinking water services if only population grows,2014,76118794.10767554
+Rwanda,RWA,Number of people using drinking water services if only population grows,2014,5004147.295883695
+Senegal,SEN,Number of people using drinking water services if only population grows,2014,8451689.290572125
+Seychelles,SYC,Number of people using drinking water services if only population grows,2014,85205.6086456341
+Sierra Leone,SLE,Number of people using drinking water services if only population grows,2014,2846867.942828395
+Somalia,SOM,Number of people using drinking water services if only population grows,2014,3176162.032907295
+South Africa,ZAF,Number of people using drinking water services if only population grows,2014,46078959.822427124
+South Sudan,SSD,Number of people using drinking water services if only population grows,2014,
+Sudan,SDN,Number of people using drinking water services if only population grows,2014,16493611.37274385
+Tanzania,TZA,Number of people using drinking water services if only population grows,2014,13826318.456289219
+Togo,TGO,Number of people using drinking water services if only population grows,2014,3233629.0089098923
+Uganda,UGA,Number of people using drinking water services if only population grows,2014,9782725.309267208
+Zambia,ZMB,Number of people using drinking water services if only population grows,2014,7424274.736255844
+Zimbabwe,ZWE,Number of people using drinking water services if only population grows,2014,9764685.248890555
+Angola,AGO,Number of people using drinking water services if only population grows,2015,11472835.168782895
+Benin,BEN,Number of people using drinking water services if only population grows,2015,6580126.204315219
+Botswana,BWA,Number of people using drinking water services if only population grows,2015,1594756.4853463308
+Burkina Faso,BFA,Number of people using drinking water services if only population grows,2015,10516072.161902258
+Burundi,BDI,Number of people using drinking water services if only population grows,2015,5147389.9004677385
+Cabo Verde,CPV,Number of people using drinking water services if only population grows,2015,414966.566679982
+Cameroon,CMR,Number of people using drinking water services if only population grows,2015,13424218.460015
+Central African Republic,CAF,Number of people using drinking water services if only population grows,2015,2651442.214651558
+Chad,TCD,Number of people using drinking water services if only population grows,2015,5577484.167496565
+Comoros,COM,Number of people using drinking water services if only population grows,2015,707061.023891313
+Equatorial Guinea,GNQ,Number of people using drinking water services if only population grows,2015,597120.093945585
+Eritrea,ERI,Number of people using drinking water services if only population grows,2015,
+Eswatini,SWZ,Number of people using drinking water services if only population grows,2015,588035.9079113401
+Ethiopia,ETH,Number of people using drinking water services if only population grows,2015,18236540.84657539
+Gabon,GAB,Number of people using drinking water services if only population grows,2015,1575068.2552068662
+Ghana,GHA,Number of people using drinking water services if only population grows,2015,17780128.58282267
+Guinea,GIN,Number of people using drinking water services if only population grows,2015,6082731.430876797
+Guinea-Bissau,GNB,Number of people using drinking water services if only population grows,2015,972727.4300330844
+Kenya,KEN,Number of people using drinking water services if only population grows,2015,22628864.25221728
+Lesotho,LSO,Number of people using drinking water services if only population grows,2015,1363618.2343456766
+Liberia,LBR,Number of people using drinking water services if only population grows,2015,2757749.4847123125
+Madagascar,MDG,Number of people using drinking water services if only population grows,2015,8788964.674315697
+Malawi,MWI,Number of people using drinking water services if only population grows,2015,9009310.166596819
+Mali,MLI,Number of people using drinking water services if only population grows,2015,8624872.858943686
+Mauritania,MRT,Number of people using drinking water services if only population grows,2015,1658803.6759323168
+Mauritius,MUS,Number of people using drinking water services if only population grows,2015,1253511.4151334974
+Mozambique,MOZ,Number of people using drinking water services if only population grows,2015,5705614.852408453
+Namibia,NAM,Number of people using drinking water services if only population grows,2015,1767792.6829048563
+Niger,NER,Number of people using drinking water services if only population grows,2015,7369936.021229235
+Nigeria,NGA,Number of people using drinking water services if only population grows,2015,78160879.56302394
+Rwanda,RWA,Number of people using drinking water services if only population grows,2015,5133019.237708448
+Senegal,SEN,Number of people using drinking water services if only population grows,2015,8692401.394180156
+Seychelles,SYC,Number of people using drinking water services if only population grows,2015,87126.8594672281
+Sierra Leone,SLE,Number of people using drinking water services if only population grows,2015,2909652.6498684655
+Somalia,SOM,Number of people using drinking water services if only population grows,2015,3264567.640389928
+South Africa,ZAF,Number of people using drinking water services if only population grows,2015,46790438.22272826
+South Sudan,SSD,Number of people using drinking water services if only population grows,2015,
+Sudan,SDN,Number of people using drinking water services if only population grows,2015,16895463.181577068
+Tanzania,TZA,Number of people using drinking water services if only population grows,2015,14247544.567459272
+Togo,TGO,Number of people using drinking water services if only population grows,2015,3317511.772580821
+Uganda,UGA,Number of people using drinking water services if only population grows,2015,10130954.957027039
+Zambia,ZMB,Number of people using drinking water services if only population grows,2015,7655479.883311352
+Zimbabwe,ZWE,Number of people using drinking water services if only population grows,2015,9928498.581047501
+Angola,AGO,Number of people using drinking water services if only population grows,2016,11867039.605850575
+Benin,BEN,Number of people using drinking water services if only population grows,2016,6764359.200836933
+Botswana,BWA,Number of people using drinking water services if only population grows,2016,1624241.2475841525
+Burkina Faso,BFA,Number of people using drinking water services if only population grows,2016,10827150.338568615
+Burundi,BDI,Number of people using drinking water services if only population grows,2016,5313548.711636738
+Cabo Verde,CPV,Number of people using drinking water services if only population grows,2016,420027.713203502
+Cameroon,CMR,Number of people using drinking water services if only population grows,2016,13786163.497844374
+Central African Republic,CAF,Number of people using drinking water services if only population grows,2016,2677708.963871334
+Chad,TCD,Number of people using drinking water services if only population grows,2016,5755622.128874029
+Comoros,COM,Number of people using drinking water services if only population grows,2016,723578.9865710407
+Equatorial Guinea,GNQ,Number of people using drinking water services if only population grows,2016,620934.8932510877
+Eritrea,ERI,Number of people using drinking water services if only population grows,2016,
+Eswatini,SWZ,Number of people using drinking water services if only population grows,2016,593338.7013832727
+Ethiopia,ETH,Number of people using drinking water services if only population grows,2016,18737147.423467025
+Gabon,GAB,Number of people using drinking water services if only population grows,2016,1623744.640266815
+Ghana,GHA,Number of people using drinking water services if only population grows,2016,18184099.557504043
+Guinea,GIN,Number of people using drinking water services if only population grows,2016,6245726.194135602
+Guinea-Bissau,GNB,Number of people using drinking water services if only population grows,2016,998051.7255707529
+Kenya,KEN,Number of people using drinking water services if only population grows,2016,23183353.047448613
+Lesotho,LSO,Number of people using drinking water services if only population grows,2016,1374234.3992406486
+Liberia,LBR,Number of people using drinking water services if only population grows,2016,2828390.9977518185
+Madagascar,MDG,Number of people using drinking water services if only population grows,2016,9028431.800148569
+Malawi,MWI,Number of people using drinking water services if only population grows,2016,9256771.421707185
+Mali,MLI,Number of people using drinking water services if only population grows,2016,8885356.426127031
+Mauritania,MRT,Number of people using drinking water services if only population grows,2016,1706861.9131093044
+Mauritius,MUS,Number of people using drinking water services if only population grows,2016,1254373.1635887434
+Mozambique,MOZ,Number of people using drinking water services if only population grows,2016,5871860.664064304
+Namibia,NAM,Number of people using drinking water services if only population grows,2016,1800739.1802792859
+Niger,NER,Number of people using drinking water services if only population grows,2016,7659965.318325487
+Nigeria,NGA,Number of people using drinking water services if only population grows,2016,80241915.26283981
+Rwanda,RWA,Number of people using drinking water services if only population grows,2016,5268359.224806175
+Senegal,SEN,Number of people using drinking water services if only population grows,2016,8939883.32074121
+Seychelles,SYC,Number of people using drinking water services if only population grows,2016,88300.1281728423
+Sierra Leone,SLE,Number of people using drinking water services if only population grows,2016,2973322.1913967263
+Somalia,SOM,Number of people using drinking water services if only population grows,2016,3356474.6146670566
+South Africa,ZAF,Number of people using drinking water services if only population grows,2016,47484256.06631289
+South Sudan,SSD,Number of people using drinking water services if only population grows,2016,
+Sudan,SDN,Number of people using drinking water services if only population grows,2016,17305650.90161957
+Tanzania,TZA,Number of people using drinking water services if only population grows,2016,14681090.796900151
+Togo,TGO,Number of people using drinking water services if only population grows,2016,3402130.6877434757
+Uganda,UGA,Number of people using drinking water services if only population grows,2016,10508287.470029393
+Zambia,ZMB,Number of people using drinking water services if only population grows,2016,7888855.4546616925
+Zimbabwe,ZWE,Number of people using drinking water services if only population grows,2016,10083517.974958515
+Angola,AGO,Number of people using drinking water services if only population grows,2017,12267903.249155106
+Benin,BEN,Number of people using drinking water services if only population grows,2017,6952953.662036021
+Botswana,BWA,Number of people using drinking water services if only population grows,2017,1658194.3323299987
+Burkina Faso,BFA,Number of people using drinking water services if only population grows,2017,11144704.012078896
+Burundi,BDI,Number of people using drinking water services if only population grows,2017,5485300.730909288
+Cabo Verde,CPV,Number of people using drinking water services if only population grows,2017,425056.4367571057
+Cameroon,CMR,Number of people using drinking water services if only population grows,2017,14154647.104331251
+Central African Republic,CAF,Number of people using drinking water services if only population grows,2017,2712135.6836206545
+Chad,TCD,Number of people using drinking water services if only population grows,2017,5935505.552706463
+Comoros,COM,Number of people using drinking water services if only population grows,2017,740216.091036422
+Equatorial Guinea,GNQ,Number of people using drinking water services if only population grows,2017,644862.6194468304
+Eritrea,ERI,Number of people using drinking water services if only population grows,2017,
+Eswatini,SWZ,Number of people using drinking water services if only population grows,2017,599098.4852930232
+Ethiopia,ETH,Number of people using drinking water services if only population grows,2017,19242900.575570367
+Gabon,GAB,Number of people using drinking water services if only population grows,2017,1669783.0939062168
+Ghana,GHA,Number of people using drinking water services if only population grows,2017,18592394.706593268
+Guinea,GIN,Number of people using drinking water services if only population grows,2017,6420822.469108783
+Guinea-Bissau,GNB,Number of people using drinking water services if only population grows,2017,1023647.5908197832
+Kenya,KEN,Number of people using drinking water services if only population grows,2017,23736151.235839345
+Lesotho,LSO,Number of people using drinking water services if only population grows,2017,1385155.869938277
+Liberia,LBR,Number of people using drinking water services if only population grows,2017,2899573.302932803
+Madagascar,MDG,Number of people using drinking water services if only population grows,2017,9273647.602186712
+Malawi,MWI,Number of people using drinking water services if only population grows,2017,9506918.47300649
+Mali,MLI,Number of people using drinking water services if only population grows,2017,9155882.44603588
+Mauritania,MRT,Number of people using drinking water services if only population grows,2017,1755667.0888004394
+Mauritius,MUS,Number of people using drinking water services if only population grows,2017,1255504.9530345735
+Mozambique,MOZ,Number of people using drinking water services if only population grows,2017,6044678.41880317
+Namibia,NAM,Number of people using drinking water services if only population grows,2017,1834782.2905510494
+Niger,NER,Number of people using drinking water services if only population grows,2017,7959749.020157483
+Nigeria,NGA,Number of people using drinking water services if only population grows,2017,82361877.90610285
+Rwanda,RWA,Number of people using drinking water services if only population grows,2017,5409283.239820705
+Senegal,SEN,Number of people using drinking water services if only population grows,2017,9193790.437732225
+Seychelles,SYC,Number of people using drinking water services if only population grows,2017,89387.5934437057
+Sierra Leone,SLE,Number of people using drinking water services if only population grows,2017,3038064.4071050766
+Somalia,SOM,Number of people using drinking water services if only population grows,2017,3451954.1755930637
+South Africa,ZAF,Number of people using drinking water services if only population grows,2017,48161872.323831536
+South Sudan,SSD,Number of people using drinking water services if only population grows,2017,
+Sudan,SDN,Number of people using drinking water services if only population grows,2017,17725167.337551158
+Tanzania,TZA,Number of people using drinking water services if only population grows,2017,15126957.9748458
+Togo,TGO,Number of people using drinking water services if only population grows,2017,3487535.1331748376
+Uganda,UGA,Number of people using drinking water services if only population grows,2017,10910450.537373437
+Zambia,ZMB,Number of people using drinking water services if only population grows,2017,8125162.207645218
+Zimbabwe,ZWE,Number of people using drinking water services if only population grows,2017,10231756.492165506
+Angola,AGO,Number of people using drinking water services if only population grows,2018,12676473.632776132
+Benin,BEN,Number of people using drinking water services if only population grows,2018,7145731.022953509
+Botswana,BWA,Number of people using drinking water services if only population grows,2018,1695035.057336837
+Burkina Faso,BFA,Number of people using drinking water services if only population grows,2018,11468844.668748925
+Burundi,BDI,Number of people using drinking water services if only population grows,2018,5661795.324552975
+Cabo Verde,CPV,Number of people using drinking water services if only population grows,2018,430010.82472114527
+Cameroon,CMR,Number of people using drinking water services if only population grows,2018,14529278.624774374
+Central African Republic,CAF,Number of people using drinking water services if only population grows,2018,2753650.7434047502
+Chad,TCD,Number of people using drinking water services if only population grows,2018,6117706.378344488
+Comoros,COM,Number of people using drinking water services if only population grows,2018,756979.6131216956
+Equatorial Guinea,GNQ,Number of people using drinking water services if only population grows,2018,668857.2842064707
+Eritrea,ERI,Number of people using drinking water services if only population grows,2018,
+Eswatini,SWZ,Number of people using drinking water services if only population grows,2018,605205.5393256845
+Ethiopia,ETH,Number of people using drinking water services if only population grows,2018,19753721.08863435
+Gabon,GAB,Number of people using drinking water services if only population grows,2018,1713826.5209317352
+Ghana,GHA,Number of people using drinking water services if only population grows,2018,19004601.595915306
+Guinea,GIN,Number of people using drinking water services if only population grows,2018,6605333.277509423
+Guinea-Bissau,GNB,Number of people using drinking water services if only population grows,2018,1049493.1882157568
+Kenya,KEN,Number of people using drinking water services if only population grows,2018,24289804.416618846
+Lesotho,LSO,Number of people using drinking water services if only population grows,2018,1396278.6702758349
+Liberia,LBR,Number of people using drinking water services if only population grows,2018,2971567.104645357
+Madagascar,MDG,Number of people using drinking water services if only population grows,2018,9524543.173201619
+Malawi,MWI,Number of people using drinking water services if only population grows,2018,9761413.802510729
+Mali,MLI,Number of people using drinking water services if only population grows,2018,9435481.54130791
+Mauritania,MRT,Number of people using drinking water services if only population grows,2018,1805160.9893564305
+Mauritius,MUS,Number of people using drinking water services if only population grows,2018,1256189.9834886286
+Mozambique,MOZ,Number of people using drinking water services if only population grows,2018,6223388.093106476
+Namibia,NAM,Number of people using drinking water services if only population grows,2018,1869663.89731395
+Niger,NER,Number of people using drinking water services if only population grows,2018,8269423.8276717365
+Nigeria,NGA,Number of people using drinking water services if only population grows,2018,84520000.28514397
+Rwanda,RWA,Number of people using drinking water services if only population grows,2018,5554215.582765811
+Senegal,SEN,Number of people using drinking water services if only population grows,2018,9453141.317587528
+Seychelles,SYC,Number of people using drinking water services if only population grows,2018,90244.6951451838
+Sierra Leone,SLE,Number of people using drinking water services if only population grows,2018,3103675.229250482
+Somalia,SOM,Number of people using drinking water services if only population grows,2018,3551108.3024278777
+South Africa,ZAF,Number of people using drinking water services if only population grows,2018,48823156.051189914
+South Sudan,SSD,Number of people using drinking water services if only population grows,2018,
+Sudan,SDN,Number of people using drinking water services if only population grows,2018,18154311.720528625
+Tanzania,TZA,Number of people using drinking water services if only population grows,2018,15584444.276867121
+Togo,TGO,Number of people using drinking water services if only population grows,2018,3573888.647760147
+Uganda,UGA,Number of people using drinking water services if only population grows,2018,11324547.716848595
+Zambia,ZMB,Number of people using drinking water services if only population grows,2018,8365300.227148303
+Zimbabwe,ZWE,Number of people using drinking water services if only population grows,2018,10377085.736569332
+Angola,AGO,Number of people using drinking water services if only population grows,2019,13094299.017020682
+Benin,BEN,Number of people using drinking water services if only population grows,2019,7342411.303688567
+Botswana,BWA,Number of people using drinking water services if only population grows,2019,1732360.8156687638
+Burkina Faso,BFA,Number of people using drinking water services if only population grows,2019,11799771.474236647
+Burundi,BDI,Number of people using drinking water services if only population grows,2019,5841749.702448398
+Cabo Verde,CPV,Number of people using drinking water services if only population grows,2019,434891.6678997648
+Cameroon,CMR,Number of people using drinking water services if only population grows,2019,14909634.561820624
+Central African Republic,CAF,Number of people using drinking water services if only population grows,2019,2800153.369786742
+Chad,TCD,Number of people using drinking water services if only population grows,2019,6303143.9775431445
+Comoros,COM,Number of people using drinking water services if only population grows,2019,773867.7338683018
+Equatorial Guinea,GNQ,Number of people using drinking water services if only population grows,2019,692881.5858875315
+Eritrea,ERI,Number of people using drinking water services if only population grows,2019,
+Eswatini,SWZ,Number of people using drinking water services if only population grows,2019,611521.9141532907
+Ethiopia,ETH,Number of people using drinking water services if only population grows,2019,20269937.032639425
+Gabon,GAB,Number of people using drinking water services if only population grows,2019,1756931.8730192292
+Ghana,GHA,Number of people using drinking water services if only population grows,2019,19420068.375171855
+Guinea,GIN,Number of people using drinking water services if only population grows,2019,6795259.544326742
+Guinea-Bissau,GNB,Number of people using drinking water services if only population grows,2019,1075593.5571966164
+Kenya,KEN,Number of people using drinking water services if only population grows,2019,24848171.162402924
+Lesotho,LSO,Number of people using drinking water services if only population grows,2019,1407497.499553491
+Liberia,LBR,Number of people using drinking water services if only population grows,2019,3044575.8936610734
+Madagascar,MDG,Number of people using drinking water services if only population grows,2019,9780948.058470152
+Malawi,MWI,Number of people using drinking water services if only population grows,2019,10022640.839129556
+Mali,MLI,Number of people using drinking water services if only population grows,2019,9722470.655226799
+Mauritania,MRT,Number of people using drinking water services if only population grows,2019,1855333.775850637
+Mauritius,MUS,Number of people using drinking water services if only population grows,2019,1256595.0449745045
+Mozambique,MOZ,Number of people using drinking water services if only population grows,2019,6406957.30873147
+Namibia,NAM,Number of people using drinking water services if only population grows,2019,1904963.225006406
+Niger,NER,Number of people using drinking water services if only population grows,2019,8589211.18903227
+Nigeria,NGA,Number of people using drinking water services if only population grows,2019,86715870.3171038
+Rwanda,RWA,Number of people using drinking water services if only population grows,2019,5700935.825981822
+Senegal,SEN,Number of people using drinking water services if only population grows,2019,9716706.492724843
+Seychelles,SYC,Number of people using drinking water services if only population grows,2019,91049.5686689875
+Sierra Leone,SLE,Number of people using drinking water services if only population grows,2019,3169828.068303829
+Somalia,SOM,Number of people using drinking water services if only population grows,2019,3653958.5267553814
+South Africa,ZAF,Number of people using drinking water services if only population grows,2019,49470059.58259382
+South Sudan,SSD,Number of people using drinking water services if only population grows,2019,
+Sudan,SDN,Number of people using drinking water services if only population grows,2019,18593692.936011765
+Tanzania,TZA,Number of people using drinking water services if only population grows,2019,16052700.927126551
+Togo,TGO,Number of people using drinking water services if only population grows,2019,3661440.3904658337
+Uganda,UGA,Number of people using drinking water services if only population grows,2019,11732843.617582543
+Zambia,ZMB,Number of people using drinking water services if only population grows,2019,8610844.541196538
+Zimbabwe,ZWE,Number of people using drinking water services if only population grows,2019,10525611.731326045
+Angola,AGO,Number of people using drinking water services if only population grows,2020,13522598.507732427
+Benin,BEN,Number of people using drinking water services if only population grows,2020,7542781.719516565
+Botswana,BWA,Number of people using drinking water services if only population grows,2020,1768397.6637383627
+Burkina Faso,BFA,Number of people using drinking water services if only population grows,2020,12137653.399989482
+Burundi,BDI,Number of people using drinking water services if only population grows,2020,6024240.2759748325
+Cabo Verde,CPV,Number of people using drinking water services if only population grows,2020,439677.61458106845
+Cameroon,CMR,Number of people using drinking water services if only population grows,2020,15295378.422335
+Central African Republic,CAF,Number of people using drinking water services if only population grows,2020,2850067.392584072
+Chad,TCD,Number of people using drinking water services if only population grows,2020,6492463.8077727575
+Comoros,COM,Number of people using drinking water services if only population grows,2020,790878.6343176811
+Equatorial Guinea,GNQ,Number of people using drinking water services if only population grows,2020,716899.244810343
+Eritrea,ERI,Number of people using drinking water services if only population grows,2020,
+Eswatini,SWZ,Number of people using drinking water services if only population grows,2020,617929.9001176156
+Ethiopia,ETH,Number of people using drinking water services if only population grows,2020,20791676.090830475
+Gabon,GAB,Number of people using drinking water services if only population grows,2020,1799913.4962571394
+Ghana,GHA,Number of people using drinking water services if only population grows,2020,19838304.081699453
+Guinea,GIN,Number of people using drinking water services if only population grows,2020,6987629.099122974
+Guinea-Bissau,GNB,Number of people using drinking water services if only population grows,2020,1101955.9769505016
+Kenya,KEN,Number of people using drinking water services if only population grows,2020,25414069.781436052
+Lesotho,LSO,Number of people using drinking water services if only population grows,2020,1418746.130916005
+Liberia,LBR,Number of people using drinking water services if only population grows,2020,3118759.3794037187
+Madagascar,MDG,Number of people using drinking water services if only population grows,2020,10042691.440599551
+Malawi,MWI,Number of people using drinking water services if only population grows,2020,10292299.726283854
+Mali,MLI,Number of people using drinking water services if only population grows,2020,10015663.289684273
+Mauritania,MRT,Number of people using drinking water services if only population grows,2020,1906152.651860922
+Mauritius,MUS,Number of people using drinking water services if only population grows,2020,1256623.83610953
+Mozambique,MOZ,Number of people using drinking water services if only population grows,2020,6594610.885284968
+Namibia,NAM,Number of people using drinking water services if only population grows,2020,1940390.847243954
+Niger,NER,Number of people using drinking water services if only population grows,2020,8919326.288478332
+Nigeria,NGA,Number of people using drinking water services if only population grows,2020,88949309.3608266
+Rwanda,RWA,Number of people using drinking water services if only population grows,2020,5847792.419167986
+Senegal,SEN,Number of people using drinking water services if only population grows,2020,9983568.930582806
+Seychelles,SYC,Number of people using drinking water services if only population grows,2020,91830.1933960138
+Sierra Leone,SLE,Number of people using drinking water services if only population grows,2020,3236273.012277624
+Somalia,SOM,Number of people using drinking water services if only population grows,2020,3760507.4512945064
+South Africa,ZAF,Number of people using drinking water services if only population grows,2020,50104017.38947613
+South Sudan,SSD,Number of people using drinking water services if only population grows,2020,
+Sudan,SDN,Number of people using drinking water services if only population grows,2020,19043639.313107293
+Tanzania,TZA,Number of people using drinking water services if only population grows,2020,16531123.792055974
+Togo,TGO,Number of people using drinking water services if only population grows,2020,3750402.8259378164
+Uganda,UGA,Number of people using drinking water services if only population grows,2020,12122814.696957601
+Zambia,ZMB,Number of people using drinking water services if only population grows,2020,8862946.409944538
+Zimbabwe,ZWE,Number of people using drinking water services if only population grows,2020,10681894.589068076

@@ -1,2 +1,2 @@
-py -m pip install streamlit
-py -m pip install plotly
+pip install streamlit
+pip install plotly

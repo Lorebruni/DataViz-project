@@ -1,4 +1,6 @@
 Country Name,Country Code,Indicator Name,Year,Value
+Algeria,DZA,Number of people using drinking water services,2000,27891087.11178468
+Algeria,DZA,Total population,2000,31042238.0
 Angola,AGO,Number of people using drinking water services,2000,6745805.541832779
 Angola,AGO,Total population,2000,16395477.0
 Benin,BEN,Number of people using drinking water services,2000,4271837.511520301
@@ -19,6 +21,16 @@ Chad,TCD,Number of people using drinking water services,2000,3302645.0053705974
 Chad,TCD,Total population,2000,8355654.0
 Comoros,COM,Number of people using drinking water services,2000,493263.3632337684
 Comoros,COM,Total population,2000,542358.0
+"Congo, Dem. Rep.",COD,Number of people using drinking water services,2000,15881696.267902846
+"Congo, Dem. Rep.",COD,Total population,2000,47105830.0
+"Congo, Rep.",COG,Number of people using drinking water services,2000,1787504.22370483
+"Congo, Rep.",COG,Total population,2000,3127420.0
+Cote d'Ivoire,CIV,Number of people using drinking water services,2000,11747804.847611463
+Cote d'Ivoire,CIV,Total population,2000,16454660.0
+Djibouti,DJI,Number of people using drinking water services,2000,541398.6579370438
+Djibouti,DJI,Total population,2000,717577.0
+"Egypt, Arab Rep.",EGY,Number of people using drinking water services,2000,67378021.92973848
+"Egypt, Arab Rep.",EGY,Total population,2000,68831561.0
 Equatorial Guinea,GNQ,Number of people using drinking water services,2000,309746.707355484
 Equatorial Guinea,GNQ,Total population,2000,606180.0
 Eritrea,ERI,Number of people using drinking water services,2000,1073175.1358365067
@@ -29,6 +41,8 @@ Ethiopia,ETH,Number of people using drinking water services,2000,11977051.706061
 Ethiopia,ETH,Total population,2000,66224809.0
 Gabon,GAB,Number of people using drinking water services,2000,993355.8558588127
 Gabon,GAB,Total population,2000,1228359.0
+"Gambia, The",GMB,Number of people using drinking water services,2000,972522.2310400547
+"Gambia, The",GMB,Total population,2000,1317708.0
 Ghana,GHA,Number of people using drinking water services,2000,12308446.74186729
 Ghana,GHA,Total population,2000,19278850.0
 Guinea,GIN,Number of people using drinking water services,2000,4384688.3194496
@@ -41,6 +55,8 @@ Lesotho,LSO,Number of people using drinking water services,2000,1346262.82466148
 Lesotho,LSO,Total population,2000,2032805.0
 Liberia,LBR,Number of people using drinking water services,2000,1756462.6602261045
 Liberia,LBR,Total population,2000,2848447.0
+Libya,LBY,Number of people using drinking water services,2000,4513064.2872998025
+Libya,LBY,Total population,2000,5357893.0
 Madagascar,MDG,Number of people using drinking water services,2000,5718141.598970902
 Madagascar,MDG,Total population,2000,15766806.0
 Malawi,MWI,Number of people using drinking water services,2000,5998251.792317696
@@ -51,6 +67,8 @@ Mauritania,MRT,Number of people using drinking water services,2000,1078271.33801
 Mauritania,MRT,Total population,2000,2630217.0
 Mauritius,MUS,Number of people using drinking water services,2000,1178324.8552110435
 Mauritius,MUS,Total population,2000,1186873.0
+Morocco,MAR,Number of people using drinking water services,2000,17995553.28470452
+Morocco,MAR,Total population,2000,28793672.0
 Mozambique,MOZ,Number of people using drinking water services,2000,3737054.16047964
 Mozambique,MOZ,Total population,2000,17711925.0
 Namibia,NAM,Number of people using drinking water services,2000,1370447.6762787893
@@ -61,6 +79,8 @@ Nigeria,NGA,Number of people using drinking water services,2000,52765528.5849138
 Nigeria,NGA,Total population,2000,122283853.0
 Rwanda,RWA,Number of people using drinking water services,2000,3581980.5364817716
 Rwanda,RWA,Total population,2000,7933688.0
+Sao Tome and Principe,STP,Number of people using drinking water services,2000,96852.78908880161
+Sao Tome and Principe,STP,Total population,2000,142264.0
 Senegal,SEN,Number of people using drinking water services,2000,5841897.499679468
 Senegal,SEN,Total population,2000,9797731.0
 Seychelles,SYC,Number of people using drinking water services,2000,75666.5050518169
@@ -79,12 +99,16 @@ Tanzania,TZA,Number of people using drinking water services,2000,9270717.9706041
 Tanzania,TZA,Total population,2000,33499177.0
 Togo,TGO,Number of people using drinking water services,2000,2230836.198621256
 Togo,TGO,Total population,2000,4924406.0
+Tunisia,TUN,Number of people using drinking water services,2000,8596278.62207789
+Tunisia,TUN,Total population,2000,9708347.0
 Uganda,UGA,Number of people using drinking water services,2000,6268041.693679282
 Uganda,UGA,Total population,2000,23650159.0
 Zambia,ZMB,Number of people using drinking water services,2000,5021548.993866747
 Zambia,ZMB,Total population,2000,10415942.0
 Zimbabwe,ZWE,Number of people using drinking water services,2000,8539148.331005713
 Zimbabwe,ZWE,Total population,2000,11881482.0
+Algeria,DZA,Number of people using drinking water services,2001,28342041.485214394
+Algeria,DZA,Total population,2001,31451513.0
 Angola,AGO,Number of people using drinking water services,2001,7160373.095387868
 Angola,AGO,Total population,2001,16945753.0
 Benin,BEN,Number of people using drinking water services,2001,4414878.96723912
@@ -105,6 +129,16 @@ Chad,TCD,Number of people using drinking water services,2001,3458379.159509346
 Chad,TCD,Total population,2001,8678049.0
 Comoros,COM,Number of people using drinking water services,2001,504982.57617077796
 Comoros,COM,Total population,2001,555895.0
+"Congo, Dem. Rep.",COD,Number of people using drinking water services,2001,16605680.871743884
+"Congo, Dem. Rep.",COD,Total population,2001,48428534.0
+"Congo, Rep.",COG,Number of people using drinking water services,2001,1849129.6539771638
+"Congo, Rep.",COG,Total population,2001,3217930.0
+Cote d'Ivoire,CIV,Number of people using drinking water services,2001,12030885.567382025
+Cote d'Ivoire,CIV,Total population,2001,16853027.0
+Djibouti,DJI,Number of people using drinking water services,2001,553158.7823360612
+Djibouti,DJI,Total population,2001,733019.0
+"Egypt, Arab Rep.",EGY,Number of people using drinking water services,2001,68728743.79391684
+"Egypt, Arab Rep.",EGY,Total population,2001,70152662.0
 Equatorial Guinea,GNQ,Number of people using drinking water services,2001,327140.5514104686
 Equatorial Guinea,GNQ,Total population,2001,631662.0
 Eritrea,ERI,Number of people using drinking water services,2001,1118978.606391761
@@ -115,6 +149,8 @@ Ethiopia,ETH,Number of people using drinking water services,2001,13435984.208552
 Ethiopia,ETH,Total population,2001,68159422.0
 Gabon,GAB,Number of people using drinking water services,2001,1020753.9685341192
 Gabon,GAB,Total population,2001,1258008.0
+"Gambia, The",GMB,Number of people using drinking water services,2001,1009060.36665755
+"Gambia, The",GMB,Total population,2001,1360070.0
 Ghana,GHA,Number of people using drinking water services,2001,12786251.16551718
 Ghana,GHA,Total population,2001,19756929.0
 Guinea,GIN,Number of people using drinking water services,2001,4559975.514169703
@@ -127,6 +163,8 @@ Lesotho,LSO,Number of people using drinking water services,2001,1353377.93626070
 Lesotho,LSO,Total population,2001,2035738.0
 Liberia,LBR,Number of people using drinking water services,2001,1849325.8716040624
 Liberia,LBR,Total population,2001,2953928.0
+Libya,LBY,Number of people using drinking water services,2001,4632316.02347266
+Libya,LBY,Total population,2001,5443249.0
 Madagascar,MDG,Number of people using drinking water services,2001,6013773.600639976
 Madagascar,MDG,Total population,2001,16260933.0
 Malawi,MWI,Number of people using drinking water services,2001,6249158.016194088
@@ -137,6 +175,8 @@ Mauritania,MRT,Number of people using drinking water services,2001,1135448.11066
 Mauritania,MRT,Total population,2001,2702405.0
 Mauritius,MUS,Number of people using drinking water services,2001,1188202.2470955364
 Mauritius,MUS,Total population,2001,1196287.0
+Morocco,MAR,Number of people using drinking water services,2001,18563390.693128105
+Morocco,MAR,Total population,2001,29126323.0
 Mozambique,MOZ,Number of people using drinking water services,2001,4067084.4115442582
 Mozambique,MOZ,Total population,2001,18221884.0
 Namibia,NAM,Number of people using drinking water services,2001,1398524.2899640044
@@ -147,6 +187,8 @@ Nigeria,NGA,Number of people using drinking water services,2001,55870350.6177907
 Nigeria,NGA,Total population,2001,125394046.0
 Rwanda,RWA,Number of people using drinking water services,2001,3798909.7357713855
 Rwanda,RWA,Total population,2001,8231150.0
+Sao Tome and Principe,STP,Number of people using drinking water services,2001,99520.090122376
+Sao Tome and Principe,STP,Total population,2001,144760.0
 Senegal,SEN,Number of people using drinking water services,2001,6101190.807966734
 Senegal,SEN,Total population,2001,10036102.0
 Seychelles,SYC,Number of people using drinking water services,2001,75926.9117619584
@@ -165,12 +207,16 @@ Tanzania,TZA,Number of people using drinking water services,2001,9992214.7978583
 Tanzania,TZA,Total population,2001,34385849.0
 Togo,TGO,Number of people using drinking water services,2001,2356851.3837434165
 Togo,TGO,Total population,2001,5062571.0
+Tunisia,TUN,Number of people using drinking water services,2001,8713799.947800633
+Tunisia,TUN,Total population,2001,9793915.0
 Uganda,UGA,Number of people using drinking water services,2001,6771427.174173882
 Uganda,UGA,Total population,2001,24388974.0
 Zambia,ZMB,Number of people using drinking water services,2001,5239480.9454023475
 Zambia,ZMB,Total population,2001,10692197.0
 Zimbabwe,ZWE,Number of people using drinking water services,2001,8587126.009136971
 Zimbabwe,ZWE,Total population,2001,11923906.0
+Algeria,DZA,Number of people using drinking water services,2002,28788672.738593712
+Algeria,DZA,Total population,2002,31855110.0
 Angola,AGO,Number of people using drinking water services,2002,7599362.660000206
 Angola,AGO,Total population,2002,17519418.0
 Benin,BEN,Number of people using drinking water services,2002,4564469.03470992
@@ -191,6 +237,16 @@ Chad,TCD,Number of people using drinking water services,2002,3623580.806980084
 Chad,TCD,Total population,2002,9019226.0
 Comoros,COM,Number of people using drinking water services,2002,512564.106940712
 Comoros,COM,Total population,2002,569480.0
+"Congo, Dem. Rep.",COD,Number of people using drinking water services,2002,17387801.158788733
+"Congo, Dem. Rep.",COD,Total population,2002,49871670.0
+"Congo, Rep.",COG,Number of people using drinking water services,2002,1918474.077598712
+"Congo, Rep.",COG,Total population,2002,3310376.0
+Cote d'Ivoire,CIV,Number of people using drinking water services,2002,12299468.403469525
+Cote d'Ivoire,CIV,Total population,2002,17231539.0
+Djibouti,DJI,Number of people using drinking water services,2002,563784.1425122597
+Djibouti,DJI,Total population,2002,746947.0
+"Egypt, Arab Rep.",EGY,Number of people using drinking water services,2002,70092644.41627544
+"Egypt, Arab Rep.",EGY,Total population,2002,71485044.0
 Equatorial Guinea,GNQ,Number of people using drinking water services,2002,345930.20182574523
 Equatorial Guinea,GNQ,Total population,2002,658388.0
 Eritrea,ERI,Number of people using drinking water services,2002,1177037.3448540797
@@ -201,6 +257,8 @@ Ethiopia,ETH,Number of people using drinking water services,2002,14960715.755675
 Ethiopia,ETH,Total population,2002,70142090.0
 Gabon,GAB,Number of people using drinking water services,2002,1048671.261721035
 Gabon,GAB,Total population,2002,1288310.0
+"Gambia, The",GMB,Number of people using drinking water services,2002,1047292.8905646941
+"Gambia, The",GMB,Total population,2002,1404263.0
 Ghana,GHA,Number of people using drinking water services,2002,13322857.295955768
 Ghana,GHA,Total population,2002,20246376.0
 Guinea,GIN,Number of people using drinking water services,2002,4734453.3387380345
@@ -213,6 +271,8 @@ Lesotho,LSO,Number of people using drinking water services,2002,1354769.29911688
 Lesotho,LSO,Total population,2002,2029832.0
 Liberia,LBR,Number of people using drinking water services,2002,1922065.2884203913
 Liberia,LBR,Total population,2002,3024727.0
+Libya,LBY,Number of people using drinking water services,2002,4755195.324026219
+Libya,LBY,Total population,2002,5531097.0
 Madagascar,MDG,Number of people using drinking water services,2002,6320578.04344754
 Madagascar,MDG,Total population,2002,16765122.0
 Malawi,MWI,Number of people using drinking water services,2002,6503315.851553851
@@ -223,6 +283,8 @@ Mauritania,MRT,Number of people using drinking water services,2002,1214250.61314
 Mauritania,MRT,Total population,2002,2778097.0
 Mauritius,MUS,Number of people using drinking water services,2002,1197016.1707688887
 Mauritius,MUS,Total population,2002,1204621.0
+Morocco,MAR,Number of people using drinking water services,2002,19178789.751041587
+Morocco,MAR,Total population,2002,29454765.0
 Mozambique,MOZ,Number of people using drinking water services,2002,4513137.591346935
 Mozambique,MOZ,Total population,2002,18764147.0
 Namibia,NAM,Number of people using drinking water services,2002,1427749.0208127352
@@ -233,6 +295,8 @@ Nigeria,NGA,Number of people using drinking water services,2002,59467199.196286
 Nigeria,NGA,Total population,2002,128596079.0
 Rwanda,RWA,Number of people using drinking water services,2002,3975184.224987454
 Rwanda,RWA,Total population,2002,8427061.0
+Sao Tome and Principe,STP,Number of people using drinking water services,2002,102379.03172366999
+Sao Tome and Principe,STP,Total population,2002,147450.0
 Senegal,SEN,Number of people using drinking water services,2002,6372264.336906999
 Senegal,SEN,Total population,2002,10283694.0
 Seychelles,SYC,Number of people using drinking water services,2002,78484.3588235132
@@ -251,12 +315,16 @@ Tanzania,TZA,Number of people using drinking water services,2002,10757294.595543
 Tanzania,TZA,Total population,2002,35334790.0
 Togo,TGO,Number of people using drinking water services,2002,2484341.221411664
 Togo,TGO,Total population,2002,5197040.0
+Tunisia,TUN,Number of people using drinking water services,2002,8821669.036228042
+Tunisia,TUN,Total population,2002,9871261.0
 Uganda,UGA,Number of people using drinking water services,2002,7311454.311219378
 Uganda,UGA,Total population,2002,25167261.0
 Zambia,ZMB,Number of people using drinking water services,2002,5478586.4772668285
 Zambia,ZMB,Total population,2002,10971704.0
 Zimbabwe,ZWE,Number of people using drinking water services,2002,8571953.810587449
 Zimbabwe,ZWE,Total population,2002,11954293.0
+Algeria,DZA,Number of people using drinking water services,2003,29240917.975149393
+Algeria,DZA,Total population,2003,32264159.0
 Angola,AGO,Number of people using drinking water services,2003,8039389.078247163
 Angola,AGO,Total population,2003,18121477.0
 Benin,BEN,Number of people using drinking water services,2003,4720561.41286081
@@ -277,6 +345,16 @@ Chad,TCD,Number of people using drinking water services,2003,3796360.1205307813
 Chad,TCD,Total population,2003,9373913.0
 Comoros,COM,Number of people using drinking water services,2003,520060.36111682665
 Comoros,COM,Total population,2003,583213.0
+"Congo, Dem. Rep.",COD,Number of people using drinking water services,2003,18226823.70353332
+"Congo, Dem. Rep.",COD,Total population,2003,51425583.0
+"Congo, Rep.",COG,Number of people using drinking water services,2003,1991046.313957794
+"Congo, Rep.",COG,Total population,2003,3406915.0
+Cote d'Ivoire,CIV,Number of people using drinking water services,2003,12560200.572723959
+Cote d'Ivoire,CIV,Total population,2003,17599613.0
+Djibouti,DJI,Number of people using drinking water services,2003,573484.0376322981
+Djibouti,DJI,Total population,2003,759639.0
+"Egypt, Arab Rep.",EGY,Number of people using drinking water services,2003,71467204.09983985
+"Egypt, Arab Rep.",EGY,Total population,2003,72826102.0
 Equatorial Guinea,GNQ,Number of people using drinking water services,2003,366341.31363259203
 Equatorial Guinea,GNQ,Total population,2003,686670.0
 Eritrea,ERI,Number of people using drinking water services,2003,1242620.151319395
@@ -287,6 +365,8 @@ Ethiopia,ETH,Number of people using drinking water services,2003,16551000.803817
 Ethiopia,ETH,Total population,2003,72170581.0
 Gabon,GAB,Number of people using drinking water services,2003,1077653.0245748651
 Gabon,GAB,Total population,2003,1319946.0
+"Gambia, The",GMB,Number of people using drinking water services,2003,1086873.8869921975
+"Gambia, The",GMB,Total population,2003,1449925.0
 Ghana,GHA,Number of people using drinking water services,2003,13880308.139314778
 Ghana,GHA,Total population,2003,20750308.0
 Guinea,GIN,Number of people using drinking water services,2003,4910944.198242255
@@ -299,6 +379,8 @@ Lesotho,LSO,Number of people using drinking water services,2003,1352556.13687099
 Lesotho,LSO,Total population,2003,2018355.0
 Liberia,LBR,Number of people using drinking water services,2003,1984134.237185133
 Liberia,LBR,Total population,2003,3077055.0
+Libya,LBY,Number of people using drinking water services,2003,4880992.59851427
+Libya,LBY,Total population,2003,5620545.0
 Madagascar,MDG,Number of people using drinking water services,2003,6638623.283484264
 Madagascar,MDG,Total population,2003,17279139.0
 Malawi,MWI,Number of people using drinking water services,2003,6764306.946907841
@@ -309,6 +391,8 @@ Mauritania,MRT,Number of people using drinking water services,2003,1297602.72399
 Mauritania,MRT,Total population,2003,2857150.0
 Mauritius,MUS,Number of people using drinking water services,2003,1206251.66418529
 Mauritius,MUS,Total population,2003,1213370.0
+Morocco,MAR,Number of people using drinking water services,2003,19802818.11701129
+Morocco,MAR,Total population,2003,29782884.0
 Mozambique,MOZ,Number of people using drinking water services,2003,4991865.613655712
 Mozambique,MOZ,Total population,2003,19331097.0
 Namibia,NAM,Number of people using drinking water services,2003,1457321.5124860087
@@ -319,6 +403,8 @@ Nigeria,NGA,Number of people using drinking water services,2003,63231902.3891761
 Nigeria,NGA,Total population,2003,131900634.0
 Rwanda,RWA,Number of people using drinking water services,2003,4102840.023716832
 Rwanda,RWA,Total population,2003,8557160.0
+Sao Tome and Principe,STP,Number of people using drinking water services,2003,105446.7300493905
+Sao Tome and Principe,STP,Total population,2003,150405.0
 Senegal,SEN,Number of people using drinking water services,2003,6663032.326698706
 Senegal,SEN,Total population,2003,10541470.0
 Seychelles,SYC,Number of people using drinking water services,2003,77799.26571952371
@@ -337,12 +423,16 @@ Tanzania,TZA,Number of people using drinking water services,2003,11599017.451242
 Tanzania,TZA,Total population,2003,36337778.0
 Togo,TGO,Number of people using drinking water services,2003,2614502.186356556
 Togo,TGO,Total population,2003,5330629.0
+Tunisia,TUN,Number of people using drinking water services,2003,8926632.849187732
+Tunisia,TUN,Total population,2003,9945282.0
 Uganda,UGA,Number of people using drinking water services,2003,7888734.452410451
 Uganda,UGA,Total population,2003,25980547.0
 Zambia,ZMB,Number of people using drinking water services,2003,5724855.724058065
 Zambia,ZMB,Total population,2003,11256740.0
 Zimbabwe,ZWE,Number of people using drinking water services,2003,8532659.832928611
 Zimbabwe,ZWE,Total population,2003,11982219.0
+Algeria,DZA,Number of people using drinking water services,2004,29711039.250034034
+Algeria,DZA,Total population,2004,32692153.0
 Angola,AGO,Number of people using drinking water services,2004,8507065.923482306
 Angola,AGO,Total population,2004,18758138.0
 Benin,BEN,Number of people using drinking water services,2004,4879876.573383749
@@ -363,6 +453,16 @@ Chad,TCD,Number of people using drinking water services,2004,3973791.050528893
 Chad,TCD,Total population,2004,9734761.0
 Comoros,COM,Number of people using drinking water services,2004,527588.5928372841
 Comoros,COM,Total population,2004,597230.0
+"Congo, Dem. Rep.",COD,Number of people using drinking water services,2004,19117069.86114399
+"Congo, Dem. Rep.",COD,Total population,2004,53068869.0
+"Congo, Rep.",COG,Number of people using drinking water services,2004,2089069.7473479132
+"Congo, Rep.",COG,Total population,2004,3510468.0
+Cote d'Ivoire,CIV,Number of people using drinking water services,2004,12822574.024543412
+Cote d'Ivoire,CIV,Total population,2004,17970493.0
+Djibouti,DJI,Number of people using drinking water services,2004,582638.6601141652
+Djibouti,DJI,Total population,2004,771599.0
+"Egypt, Arab Rep.",EGY,Number of people using drinking water services,2004,72848736.20221306
+"Egypt, Arab Rep.",EGY,Total population,2004,74172073.0
 Equatorial Guinea,GNQ,Number of people using drinking water services,2004,388694.11772893684
 Equatorial Guinea,GNQ,Total population,2004,716949.0
 Eritrea,ERI,Number of people using drinking water services,2004,1308865.0443522886
@@ -373,6 +473,8 @@ Ethiopia,ETH,Number of people using drinking water services,2004,18207437.311495
 Ethiopia,ETH,Total population,2004,74239508.0
 Gabon,GAB,Number of people using drinking water services,2004,1108412.8161122492
 Gabon,GAB,Total population,2004,1353788.0
+"Gambia, The",GMB,Number of people using drinking water services,2004,1127132.573068558
+"Gambia, The",GMB,Total population,2004,1496524.0
 Ghana,GHA,Number of people using drinking water services,2004,14461637.25562562
 Ghana,GHA,Total population,2004,21272328.0
 Guinea,GIN,Number of people using drinking water services,2004,5093680.087858005
@@ -385,6 +487,8 @@ Lesotho,LSO,Number of people using drinking water services,2004,1349829.22991021
 Lesotho,LSO,Total population,2004,2005953.0
 Liberia,LBR,Number of people using drinking water services,2004,2051202.6182380412
 Liberia,LBR,Total population,2004,3135654.0
+Libya,LBY,Number of people using drinking water services,2004,5008495.324043745
+Libya,LBY,Total population,2004,5710163.0
 Madagascar,MDG,Number of people using drinking water services,2004,6968225.340745962
 Madagascar,MDG,Total population,2004,17802992.0
 Malawi,MWI,Number of people using drinking water services,2004,7038039.402741662
@@ -395,6 +499,8 @@ Mauritania,MRT,Number of people using drinking water services,2004,1385557.64455
 Mauritania,MRT,Total population,2004,2939246.0
 Mauritius,MUS,Number of people using drinking water services,2004,1214386.490970261
 Mauritius,MUS,Total population,2004,1221003.0
+Morocco,MAR,Number of people using drinking water services,2004,20438629.215867866
+Morocco,MAR,Total population,2004,30115196.0
 Mozambique,MOZ,Number of people using drinking water services,2004,5501930.831809312
 Mozambique,MOZ,Total population,2004,19910549.0
 Namibia,NAM,Number of people using drinking water services,2004,1487885.7762674347
@@ -405,6 +511,8 @@ Nigeria,NGA,Number of people using drinking water services,2004,67176268.8459183
 Nigeria,NGA,Total population,2004,135320420.0
 Rwanda,RWA,Number of people using drinking water services,2004,4226362.459973784
 Rwanda,RWA,Total population,2004,8680516.0
+Sao Tome and Principe,STP,Number of people using drinking water services,2004,108799.16917835678
+Sao Tome and Principe,STP,Total population,2004,153736.0
 Senegal,SEN,Number of people using drinking water services,2004,6972772.071583957
 Senegal,SEN,Total population,2004,10810086.0
 Seychelles,SYC,Number of people using drinking water services,2004,77708.913833825
@@ -423,12 +531,16 @@ Tanzania,TZA,Number of people using drinking water services,2004,12554220.012939
 Tanzania,TZA,Total population,2004,37379766.0
 Togo,TGO,Number of people using drinking water services,2004,2749508.876105838
 Togo,TGO,Total population,2004,5467770.0
+Tunisia,TUN,Number of people using drinking water services,2004,9033913.73452916
+Tunisia,TUN,Total population,2004,10022278.0
 Uganda,UGA,Number of people using drinking water services,2004,8502832.27636964
 Uganda,UGA,Total population,2004,26821300.0
 Zambia,ZMB,Number of people using drinking water services,2004,5980100.688101503
 Zambia,ZMB,Total population,2004,11550641.0
 Zimbabwe,ZWE,Number of people using drinking water services,2004,8496521.882017257
 Zimbabwe,ZWE,Total population,2004,12019911.0
+Algeria,DZA,Number of people using drinking water services,2005,30208759.52031665
+Algeria,DZA,Total population,2005,33149720.0
 Angola,AGO,Number of people using drinking water services,2005,9004758.465145085
 Angola,AGO,Total population,2005,19433604.0
 Benin,BEN,Number of people using drinking water services,2005,5041409.579027725
@@ -449,6 +561,16 @@ Chad,TCD,Number of people using drinking water services,2005,4153800.609073551
 Chad,TCD,Total population,2005,10096630.0
 Comoros,COM,Number of people using drinking water services,2005,535227.4121402251
 Comoros,COM,Total population,2005,611625.0
+"Congo, Dem. Rep.",COD,Number of people using drinking water services,2005,20055596.712045524
+"Congo, Dem. Rep.",COD,Total population,2005,54785894.0
+"Congo, Rep.",COG,Number of people using drinking water services,2005,2194566.132662248
+"Congo, Rep.",COG,Total population,2005,3622775.0
+Cote d'Ivoire,CIV,Number of people using drinking water services,2005,13093756.901409963
+Cote d'Ivoire,CIV,Total population,2005,18354513.0
+Djibouti,DJI,Number of people using drinking water services,2005,591563.4450946192
+Djibouti,DJI,Total population,2005,783248.0
+"Egypt, Arab Rep.",EGY,Number of people using drinking water services,2005,74237868.32910126
+"Egypt, Arab Rep.",EGY,Total population,2005,75523576.0
 Equatorial Guinea,GNQ,Number of people using drinking water services,2005,413227.127713927
 Equatorial Guinea,GNQ,Total population,2005,749527.0
 Eritrea,ERI,Number of people using drinking water services,2005,1370485.9291684532
@@ -459,6 +581,8 @@ Ethiopia,ETH,Number of people using drinking water services,2005,19930539.454512
 Ethiopia,ETH,Total population,2005,76346310.0
 Gabon,GAB,Number of people using drinking water services,2005,1141534.5182540598
 Gabon,GAB,Total population,2005,1390550.0
+"Gambia, The",GMB,Number of people using drinking water services,2005,1168188.9650166365
+"Gambia, The",GMB,Total population,2005,1543745.0
 Ghana,GHA,Number of people using drinking water services,2005,15068825.822597902
 Ghana,GHA,Total population,2005,21814648.0
 Guinea,GIN,Number of people using drinking water services,2005,5286067.900250176
@@ -471,6 +595,8 @@ Lesotho,LSO,Number of people using drinking water services,2005,1348923.33541373
 Lesotho,LSO,Total population,2005,1996115.0
 Liberia,LBR,Number of people using drinking water services,2005,2135102.903713538
 Liberia,LBR,Total population,2005,3218114.0
+Libya,LBY,Number of people using drinking water services,2005,5136524.482432294
+Libya,LBY,Total population,2005,5798615.0
 Madagascar,MDG,Number of people using drinking water services,2005,7337115.784345393
 Madagascar,MDG,Total population,2005,18336722.0
 Malawi,MWI,Number of people using drinking water services,2005,7329132.571638779
@@ -481,6 +607,8 @@ Mauritania,MRT,Number of people using drinking water services,2005,1478175.50954
 Mauritania,MRT,Total population,2005,3024198.0
 Mauritius,MUS,Number of people using drinking water services,2005,1222149.6906193679
 Mauritius,MUS,Total population,2005,1228254.0
+Morocco,MAR,Number of people using drinking water services,2005,21122077.082908556
+Morocco,MAR,Total population,2005,30455563.0
 Mozambique,MOZ,Number of people using drinking water services,2005,6042008.5303578805
 Mozambique,MOZ,Total population,2005,20493927.0
 Namibia,NAM,Number of people using drinking water services,2005,1520146.4211592213
@@ -491,6 +619,8 @@ Nigeria,NGA,Number of people using drinking water services,2005,71310907.3128628
 Nigeria,NGA,Total population,2005,138865014.0
 Rwanda,RWA,Number of people using drinking water services,2005,4370031.134080398
 Rwanda,RWA,Total population,2005,8840220.0
+Sao Tome and Principe,STP,Number of people using drinking water services,2005,112462.0004802336
+Sao Tome and Principe,STP,Total population,2005,157472.0
 Senegal,SEN,Number of people using drinking water services,2005,7296775.949757426
 Senegal,SEN,Total population,2005,11090123.0
 Seychelles,SYC,Number of people using drinking water services,2005,78267.9299735796
@@ -509,12 +639,16 @@ Tanzania,TZA,Number of people using drinking water services,2005,13560670.047300
 Tanzania,TZA,Total population,2005,38450323.0
 Togo,TGO,Number of people using drinking water services,2005,2891083.0865792423
 Togo,TGO,Total population,2005,5611643.0
+Tunisia,TUN,Number of people using drinking water services,2005,9146247.496645398
+Tunisia,TUN,Total population,2005,10106778.0
 Uganda,UGA,Number of people using drinking water services,2005,9153144.982523479
 Uganda,UGA,Total population,2005,27684590.0
 Zambia,ZMB,Number of people using drinking water services,2005,6245928.680886845
 Zambia,ZMB,Total population,2005,11856244.0
 Zimbabwe,ZWE,Number of people using drinking water services,2005,8473385.962565769
 Zimbabwe,ZWE,Total population,2005,12076697.0
+Algeria,DZA,Number of people using drinking water services,2006,30738109.542450085
+Algeria,DZA,Total population,2006,33641007.0
 Angola,AGO,Number of people using drinking water services,2006,9500726.278242793
 Angola,AGO,Total population,2006,20149905.0
 Benin,BEN,Number of people using drinking water services,2006,5204952.677909647
@@ -535,6 +669,16 @@ Chad,TCD,Number of people using drinking water services,2006,4335385.557616555
 Chad,TCD,Total population,2006,10457122.0
 Comoros,COM,Number of people using drinking water services,2006,542996.3784506391
 Comoros,COM,Total population,2006,626427.0
+"Congo, Dem. Rep.",COD,Number of people using drinking water services,2006,21045024.563077975
+"Congo, Dem. Rep.",COD,Total population,2006,56578046.0
+"Congo, Rep.",COG,Number of people using drinking water services,2006,2308602.2818972673
+"Congo, Rep.",COG,Total population,2006,3745143.0
+Cote d'Ivoire,CIV,Number of people using drinking water services,2006,13376152.500409607
+Cote d'Ivoire,CIV,Total population,2006,18754914.0
+Djibouti,DJI,Number of people using drinking water services,2006,600238.8087116919
+Djibouti,DJI,Total population,2006,794554.0
+"Egypt, Arab Rep.",EGY,Number of people using drinking water services,2006,75627771.5578039
+"Egypt, Arab Rep.",EGY,Total population,2006,76873670.0
 Equatorial Guinea,GNQ,Number of people using drinking water services,2006,440105.680927224
 Equatorial Guinea,GNQ,Total population,2006,784494.0
 Eritrea,ERI,Number of people using drinking water services,2006,1425822.1465933255
@@ -545,6 +689,8 @@ Ethiopia,ETH,Number of people using drinking water services,2006,21721313.680567
 Ethiopia,ETH,Total population,2006,78489205.0
 Gabon,GAB,Number of people using drinking water services,2006,1176966.0335768831
 Gabon,GAB,Total population,2006,1430144.0
+"Gambia, The",GMB,Number of people using drinking water services,2006,1209940.388995686
+"Gambia, The",GMB,Total population,2006,1591444.0
 Ghana,GHA,Number of people using drinking water services,2006,15704011.821323618
 Ghana,GHA,Total population,2006,22379057.0
 Guinea,GIN,Number of people using drinking water services,2006,5490075.360367421
@@ -557,6 +703,8 @@ Lesotho,LSO,Number of people using drinking water services,2006,1350615.41006180
 Lesotho,LSO,Total population,2006,1989933.0
 Liberia,LBR,Number of people using drinking water services,2006,2230771.5205007144
 Liberia,LBR,Total population,2006,3329211.0
+Libya,LBY,Number of people using drinking water services,2006,5265920.010178358
+Libya,LBY,Total population,2006,5886874.0
 Madagascar,MDG,Number of people using drinking water services,2006,7720034.802714437
 Madagascar,MDG,Total population,2006,18880265.0
 Malawi,MWI,Number of people using drinking water services,2006,7638739.063699687
@@ -567,6 +715,8 @@ Mauritania,MRT,Number of people using drinking water services,2006,1575597.06627
 Mauritania,MRT,Total population,2006,3111908.0
 Mauritius,MUS,Number of people using drinking water services,2006,1228418.6995174284
 Mauritius,MUS,Total population,2006,1233996.0
+Morocco,MAR,Number of people using drinking water services,2006,21825719.126729067
+Morocco,MAR,Total population,2006,30804689.0
 Mozambique,MOZ,Number of people using drinking water services,2006,6612801.497342588
 Mozambique,MOZ,Total population,2006,21080108.0
 Namibia,NAM,Number of people using drinking water services,2006,1554509.2842921356
@@ -577,6 +727,8 @@ Nigeria,NGA,Number of people using drinking water services,2006,75645512.4926387
 Nigeria,NGA,Total population,2006,142538305.0
 Rwanda,RWA,Number of people using drinking water services,2006,4538252.842952506
 Rwanda,RWA,Total population,2006,9043342.0
+Sao Tome and Principe,STP,Number of people using drinking water services,2006,116487.80546128559
+Sao Tome and Principe,STP,Total population,2006,161676.0
 Senegal,SEN,Number of people using drinking water services,2006,7636007.348267161
 Senegal,SEN,Total population,2006,11382272.0
 Seychelles,SYC,Number of people using drinking water services,2006,80115.7436253
@@ -595,12 +747,16 @@ Tanzania,TZA,Number of people using drinking water services,2006,14620154.183228
 Tanzania,TZA,Total population,2006,39548666.0
 Togo,TGO,Number of people using drinking water services,2006,3039810.1140456516
 Togo,TGO,Total population,2006,5762881.0
+Tunisia,TUN,Number of people using drinking water services,2006,9267818.892319763
+Tunisia,TUN,Total population,2006,10201211.0
 Uganda,UGA,Number of people using drinking water services,2006,9842030.38184481
 Uganda,UGA,Total population,2006,28571475.0
 Zambia,ZMB,Number of people using drinking water services,2006,6522625.913920528
 Zambia,ZMB,Total population,2006,12173518.0
 Zimbabwe,ZWE,Number of people using drinking water services,2006,8464941.955657115
 Zimbabwe,ZWE,Total population,2006,12155496.0
+Algeria,DZA,Number of people using drinking water services,2007,31300103.248631366
+Algeria,DZA,Total population,2007,34166976.0
 Angola,AGO,Number of people using drinking water services,2007,10026518.075590407
 Angola,AGO,Total population,2007,20905360.0
 Benin,BEN,Number of people using drinking water services,2007,5370993.734720139
@@ -621,6 +777,16 @@ Chad,TCD,Number of people using drinking water services,2007,4519310.091258488
 Chad,TCD,Total population,2007,10818031.0
 Comoros,COM,Number of people using drinking water services,2007,550879.0908601168
 Comoros,COM,Total population,2007,641624.0
+"Congo, Dem. Rep.",COD,Number of people using drinking water services,2007,22090156.8643769
+"Congo, Dem. Rep.",COD,Total population,2007,58453687.0
+"Congo, Rep.",COG,Number of people using drinking water services,2007,2430593.1876935596
+"Congo, Rep.",COG,Total population,2007,3876123.0
+Cote d'Ivoire,CIV,Number of people using drinking water services,2007,13669411.684299875
+Cote d'Ivoire,CIV,Total population,2007,19171250.0
+Djibouti,DJI,Number of people using drinking water services,2007,608616.4132424832
+Djibouti,DJI,Total population,2007,805456.0
+"Egypt, Arab Rep.",EGY,Number of people using drinking water services,2007,77027554.34462023
+"Egypt, Arab Rep.",EGY,Total population,2007,78232124.0
 Equatorial Guinea,GNQ,Number of people using drinking water services,2007,469335.29867766483
 Equatorial Guinea,GNQ,Total population,2007,821686.0
 Eritrea,ERI,Number of people using drinking water services,2007,1475704.6088684122
@@ -631,6 +797,8 @@ Ethiopia,ETH,Number of people using drinking water services,2007,23589579.578821
 Ethiopia,ETH,Total population,2007,80674343.0
 Gabon,GAB,Number of people using drinking water services,2007,1214701.2252569655
 Gabon,GAB,Total population,2007,1472565.0
+"Gambia, The",GMB,Number of people using drinking water services,2007,1252564.0619698153
+"Gambia, The",GMB,Total population,2007,1639846.0
 Ghana,GHA,Number of people using drinking water services,2007,16366793.690868376
 Ghana,GHA,Total population,2007,22963946.0
 Guinea,GIN,Number of people using drinking water services,2007,5705414.652732804
@@ -643,6 +811,8 @@ Lesotho,LSO,Number of people using drinking water services,2007,1354185.05896474
 Lesotho,LSO,Total population,2007,1986926.0
 Liberia,LBR,Number of people using drinking water services,2007,2342183.0166617427
 Liberia,LBR,Total population,2007,3461911.0
+Libya,LBY,Number of people using drinking water services,2007,5396537.77392469
+Libya,LBY,Total population,2007,5974786.0
 Madagascar,MDG,Number of people using drinking water services,2007,8117158.030345367
 Madagascar,MDG,Total population,2007,19433520.0
 Malawi,MWI,Number of people using drinking water services,2007,7965478.64365058
@@ -653,6 +823,8 @@ Mauritania,MRT,Number of people using drinking water services,2007,1678068.46456
 Mauritania,MRT,Total population,2007,3202512.0
 Mauritius,MUS,Number of people using drinking water services,2007,1234586.928432627
 Mauritius,MUS,Total population,2007,1239630.0
+Morocco,MAR,Number of people using drinking water services,2007,22543315.065139614
+Morocco,MAR,Total population,2007,31163670.0
 Mozambique,MOZ,Number of people using drinking water services,2007,7216180.492902307
 Mozambique,MOZ,Total population,2007,21673319.0
 Namibia,NAM,Number of people using drinking water services,2007,1590807.5216122128
@@ -663,6 +835,8 @@ Nigeria,NGA,Number of people using drinking water services,2007,80187330.1157080
 Nigeria,NGA,Total population,2007,146339971.0
 Rwanda,RWA,Number of people using drinking water services,2007,4723762.68557479
 Rwanda,RWA,Total population,2007,9273759.0
+Sao Tome and Principe,STP,Number of people using drinking water services,2007,120846.8547123604
+Sao Tome and Principe,STP,Total population,2007,166297.0
 Senegal,SEN,Number of people using drinking water services,2007,7991222.094922294
 Senegal,SEN,Total population,2007,11687078.0
 Seychelles,SYC,Number of people using drinking water services,2007,80729.14269714839
@@ -681,12 +855,16 @@ Tanzania,TZA,Number of people using drinking water services,2007,15736921.998223
 Tanzania,TZA,Total population,2007,40681416.0
 Togo,TGO,Number of people using drinking water services,2007,3195330.447891876
 Togo,TGO,Total population,2007,5920360.0
+Tunisia,TUN,Number of people using drinking water services,2007,9397905.459509308
+Tunisia,TUN,Total population,2007,10304729.0
 Uganda,UGA,Number of people using drinking water services,2007,10572064.118143763
 Uganda,UGA,Total population,2007,29486335.0
 Zambia,ZMB,Number of people using drinking water services,2007,6810639.114594803
 Zambia,ZMB,Total population,2007,12502958.0
 Zimbabwe,ZWE,Number of people using drinking water services,2007,8470623.316600977
 Zimbabwe,ZWE,Total population,2007,12255920.0
+Algeria,DZA,Number of people using drinking water services,2008,31897734.244013704
+Algeria,DZA,Total population,2008,34730604.0
 Angola,AGO,Number of people using drinking water services,2008,10581049.279839043
 Angola,AGO,Total population,2008,21695636.0
 Benin,BEN,Number of people using drinking water services,2008,5540132.8741879435
@@ -707,6 +885,16 @@ Chad,TCD,Number of people using drinking water services,2008,4707249.875279683
 Chad,TCD,Total population,2008,11183589.0
 Comoros,COM,Number of people using drinking water services,2008,558879.0210091976
 Comoros,COM,Total population,2008,657227.0
+"Congo, Dem. Rep.",COD,Number of people using drinking water services,2008,23191583.46951022
+"Congo, Dem. Rep.",COD,Total population,2008,60411195.0
+"Congo, Rep.",COG,Number of people using drinking water services,2008,2558140.946017616
+"Congo, Rep.",COG,Total population,2008,4011487.0
+Cote d'Ivoire,CIV,Number of people using drinking water services,2008,13974960.433924148
+Cote d'Ivoire,CIV,Total population,2008,19605568.0
+Djibouti,DJI,Number of people using drinking water services,2008,617003.7552304626
+Djibouti,DJI,Total population,2008,816361.0
+"Egypt, Arab Rep.",EGY,Number of people using drinking water services,2008,78474103.94211748
+"Egypt, Arab Rep.",EGY,Total population,2008,79636081.0
 Equatorial Guinea,GNQ,Number of people using drinking water services,2008,500868.8078206078
 Equatorial Guinea,GNQ,Total population,2008,860839.0
 Eritrea,ERI,Number of people using drinking water services,2008,1520631.5148277602
@@ -717,6 +905,8 @@ Ethiopia,ETH,Number of people using drinking water services,2008,25616811.614528
 Ethiopia,ETH,Total population,2008,82916236.0
 Gabon,GAB,Number of people using drinking water services,2008,1255356.432379339
 Gabon,GAB,Total population,2008,1518538.0
+"Gambia, The",GMB,Number of people using drinking water services,2008,1296329.4209205792
+"Gambia, The",GMB,Total population,2008,1689288.0
 Ghana,GHA,Number of people using drinking water services,2008,17053951.23576824
 Ghana,GHA,Total population,2008,23563832.0
 Guinea,GIN,Number of people using drinking water services,2008,5930612.949802613
@@ -729,6 +919,8 @@ Lesotho,LSO,Number of people using drinking water services,2008,1360081.64790277
 Lesotho,LSO,Total population,2008,1987130.0
 Liberia,LBR,Number of people using drinking water services,2008,2464009.2906540446
 Liberia,LBR,Total population,2008,3607863.0
+Libya,LBY,Number of people using drinking water services,2008,5525075.779761042
+Libya,LBY,Total population,2008,6058740.0
 Madagascar,MDG,Number of people using drinking water services,2008,8528961.294179415
 Madagascar,MDG,Total population,2008,19996476.0
 Malawi,MWI,Number of people using drinking water services,2008,8308295.061791345
@@ -739,6 +931,8 @@ Mauritania,MRT,Number of people using drinking water services,2008,1785909.62156
 Mauritania,MRT,Total population,2008,3296237.0
 Mauritius,MUS,Number of people using drinking water services,2008,1239622.8801512637
 Mauritius,MUS,Total population,2008,1244121.0
+Morocco,MAR,Number of people using drinking water services,2008,23278078.381229587
+Morocco,MAR,Total population,2008,31536807.0
 Mozambique,MOZ,Number of people using drinking water services,2008,7885872.21070802
 Mozambique,MOZ,Total population,2008,22276596.0
 Namibia,NAM,Number of people using drinking water services,2008,1628647.4766766776
@@ -749,6 +943,8 @@ Nigeria,NGA,Number of people using drinking water services,2008,84943606.1934738
 Nigeria,NGA,Total population,2008,150269622.0
 Rwanda,RWA,Number of people using drinking water services,2008,4923644.301229311
 Rwanda,RWA,Total population,2008,9524532.0
+Sao Tome and Principe,STP,Number of people using drinking water services,2008,125389.1331949564
+Sao Tome and Principe,STP,Total population,2008,171122.0
 Senegal,SEN,Number of people using drinking water services,2008,8362978.0493342
 Senegal,SEN,Total population,2008,12004700.0
 Seychelles,SYC,Number of people using drinking water services,2008,82762.76115958401
@@ -767,12 +963,16 @@ Tanzania,TZA,Number of people using drinking water services,2008,16915756.492030
 Tanzania,TZA,Total population,2008,41853944.0
 Togo,TGO,Number of people using drinking water services,2008,3357508.849768249
 Togo,TGO,Total population,2008,6083417.0
+Tunisia,TUN,Number of people using drinking water services,2008,9533952.65593281
+Tunisia,TUN,Total population,2008,10414425.0
 Uganda,UGA,Number of people using drinking water services,2008,11346053.086477064
 Uganda,UGA,Total population,2008,30431734.0
 Zambia,ZMB,Number of people using drinking water services,2008,7112530.32015264
 Zambia,ZMB,Total population,2008,12848531.0
 Zimbabwe,ZWE,Number of people using drinking water services,2008,8491131.06490463
 Zimbabwe,ZWE,Total population,2008,12379553.0
+Algeria,DZA,Number of people using drinking water services,2009,32532624.968643937
+Algeria,DZA,Total population,2009,35333882.0
 Angola,AGO,Number of people using drinking water services,2009,11161489.074363705
 Angola,AGO,Total population,2009,22514275.0
 Benin,BEN,Number of people using drinking water services,2009,5713240.509142189
@@ -793,6 +993,16 @@ Chad,TCD,Number of people using drinking water services,2009,4901965.20661985
 Chad,TCD,Total population,2009,11560142.0
 Comoros,COM,Number of people using drinking water services,2009,567003.5948749272
 Comoros,COM,Total population,2009,673251.0
+"Congo, Dem. Rep.",COD,Number of people using drinking water services,2009,24350917.307826594
+"Congo, Dem. Rep.",COD,Total population,2009,62448572.0
+"Congo, Rep.",COG,Number of people using drinking water services,2009,2687577.17832072
+"Congo, Rep.",COG,Total population,2009,4145400.0
+Cote d'Ivoire,CIV,Number of people using drinking water services,2009,14293542.941658119
+Cote d'Ivoire,CIV,Total population,2009,20059147.0
+Djibouti,DJI,Number of people using drinking water services,2009,625814.916411636
+Djibouti,DJI,Total population,2009,827820.0
+"Egypt, Arab Rep.",EGY,Number of people using drinking water services,2009,80016442.1838352
+"Egypt, Arab Rep.",EGY,Total population,2009,81134789.0
 Equatorial Guinea,GNQ,Number of people using drinking water services,2009,534568.2901723697
 Equatorial Guinea,GNQ,Total population,2009,901589.0
 Eritrea,ERI,Number of people using drinking water services,2009,1554042.2474371362
@@ -803,6 +1013,8 @@ Ethiopia,ETH,Number of people using drinking water services,2009,27730823.112463
 Ethiopia,ETH,Total population,2009,85233923.0
 Gabon,GAB,Number of people using drinking water services,2009,1299629.1229202251
 Gabon,GAB,Total population,2009,1568925.0
+"Gambia, The",GMB,Number of people using drinking water services,2009,1341626.3722424025
+"Gambia, The",GMB,Total population,2009,1740277.0
 Ghana,GHA,Number of people using drinking water services,2009,17760174.431563344
 Ghana,GHA,Total population,2009,24170943.0
 Guinea,GIN,Number of people using drinking water services,2009,6162931.662722292
@@ -815,6 +1027,8 @@ Lesotho,LSO,Number of people using drinking water services,2009,1368040.80332565
 Lesotho,LSO,Total population,2009,1990135.0
 Liberia,LBR,Number of people using drinking water services,2009,2587647.8826498166
 Liberia,LBR,Total population,2009,3754129.0
+Libya,LBY,Number of people using drinking water services,2009,5647058.713925475
+Libya,LBY,Total population,2009,6133987.0
 Madagascar,MDG,Number of people using drinking water services,2009,8955280.981353791
 Madagascar,MDG,Total population,2009,20569115.0
 Malawi,MWI,Number of people using drinking water services,2009,8665717.731175564
@@ -825,6 +1039,8 @@ Mauritania,MRT,Number of people using drinking water services,2009,1899418.23536
 Mauritania,MRT,Total population,2009,3393408.0
 Mauritius,MUS,Number of people using drinking water services,2009,1243485.2463556405
 Mauritius,MUS,Total population,2009,1247429.0
+Morocco,MAR,Number of people using drinking water services,2009,24034003.388446614
+Morocco,MAR,Total population,2009,31929087.0
 Mozambique,MOZ,Number of people using drinking water services,2009,8597420.728021001
 Mozambique,MOZ,Total population,2009,22894718.0
 Namibia,NAM,Number of people using drinking water services,2009,1667304.4468015248
@@ -835,6 +1051,8 @@ Nigeria,NGA,Number of people using drinking water services,2009,89918415.2861563
 Nigeria,NGA,Total population,2009,154324939.0
 Rwanda,RWA,Number of people using drinking water services,2009,5131655.767384836
 Rwanda,RWA,Total population,2009,9782770.0
+Sao Tome and Principe,STP,Number of people using drinking water services,2009,129913.50313890519
+Sao Tome and Principe,STP,Total population,2009,175877.0
 Senegal,SEN,Number of people using drinking water services,2009,8751646.543600485
 Senegal,SEN,Total population,2009,12335092.0
 Seychelles,SYC,Number of people using drinking water services,2009,83297.0360473034
@@ -853,12 +1071,16 @@ Tanzania,TZA,Number of people using drinking water services,2009,18161609.618230
 Tanzania,TZA,Total population,2009,43073830.0
 Togo,TGO,Number of people using drinking water services,2009,3525728.6692552003
 Togo,TGO,Total population,2009,6250840.0
+Tunisia,TUN,Number of people using drinking water services,2009,9671780.474236198
+Tunisia,TUN,Total population,2009,10525691.0
 Uganda,UGA,Number of people using drinking water services,2009,12166755.536584402
 Uganda,UGA,Total population,2009,31411096.0
 Zambia,ZMB,Number of people using drinking water services,2009,7431155.568786302
 Zambia,ZMB,Total population,2009,13215142.0
 Zimbabwe,ZWE,Number of people using drinking water services,2009,8526538.31131841
 Zimbabwe,ZWE,Total population,2009,12526964.0
+Algeria,DZA,Number of people using drinking water services,2010,33205738.881984405
+Algeria,DZA,Total population,2010,35977451.0
 Angola,AGO,Number of people using drinking water services,2010,11766139.398407897
 Angola,AGO,Total population,2010,23356247.0
 Benin,BEN,Number of people using drinking water services,2010,5891027.719554231
@@ -879,6 +1101,16 @@ Chad,TCD,Number of people using drinking water services,2010,5106331.170472609
 Chad,TCD,Total population,2010,11952134.0
 Comoros,COM,Number of people using drinking water services,2010,575247.7060275904
 Comoros,COM,Total population,2010,689696.0
+"Congo, Dem. Rep.",COD,Number of people using drinking water services,2010,25568543.65972246
+"Congo, Dem. Rep.",COD,Total population,2010,64563853.0
+"Congo, Rep.",COG,Number of people using drinking water services,2010,2816133.085031762
+"Congo, Rep.",COG,Total population,2010,4273738.0
+Cote d'Ivoire,CIV,Number of people using drinking water services,2010,14625929.33981885
+Cote d'Ivoire,CIV,Total population,2010,20532944.0
+Djibouti,DJI,Number of people using drinking water services,2010,635353.0884512484
+Djibouti,DJI,Total population,2010,840194.0
+"Egypt, Arab Rep.",EGY,Number of people using drinking water services,2010,81687347.18240869
+"Egypt, Arab Rep.",EGY,Total population,2010,82761244.0
 Equatorial Guinea,GNQ,Number of people using drinking water services,2010,570348.878945568
 Equatorial Guinea,GNQ,Total population,2010,943640.0
 Eritrea,ERI,Number of people using drinking water services,2010,1584501.3994628105
@@ -889,6 +1121,8 @@ Ethiopia,ETH,Number of people using drinking water services,2010,29940018.775010
 Ethiopia,ETH,Total population,2010,87639962.0
 Gabon,GAB,Number of people using drinking water services,2010,1347895.9037134214
 Gabon,GAB,Total population,2010,1624146.0
+"Gambia, The",GMB,Number of people using drinking water services,2010,1388779.6947485174
+"Gambia, The",GMB,Total population,2010,1793199.0
 Ghana,GHA,Number of people using drinking water services,2010,18481780.691570662
 Ghana,GHA,Total population,2010,24779614.0
 Guinea,GIN,Number of people using drinking water services,2010,6400639.247271473
@@ -901,6 +1135,8 @@ Lesotho,LSO,Number of people using drinking water services,2010,1377851.79055762
 Lesotho,LSO,Total population,2010,1995575.0
 Liberia,LBR,Number of people using drinking water services,2010,2706566.883352691
 Liberia,LBR,Total population,2010,3891357.0
+Libya,LBY,Number of people using drinking water services,2010,5759601.482525857
+Libya,LBY,Total population,2010,6197667.0
 Madagascar,MDG,Number of people using drinking water services,2010,9396674.514096484
 Madagascar,MDG,Total population,2010,21151640.0
 Malawi,MWI,Number of people using drinking water services,2010,9036160.574671026
@@ -911,6 +1147,8 @@ Mauritania,MRT,Number of people using drinking water services,2010,2018962.51317
 Mauritania,MRT,Total population,2010,3494200.0
 Mauritius,MUS,Number of people using drinking water services,2010,1247016.0846184802
 Mauritius,MUS,Total population,2010,1250400.0
+Morocco,MAR,Number of people using drinking water services,2010,24814314.27707438
+Morocco,MAR,Total population,2010,32343384.0
 Mozambique,MOZ,Number of people using drinking water services,2010,9351439.932419801
 Mozambique,MOZ,Total population,2010,23531567.0
 Namibia,NAM,Number of people using drinking water services,2010,1706325.1465378131
@@ -921,6 +1159,8 @@ Nigeria,NGA,Number of people using drinking water services,2010,95119020.9670364
 Nigeria,NGA,Total population,2010,158503203.0
 Rwanda,RWA,Number of people using drinking water services,2010,5343081.091363724
 Rwanda,RWA,Total population,2010,10039338.0
+Sao Tome and Principe,STP,Number of people using drinking water services,2010,134276.33670885238
+Sao Tome and Principe,STP,Total population,2010,180372.0
 Senegal,SEN,Number of people using drinking water services,2010,9157679.526524337
 Senegal,SEN,Total population,2010,12678143.0
 Seychelles,SYC,Number of people using drinking water services,2010,85870.420159802
@@ -939,12 +1179,16 @@ Tanzania,TZA,Number of people using drinking water services,2010,19480613.753115
 Tanzania,TZA,Total population,2010,44346532.0
 Togo,TGO,Number of people using drinking water services,2010,3699680.6290926347
 Togo,TGO,Total population,2010,6421674.0
+Tunisia,TUN,Number of people using drinking water services,2010,9808344.272328753
+Tunisia,TUN,Total population,2010,10635245.0
 Uganda,UGA,Number of people using drinking water services,2010,13037804.528145468
 Uganda,UGA,Total population,2010,32428164.0
 Zambia,ZMB,Number of people using drinking water services,2010,7769047.246624513
 Zambia,ZMB,Total population,2010,13605986.0
 Zimbabwe,ZWE,Number of people using drinking water services,2010,8576135.765697217
 Zimbabwe,ZWE,Total population,2010,12697728.0
+Algeria,DZA,Number of people using drinking water services,2011,33917327.235670455
+Algeria,DZA,Total population,2011,36661438.0
 Angola,AGO,Number of people using drinking water services,2011,12394882.485730682
 Angola,AGO,Total population,2011,24220660.0
 Benin,BEN,Number of people using drinking water services,2011,6073674.616479763
@@ -965,6 +1209,16 @@ Chad,TCD,Number of people using drinking water services,2011,5321144.551130787
 Chad,TCD,Total population,2011,12360986.0
 Comoros,COM,Number of people using drinking water services,2011,583618.445366799
 Comoros,COM,Total population,2011,706578.0
+"Congo, Dem. Rep.",COD,Number of people using drinking water services,2011,26846127.214717805
+"Congo, Dem. Rep.",COD,Total population,2011,66755151.0
+"Congo, Rep.",COG,Number of people using drinking water services,2011,2942442.4114107396
+"Congo, Rep.",COG,Total population,2011,4394842.0
+Cote d'Ivoire,CIV,Number of people using drinking water services,2011,14973281.888086673
+Cote d'Ivoire,CIV,Total population,2011,21028652.0
+Djibouti,DJI,Number of people using drinking water services,2011,645763.6906707714
+Djibouti,DJI,Total population,2011,853671.0
+"Egypt, Arab Rep.",EGY,Number of people using drinking water services,2011,83500791.38822702
+"Egypt, Arab Rep.",EGY,Total population,2011,84529251.0
 Equatorial Guinea,GNQ,Number of people using drinking water services,2011,608198.6041937729
 Equatorial Guinea,GNQ,Total population,2011,986861.0
 Eritrea,ERI,Number of people using drinking water services,2011,1611822.3409787137
@@ -975,6 +1229,8 @@ Ethiopia,ETH,Number of people using drinking water services,2011,32248664.222307
 Ethiopia,ETH,Total population,2011,90139928.0
 Gabon,GAB,Number of people using drinking water services,2011,1400510.8720705914
 Gabon,GAB,Total population,2011,1684629.0
+"Gambia, The",GMB,Number of people using drinking water services,2011,1437872.0538633764
+"Gambia, The",GMB,Total population,2011,1848142.0
 Ghana,GHA,Number of people using drinking water services,2011,19217113.62546029
 Ghana,GHA,Total population,2011,25387713.0
 Guinea,GIN,Number of people using drinking water services,2011,6565760.35580196
@@ -987,6 +1243,8 @@ Lesotho,LSO,Number of people using drinking water services,2011,1389774.41041263
 Lesotho,LSO,Total population,2011,2003793.0
 Liberia,LBR,Number of people using drinking water services,2011,2819100.665574548
 Liberia,LBR,Total population,2011,4017446.0
+Libya,LBY,Number of people using drinking water services,2011,5860205.360123828
+Libya,LBY,Total population,2011,6247438.0
 Madagascar,MDG,Number of people using drinking water services,2011,9853303.83689112
 Madagascar,MDG,Total population,2011,21743970.0
 Malawi,MWI,Number of people using drinking water services,2011,9419775.632861324
@@ -997,6 +1255,8 @@ Mauritania,MRT,Number of people using drinking water services,2011,2144773.69235
 Mauritania,MRT,Total population,2011,3598646.0
 Mauritius,MUS,Number of people using drinking water services,2011,1249586.3635231105
 Mauritius,MUS,Total population,2011,1252404.0
+Morocco,MAR,Number of people using drinking water services,2011,25620953.635120243
+Morocco,MAR,Total population,2011,32781860.0
 Mozambique,MOZ,Number of people using drinking water services,2011,10149574.587975
 Mozambique,MOZ,Total population,2011,24187500.0
 Namibia,NAM,Number of people using drinking water services,2011,1745513.6363299813
@@ -1007,6 +1267,8 @@ Nigeria,NGA,Number of people using drinking water services,2011,100546700.058613
 Nigeria,NGA,Total population,2011,162805080.0
 Rwanda,RWA,Number of people using drinking water services,2011,5557452.297081351
 Rwanda,RWA,Total population,2011,10293333.0
+Sao Tome and Principe,STP,Number of people using drinking water services,2011,138406.7741542299
+Sao Tome and Principe,STP,Total population,2011,184521.0
 Senegal,SEN,Number of people using drinking water services,2011,9581436.211519003
 Senegal,SEN,Total population,2011,13033814.0
 Seychelles,SYC,Number of people using drinking water services,2011,83851.70012914379
@@ -1025,12 +1287,16 @@ Tanzania,TZA,Number of people using drinking water services,2011,20876114.030575
 Tanzania,TZA,Total population,2011,45673520.0
 Togo,TGO,Number of people using drinking water services,2011,3880044.0372255533
 Togo,TGO,Total population,2011,6595939.0
+Tunisia,TUN,Number of people using drinking water services,2011,9927457.376848724
+Tunisia,TUN,Total population,2011,10741872.0
 Uganda,UGA,Number of people using drinking water services,2011,13958522.785162149
 Uganda,UGA,Total population,2011,33476772.0
 Zambia,ZMB,Number of people using drinking water services,2011,8127853.295036131
 Zambia,ZMB,Total population,2011,14023199.0
 Zimbabwe,ZWE,Number of people using drinking water services,2011,8641269.35165334
 Zimbabwe,ZWE,Total population,2011,12894323.0
+Algeria,DZA,Number of people using drinking water services,2012,34671767.57750767
+Algeria,DZA,Total population,2012,37383899.0
 Angola,AGO,Number of people using drinking water services,2012,13048222.322982175
 Angola,AGO,Total population,2012,25107925.0
 Benin,BEN,Number of people using drinking water services,2012,6261055.305237413
@@ -1051,6 +1317,16 @@ Chad,TCD,Number of people using drinking water services,2012,5545810.875155641
 Chad,TCD,Total population,2012,12784748.0
 Comoros,COM,Number of people using drinking water services,2012,592084.732365377
 Comoros,COM,Total population,2012,723865.0
+"Congo, Dem. Rep.",COD,Number of people using drinking water services,2012,28184071.426680014
+"Congo, Dem. Rep.",COD,Total population,2012,69020749.0
+"Congo, Rep.",COG,Number of people using drinking water services,2012,3067275.4202495744
+"Congo, Rep.",COG,Total population,2012,4510197.0
+Cote d'Ivoire,CIV,Number of people using drinking water services,2012,15336139.12371286
+Cote d'Ivoire,CIV,Total population,2012,21547188.0
+Djibouti,DJI,Number of people using drinking water services,2012,656960.4478984976
+Djibouti,DJI,Total population,2012,868136.0
+"Egypt, Arab Rep.",EGY,Number of people using drinking water services,2012,85440413.84419236
+"Egypt, Arab Rep.",EGY,Total population,2012,86422240.0
 Equatorial Guinea,GNQ,Number of people using drinking water services,2012,648143.6253785746
 Equatorial Guinea,GNQ,Total population,2012,1031191.0
 Eritrea,ERI,Number of people using drinking water services,2012,
@@ -1061,6 +1337,8 @@ Ethiopia,ETH,Number of people using drinking water services,2012,34658588.560608
 Ethiopia,ETH,Total population,2012,92726982.0
 Gabon,GAB,Number of people using drinking water services,2012,1456914.0295549715
 Gabon,GAB,Total population,2012,1749677.0
+"Gambia, The",GMB,Number of people using drinking water services,2012,1488864.824899166
+"Gambia, The",GMB,Total population,2012,1905020.0
 Ghana,GHA,Number of people using drinking water services,2012,19967102.74871726
 Ghana,GHA,Total population,2012,25996454.0
 Guinea,GIN,Number of people using drinking water services,2012,6731402.432170214
@@ -1073,6 +1351,8 @@ Lesotho,LSO,Number of people using drinking water services,2012,1403354.41155310
 Lesotho,LSO,Total population,2012,2014988.0
 Liberia,LBR,Number of people using drinking water services,2012,2927306.582471565
 Liberia,LBR,Total population,2012,4135662.0
+Libya,LBY,Number of people using drinking water services,2012,5950827.739297966
+Libya,LBY,Total population,2012,6285751.0
 Madagascar,MDG,Number of people using drinking water services,2012,10325702.134119133
 Madagascar,MDG,Total population,2012,22346641.0
 Malawi,MWI,Number of people using drinking water services,2012,9816907.18957069
@@ -1083,6 +1363,8 @@ Mauritania,MRT,Number of people using drinking water services,2012,2276948.06929
 Mauritania,MRT,Total population,2012,3706555.0
 Mauritius,MUS,Number of people using drinking water services,2012,1253631.372800142
 Mauritius,MUS,Total population,2012,1255882.0
+Morocco,MAR,Number of people using drinking water services,2012,26452742.13324707
+Morocco,MAR,Total population,2012,33241898.0
 Mozambique,MOZ,Number of people using drinking water services,2012,10993650.340337934
 Mozambique,MOZ,Total population,2012,24862673.0
 Namibia,NAM,Number of people using drinking water services,2012,1785260.3660124324
@@ -1093,6 +1375,8 @@ Nigeria,NGA,Number of people using drinking water services,2012,106207363.898894
 Nigeria,NGA,Total population,2012,167228803.0
 Rwanda,RWA,Number of people using drinking water services,2012,5777460.24588423
 Rwanda,RWA,Total population,2012,10549668.0
+Sao Tome and Principe,STP,Number of people using drinking water services,2012,142350.867268707
+Sao Tome and Principe,STP,Total population,2012,188394.0
 Senegal,SEN,Number of people using drinking water services,2012,10023214.293058805
 Senegal,SEN,Total population,2012,13401990.0
 Seychelles,SYC,Number of people using drinking water services,2012,84889.4869206733
@@ -1111,12 +1395,16 @@ Tanzania,TZA,Number of people using drinking water services,2012,22351068.454035
 Tanzania,TZA,Total population,2012,47053033.0
 Togo,TGO,Number of people using drinking water services,2012,4066778.8650931483
 Togo,TGO,Total population,2012,6773807.0
+Tunisia,TUN,Number of people using drinking water services,2012,10091023.38142074
+Tunisia,TUN,Total population,2012,10846993.0
 Uganda,UGA,Number of people using drinking water services,2012,14931574.255461821
 Uganda,UGA,Total population,2012,34558700.0
 Zambia,ZMB,Number of people using drinking water services,2012,8507511.620121501
 Zambia,ZMB,Total population,2012,14465148.0
 Zimbabwe,ZWE,Number of people using drinking water services,2012,8720417.943958687
 Zimbabwe,ZWE,Total population,2012,13115149.0
+Algeria,DZA,Number of people using drinking water services,2013,35459220.489034764
+Algeria,DZA,Total population,2013,38140135.0
 Angola,AGO,Number of people using drinking water services,2013,13725238.453172162
 Angola,AGO,Total population,2013,26015786.0
 Benin,BEN,Number of people using drinking water services,2013,6453164.326387177
@@ -1137,6 +1425,16 @@ Chad,TCD,Number of people using drinking water services,2013,5779153.976552999
 Chad,TCD,Total population,2013,13220433.0
 Comoros,COM,Number of people using drinking water services,2013,600605.8938779886
 Comoros,COM,Total population,2013,741511.0
+"Congo, Dem. Rep.",COD,Number of people using drinking water services,2013,29583343.260299623
+"Congo, Dem. Rep.",COD,Total population,2013,71358804.0
+"Congo, Rep.",COG,Number of people using drinking water services,2013,3192454.6580351316
+"Congo, Rep.",COG,Total population,2013,4622757.0
+Cote d'Ivoire,CIV,Number of people using drinking water services,2013,15713703.996990927
+Cote d'Ivoire,CIV,Total population,2013,22087506.0
+Djibouti,DJI,Number of people using drinking water services,2013,668728.2245431392
+Djibouti,DJI,Total population,2013,883296.0
+"Egypt, Arab Rep.",EGY,Number of people using drinking water services,2013,87471716.99136631
+"Egypt, Arab Rep.",EGY,Total population,2013,88404652.0
 Equatorial Guinea,GNQ,Number of people using drinking water services,2013,685367.8293334944
 Equatorial Guinea,GNQ,Total population,2013,1076412.0
 Eritrea,ERI,Number of people using drinking water services,2013,
@@ -1147,6 +1445,8 @@ Ethiopia,ETH,Number of people using drinking water services,2013,37157455.434159
 Ethiopia,ETH,Total population,2013,95385793.0
 Gabon,GAB,Number of people using drinking water services,2013,1515228.69435021
 Gabon,GAB,Total population,2013,1817070.0
+"Gambia, The",GMB,Number of people using drinking water services,2013,1541662.6270594036
+"Gambia, The",GMB,Total population,2013,1963708.0
 Ghana,GHA,Number of people using drinking water services,2013,20733121.93455291
 Ghana,GHA,Total population,2013,26607641.0
 Guinea,GIN,Number of people using drinking water services,2013,6901211.646156082
@@ -1159,6 +1459,8 @@ Lesotho,LSO,Number of people using drinking water services,2013,1418749.55887403
 Lesotho,LSO,Total population,2013,2028528.0
 Liberia,LBR,Number of people using drinking water services,2013,3032697.2790977447
 Liberia,LBR,Total population,2013,4248337.0
+Libya,LBY,Number of people using drinking water services,2013,6038568.323490244
+Libya,LBY,Total population,2013,6320350.0
 Madagascar,MDG,Number of people using drinking water services,2013,10814823.248156415
 Madagascar,MDG,Total population,2013,22961259.0
 Malawi,MWI,Number of people using drinking water services,2013,10226526.477680424
@@ -1169,6 +1471,8 @@ Mauritania,MRT,Number of people using drinking water services,2013,2415385.77928
 Mauritania,MRT,Total population,2013,3817497.0
 Mauritius,MUS,Number of people using drinking water services,2013,1256975.1136001071
 Mauritius,MUS,Total population,2013,1258653.0
+Morocco,MAR,Number of people using drinking water services,2013,27303869.945636608
+Morocco,MAR,Total population,2013,33715705.0
 Mozambique,MOZ,Number of people using drinking water services,2013,11887156.242173204
 Mozambique,MOZ,Total population,2013,25560752.0
 Namibia,NAM,Number of people using drinking water services,2013,1825712.7427640706
@@ -1179,6 +1483,8 @@ Nigeria,NGA,Number of people using drinking water services,2013,112101290.591990
 Nigeria,NGA,Total population,2013,171765819.0
 Rwanda,RWA,Number of people using drinking water services,2013,6004905.512260892
 Rwanda,RWA,Total population,2013,10811538.0
+Sao Tome and Principe,STP,Number of people using drinking water services,2013,146162.2755813184
+Sao Tome and Principe,STP,Total population,2013,192076.0
 Senegal,SEN,Number of people using drinking water services,2013,10483290.722651282
 Senegal,SEN,Total population,2013,13782429.0
 Seychelles,SYC,Number of people using drinking water services,2013,86560.6087390482
@@ -1197,12 +1503,16 @@ Tanzania,TZA,Number of people using drinking water services,2013,23907196.010073
 Tanzania,TZA,Total population,2013,48483132.0
 Togo,TGO,Number of people using drinking water services,2013,4259246.100316197
 Togo,TGO,Total population,2013,6954721.0
+Tunisia,TUN,Number of people using drinking water services,2013,10256216.006046873
+Tunisia,TUN,Total population,2013,10952949.0
 Uganda,UGA,Number of people using drinking water services,2013,15967575.328298552
 Uganda,UGA,Total population,2013,35694519.0
 Zambia,ZMB,Number of people using drinking water services,2013,8905472.639218854
 Zambia,ZMB,Total population,2013,14926551.0
 Zimbabwe,ZWE,Number of people using drinking water services,2013,8806773.6563024
 Zimbabwe,ZWE,Total population,2013,13350378.0
+Algeria,DZA,Number of people using drinking water services,2014,36273900.13383095
+Algeria,DZA,Total population,2014,38923688.0
 Angola,AGO,Number of people using drinking water services,2014,14425031.249777338
 Angola,AGO,Total population,2014,26941773.0
 Benin,BEN,Number of people using drinking water services,2014,6650111.9692515535
@@ -1223,6 +1533,16 @@ Chad,TCD,Number of people using drinking water services,2014,6019349.165570613
 Chad,TCD,Total population,2014,13663562.0
 Comoros,COM,Number of people using drinking water services,2014,609076.6201976549
 Comoros,COM,Total population,2014,759390.0
+"Congo, Dem. Rep.",COD,Number of people using drinking water services,2014,31045260.688362177
+"Congo, Dem. Rep.",COD,Total population,2014,73767445.0
+"Congo, Rep.",COG,Number of people using drinking water services,2014,3320945.976231486
+"Congo, Rep.",COG,Total population,2014,4736965.0
+Cote d'Ivoire,CIV,Number of people using drinking water services,2014,16104546.57369821
+Cote d'Ivoire,CIV,Total population,2014,22647672.0
+Djibouti,DJI,Number of people using drinking water services,2014,680728.2647408219
+Djibouti,DJI,Total population,2014,898707.0
+"Egypt, Arab Rep.",EGY,Number of people using drinking water services,2014,89543595.62518904
+"Egypt, Arab Rep.",EGY,Total population,2014,90424668.0
 Equatorial Guinea,GNQ,Number of people using drinking water services,2014,717429.5682156135
 Equatorial Guinea,GNQ,Total population,2014,1122273.0
 Eritrea,ERI,Number of people using drinking water services,2014,
@@ -1233,6 +1553,8 @@ Ethiopia,ETH,Number of people using drinking water services,2014,39747282.455325
 Ethiopia,ETH,Total population,2014,98094264.0
 Gabon,GAB,Number of people using drinking water services,2014,1572870.6861575842
 Gabon,GAB,Total population,2014,1883801.0
+"Gambia, The",GMB,Number of people using drinking water services,2014,1596146.9782691905
+"Gambia, The",GMB,Total population,2014,2024037.0
 Ghana,GHA,Number of people using drinking water services,2014,21517855.8124404
 Ghana,GHA,Total population,2014,27224480.0
 Guinea,GIN,Number of people using drinking water services,2014,7080269.667490607
@@ -1245,6 +1567,8 @@ Lesotho,LSO,Number of people using drinking water services,2014,1435311.82557219
 Lesotho,LSO,Total population,2014,2043448.0
 Liberia,LBR,Number of people using drinking water services,2014,3138032.9005246963
 Liberia,LBR,Total population,2014,4359508.0
+Libya,LBY,Number of people using drinking water services,2014,6133746.494249987
+Libya,LBY,Total population,2014,6362039.0
 Madagascar,MDG,Number of people using drinking water services,2014,11322104.083861204
 Madagascar,MDG,Total population,2014,23589897.0
 Malawi,MWI,Number of people using drinking water services,2014,10647109.19008854
@@ -1255,6 +1579,8 @@ Mauritania,MRT,Number of people using drinking water services,2014,2559776.79699
 Mauritania,MRT,Total population,2014,3930894.0
 Mauritius,MUS,Number of people using drinking water services,2014,1259251.7483572722
 Mauritius,MUS,Total population,2014,1260934.0
+Morocco,MAR,Number of people using drinking water services,2014,28165747.153152026
+Morocco,MAR,Total population,2014,34192358.0
 Mozambique,MOZ,Number of people using drinking water services,2014,12834317.209983107
 Mozambique,MOZ,Total population,2014,26286192.0
 Namibia,NAM,Number of people using drinking water services,2014,1867314.3045303256
@@ -1265,6 +1591,8 @@ Nigeria,NGA,Number of people using drinking water services,2014,118227477.453353
 Nigeria,NGA,Total population,2014,176404931.0
 Rwanda,RWA,Number of people using drinking water services,2014,6243116.742858009
 Rwanda,RWA,Total population,2014,11083629.0
+Sao Tome and Principe,STP,Number of people using drinking water services,2014,149960.687771713
+Sao Tome and Principe,STP,Total population,2014,195727.0
 Senegal,SEN,Number of people using drinking water services,2014,10961764.41311652
 Senegal,SEN,Total population,2014,14174740.0
 Seychelles,SYC,Number of people using drinking water services,2014,87925.6923917103
@@ -1283,12 +1611,16 @@ Tanzania,TZA,Number of people using drinking water services,2014,25545365.308974
 Tanzania,TZA,Total population,2014,49960563.0
 Togo,TGO,Number of people using drinking water services,2014,4457152.795584209
 Togo,TGO,Total population,2014,7137997.0
+Tunisia,TUN,Number of people using drinking water services,2014,10426345.980032483
+Tunisia,TUN,Total population,2014,11063195.0
 Uganda,UGA,Number of people using drinking water services,2014,17082498.11741621
 Uganda,UGA,Total population,2014,36911530.0
 Zambia,ZMB,Number of people using drinking water services,2014,9317388.517494272
 Zambia,ZMB,Total population,2014,15399793.0
 Zimbabwe,ZWE,Number of people using drinking water services,2014,8893059.861502878
 Zimbabwe,ZWE,Total population,2014,13586710.0
+Algeria,DZA,Number of people using drinking water services,2015,37109769.28655071
+Algeria,DZA,Total population,2015,39728020.0
 Angola,AGO,Number of people using drinking water services,2015,15145938.705441728
 Angola,AGO,Total population,2015,27884380.0
 Benin,BEN,Number of people using drinking water services,2015,6851829.707455526
@@ -1309,6 +1641,16 @@ Chad,TCD,Number of people using drinking water services,2015,6265143.697698579
 Chad,TCD,Total population,2015,14110971.0
 Comoros,COM,Number of people using drinking water services,2015,622974.214821948
 Comoros,COM,Total population,2015,777435.0
+"Congo, Dem. Rep.",COD,Number of people using drinking water services,2015,32570276.39704424
+"Congo, Dem. Rep.",COD,Total population,2015,76244532.0
+"Congo, Rep.",COG,Number of people using drinking water services,2015,3455089.8598622456
+"Congo, Rep.",COG,Total population,2015,4856093.0
+Cote d'Ivoire,CIV,Number of people using drinking water services,2015,16508162.812329013
+Cote d'Ivoire,CIV,Total population,2015,23226148.0
+Djibouti,DJI,Number of people using drinking water services,2015,692692.0758332994
+Djibouti,DJI,Total population,2015,913998.0
+"Egypt, Arab Rep.",EGY,Number of people using drinking water services,2015,91616775.9242061
+"Egypt, Arab Rep.",EGY,Total population,2015,92442549.0
 Equatorial Guinea,GNQ,Number of people using drinking water services,2015,749975.0942314875
 Equatorial Guinea,GNQ,Total population,2015,1168575.0
 Eritrea,ERI,Number of people using drinking water services,2015,
@@ -1319,6 +1661,8 @@ Ethiopia,ETH,Number of people using drinking water services,2015,42421542.838524
 Ethiopia,ETH,Total population,2015,100835453.0
 Gabon,GAB,Number of people using drinking water services,2015,1633303.356685695
 Gabon,GAB,Total population,2015,1947690.0
+"Gambia, The",GMB,Number of people using drinking water services,2015,1652213.1789569
+"Gambia, The",GMB,Total population,2015,2085860.0
 Ghana,GHA,Number of people using drinking water services,2015,22323353.343603995
 Ghana,GHA,Total population,2015,27849203.0
 Guinea,GIN,Number of people using drinking water services,2015,7272572.402986758
@@ -1331,6 +1675,8 @@ Lesotho,LSO,Number of people using drinking water services,2015,1452543.50477183
 Lesotho,LSO,Total population,2015,2059011.0
 Liberia,LBR,Number of people using drinking water services,2015,3245487.280380343
 Liberia,LBR,Total population,2015,4472229.0
+Libya,LBY,Number of people using drinking water services,2015,6243840.498056554
+Libya,LBY,Total population,2015,6418315.0
 Madagascar,MDG,Number of people using drinking water services,2015,11848471.513102433
 Madagascar,MDG,Total population,2015,24234080.0
 Malawi,MWI,Number of people using drinking water services,2015,11077849.680618377
@@ -1341,6 +1687,8 @@ Mauritania,MRT,Number of people using drinking water services,2015,2709943.69718
 Mauritania,MRT,Total population,2015,4046304.0
 Mauritius,MUS,Number of people using drinking water services,2015,1260919.1927834111
 Mauritius,MUS,Total population,2015,1262605.0
+Morocco,MAR,Number of people using drinking water services,2015,29031164.39708231
+Morocco,MAR,Total population,2015,34663608.0
 Mozambique,MOZ,Number of people using drinking water services,2015,13839061.812049951
 Mozambique,MOZ,Total population,2015,27042001.0
 Namibia,NAM,Number of people using drinking water services,2015,1910352.0298287019
@@ -1351,6 +1699,8 @@ Nigeria,NGA,Number of people using drinking water services,2015,124585897.907669
 Nigeria,NGA,Total population,2015,181137454.0
 Rwanda,RWA,Number of people using drinking water services,2015,6494212.188704653
 Rwanda,RWA,Total population,2015,11369066.0
+Sao Tome and Principe,STP,Number of people using drinking water services,2015,153815.7926508781
+Sao Tome and Principe,STP,Total population,2015,199439.0
 Senegal,SEN,Number of people using drinking water services,2015,11458966.91734489
 Senegal,SEN,Total population,2015,14578450.0
 Seychelles,SYC,Number of people using drinking water services,2015,89916.62033038499
@@ -1369,12 +1719,16 @@ Tanzania,TZA,Number of people using drinking water services,2015,27267158.639833
 Tanzania,TZA,Total population,2015,51482638.0
 Togo,TGO,Number of people using drinking water services,2015,4660249.854755187
 Togo,TGO,Total population,2015,7323162.0
+Tunisia,TUN,Number of people using drinking water services,2015,10603675.405907001
+Tunisia,TUN,Total population,2015,11179951.0
 Uganda,UGA,Number of people using drinking water services,2015,18287649.53487587
 Uganda,UGA,Total population,2015,38225447.0
 Zambia,ZMB,Number of people using drinking water services,2015,9740206.475162435
 Zambia,ZMB,Total population,2015,15879370.0
 Zimbabwe,ZWE,Number of people using drinking water services,2015,8973290.917900285
 Zimbabwe,ZWE,Total population,2015,13814642.0
+Algeria,DZA,Number of people using drinking water services,2016,37965345.118624315
+Algeria,DZA,Total population,2016,40551398.0
 Angola,AGO,Number of people using drinking water services,2016,15887672.51703724
 Angola,AGO,Total population,2016,28842482.0
 Benin,BEN,Number of people using drinking water services,2016,7058371.420824834
@@ -1395,6 +1749,16 @@ Chad,TCD,Number of people using drinking water services,2016,6516152.618498021
 Chad,TCD,Total population,2016,14561658.0
 Comoros,COM,Number of people using drinking water services,2016,637661.8866303873
 Comoros,COM,Total population,2016,795597.0
+"Congo, Dem. Rep.",COD,Number of people using drinking water services,2016,34159689.321407
+"Congo, Dem. Rep.",COD,Total population,2016,78789130.0
+"Congo, Rep.",COG,Number of people using drinking water services,2016,3595614.3896161066
+"Congo, Rep.",COG,Total population,2016,4980996.0
+Cote d'Ivoire,CIV,Number of people using drinking water services,2016,16924234.394770462
+Cote d'Ivoire,CIV,Total population,2016,23822726.0
+Djibouti,DJI,Number of people using drinking water services,2016,704573.8321625878
+Djibouti,DJI,Total population,2016,929117.0
+"Egypt, Arab Rep.",EGY,Number of people using drinking water services,2016,93680135.26388142
+"Egypt, Arab Rep.",EGY,Total population,2016,94447071.0
 Equatorial Guinea,GNQ,Number of people using drinking water services,2016,782886.6866974671
 Equatorial Guinea,GNQ,Total population,2016,1215181.0
 Eritrea,ERI,Number of people using drinking water services,2016,
@@ -1405,6 +1769,8 @@ Ethiopia,ETH,Number of people using drinking water services,2016,45178442.183654
 Ethiopia,ETH,Total population,2016,103603461.0
 Gabon,GAB,Number of people using drinking water services,2016,1690808.3066668608
 Gabon,GAB,Total population,2016,2007882.0
+"Gambia, The",GMB,Number of people using drinking water services,2016,1709833.1212234974
+"Gambia, The",GMB,Total population,2016,2149134.0
 Ghana,GHA,Number of people using drinking water services,2016,23150064.186010793
 Ghana,GHA,Total population,2016,28481947.0
 Guinea,GIN,Number of people using drinking water services,2016,7479528.9621273605
@@ -1417,6 +1783,8 @@ Lesotho,LSO,Number of people using drinking water services,2016,1470319.80335060
 Lesotho,LSO,Total population,2016,2075041.0
 Liberia,LBR,Number of people using drinking water services,2016,3355272.916698506
 Liberia,LBR,Total population,2016,4586788.0
+Libya,LBY,Number of people using drinking water services,2016,6372157.921908735
+Libya,LBY,Total population,2016,6492160.0
 Madagascar,MDG,Number of people using drinking water services,2016,12394742.029738912
 Madagascar,MDG,Total population,2016,24894370.0
 Malawi,MWI,Number of people using drinking water services,2016,11517774.24651724
@@ -1427,6 +1795,8 @@ Mauritania,MRT,Number of people using drinking water services,2016,2865843.07402
 Mauritania,MRT,Total population,2016,4163532.0
 Mauritius,MUS,Number of people using drinking water services,2016,1261784.9577456545
 Mauritius,MUS,Total population,2016,1263473.0
+Morocco,MAR,Number of people using drinking water services,2016,29897002.2446983
+Morocco,MAR,Total population,2016,35126274.0
 Mozambique,MOZ,Number of people using drinking water services,2016,14904949.946626022
 Mozambique,MOZ,Total population,2016,27829930.0
 Namibia,NAM,Number of people using drinking water services,2016,1954823.5931912847
@@ -1437,6 +1807,8 @@ Nigeria,NGA,Number of people using drinking water services,2016,131178095.794278
 Nigeria,NGA,Total population,2016,185960244.0
 Rwanda,RWA,Number of people using drinking water services,2016,6759076.968992467
 Rwanda,RWA,Total population,2016,11668829.0
+Sao Tome and Principe,STP,Number of people using drinking water services,2016,157735.06382070843
+Sao Tome and Principe,STP,Total population,2016,203221.0
 Senegal,SEN,Number of people using drinking water services,2016,11975153.903991705
 Senegal,SEN,Total population,2016,14993514.0
 Seychelles,SYC,Number of people using drinking water services,2016,91127.45654545499
@@ -1455,12 +1827,16 @@ Tanzania,TZA,Number of people using drinking water services,2016,29074908.522776
 Tanzania,TZA,Total population,2016,53049231.0
 Togo,TGO,Number of people using drinking water services,2016,4868521.028437926
 Togo,TGO,Total population,2016,7509952.0
+Tunisia,TUN,Number of people using drinking water services,2016,10788939.58872859
+Tunisia,TUN,Total population,2016,11303942.0
 Uganda,UGA,Number of people using drinking water services,2016,19593964.757839046
 Uganda,UGA,Total population,2016,39649173.0
 Zambia,ZMB,Number of people using drinking water services,2016,10172699.501802478
 Zambia,ZMB,Total population,2016,16363449.0
 Zimbabwe,ZWE,Number of people using drinking water services,2016,9045213.604807537
 Zimbabwe,ZWE,Total population,2016,14030338.0
+Algeria,DZA,Number of people using drinking water services,2017,38836280.36889317
+Algeria,DZA,Total population,2017,41389174.0
 Angola,AGO,Number of people using drinking water services,2017,16650550.3803208
 Angola,AGO,Total population,2017,29816769.0
 Benin,BEN,Number of people using drinking water services,2017,7269733.403346155
@@ -1481,6 +1857,16 @@ Chad,TCD,Number of people using drinking water services,2017,6772936.065627352
 Chad,TCD,Total population,2017,15016761.0
 Comoros,COM,Number of people using drinking water services,2017,652475.427388554
 Comoros,COM,Total population,2017,813890.0
+"Congo, Dem. Rep.",COD,Number of people using drinking water services,2017,35813697.833164394
+"Congo, Dem. Rep.",COD,Total population,2017,81398765.0
+"Congo, Rep.",COG,Number of people using drinking water services,2017,3741940.8466710304
+"Congo, Rep.",COG,Total population,2017,5110701.0
+Cote d'Ivoire,CIV,Number of people using drinking water services,2017,17352852.227965843
+Cote d'Ivoire,CIV,Total population,2017,24437475.0
+Djibouti,DJI,Number of people using drinking water services,2017,716406.8776454701
+Djibouti,DJI,Total population,2017,944100.0
+"Egypt, Arab Rep.",EGY,Number of people using drinking water services,2017,95738090.55560927
+"Egypt, Arab Rep.",EGY,Total population,2017,96442590.0
 Equatorial Guinea,GNQ,Number of people using drinking water services,2017,816087.7719424847
 Equatorial Guinea,GNQ,Total population,2017,1262008.0
 Eritrea,ERI,Number of people using drinking water services,2017,
@@ -1491,6 +1877,8 @@ Ethiopia,ETH,Number of people using drinking water services,2017,48017690.817414
 Ethiopia,ETH,Total population,2017,106399926.0
 Gabon,GAB,Number of people using drinking water services,2017,1745711.6035805598
 Gabon,GAB,Total population,2017,2064812.0
+"Gambia, The",GMB,Number of people using drinking water services,2017,1769056.25134719
+"Gambia, The",GMB,Total population,2017,2213900.0
 Ghana,GHA,Number of people using drinking water services,2017,23997235.981507204
 Ghana,GHA,Total population,2017,29121464.0
 Guinea,GIN,Number of people using drinking water services,2017,7699540.5048684245
@@ -1503,6 +1891,8 @@ Lesotho,LSO,Number of people using drinking water services,2017,1488651.03871630
 Lesotho,LSO,Total population,2017,2091532.0
 Liberia,LBR,Number of people using drinking water services,2017,3466666.791347242
 Liberia,LBR,Total population,2017,4702224.0
+Libya,LBY,Number of people using drinking water services,2017,6516334.195487227
+Libya,LBY,Total population,2017,6580723.0
 Madagascar,MDG,Number of people using drinking water services,2017,12961118.238975467
 Madagascar,MDG,Total population,2017,25570511.0
 Malawi,MWI,Number of people using drinking water services,2017,11967526.453429537
@@ -1513,6 +1903,8 @@ Mauritania,MRT,Number of people using drinking water services,2017,3027622.16801
 Mauritania,MRT,Total population,2017,4282582.0
 Mauritius,MUS,Number of people using drinking water services,2017,1262922.609001637
 Mauritius,MUS,Total population,2017,1264613.0
+Morocco,MAR,Number of people using drinking water services,2017,30763273.973571002
+Morocco,MAR,Total population,2017,35581257.0
 Mozambique,MOZ,Number of people using drinking water services,2017,16034097.943529835
 Mozambique,MOZ,Total population,2017,28649007.0
 Namibia,NAM,Number of people using drinking water services,2017,2000518.8102850902
@@ -1523,6 +1915,8 @@ Nigeria,NGA,Number of people using drinking water services,2017,138010521.901858
 Nigeria,NGA,Total population,2017,190873247.0
 Rwanda,RWA,Number of people using drinking water services,2017,7037035.035908705
 Rwanda,RWA,Total population,2017,11980960.0
+Sao Tome and Principe,STP,Number of people using drinking water services,2017,161729.2934527974
+Sao Tome and Principe,STP,Total population,2017,207086.0
 Senegal,SEN,Number of people using drinking water services,2017,12510253.929590415
 Senegal,SEN,Total population,2017,15419354.0
 Seychelles,SYC,Number of people using drinking water services,2017,92249.74194034499
@@ -1541,12 +1935,16 @@ Tanzania,TZA,Number of people using drinking water services,2017,30971707.291859
 Tanzania,TZA,Total population,2017,54660345.0
 Togo,TGO,Number of people using drinking water services,2017,5082034.256441199
 Togo,TGO,Total population,2017,7698476.0
+Tunisia,TUN,Number of people using drinking water services,2017,10975340.5714068
+Tunisia,TUN,Total population,2017,11433438.0
 Uganda,UGA,Number of people using drinking water services,2017,20998710.415516302
 Uganda,UGA,Total population,2017,41166588.0
 Zambia,ZMB,Number of people using drinking water services,2017,10615924.893571049
 Zambia,ZMB,Total population,2017,16853608.0
 Zimbabwe,ZWE,Number of people using drinking water services,2017,9110942.836344931
 Zimbabwe,ZWE,Total population,2017,14236599.0
+Algeria,DZA,Number of people using drinking water services,2018,39710509.05068668
+Algeria,DZA,Total population,2018,42228415.0
 Angola,AGO,Number of people using drinking water services,2018,17435797.240207225
 Angola,AGO,Total population,2018,30809787.0
 Benin,BEN,Number of people using drinking water services,2018,7485707.376782379
@@ -1567,6 +1965,16 @@ Chad,TCD,Number of people using drinking water services,2018,7036261.383401155
 Chad,TCD,Total population,2018,15477727.0
 Comoros,COM,Number of people using drinking water services,2018,667422.2571581401
 Comoros,COM,Total population,2018,832322.0
+"Congo, Dem. Rep.",COD,Number of people using drinking water services,2018,37532004.70268103
+"Congo, Dem. Rep.",COD,Total population,2018,84068092.0
+"Congo, Rep.",COG,Number of people using drinking water services,2018,3849719.867364775
+"Congo, Rep.",COG,Total population,2018,5244363.0
+Cote d'Ivoire,CIV,Number of people using drinking water services,2018,17793155.159615945
+Cote d'Ivoire,CIV,Total population,2018,25069226.0
+Djibouti,DJI,Number of people using drinking water services,2018,728175.924920115
+Djibouti,DJI,Total population,2018,958923.0
+"Egypt, Arab Rep.",EGY,Number of people using drinking water services,2018,97760553.79714459
+"Egypt, Arab Rep.",EGY,Total population,2018,98423602.0
 Equatorial Guinea,GNQ,Number of people using drinking water services,2018,
 Equatorial Guinea,GNQ,Total population,2018,1308966.0
 Eritrea,ERI,Number of people using drinking water services,2018,
@@ -1577,6 +1985,8 @@ Ethiopia,ETH,Number of people using drinking water services,2018,50940605.410306
 Ethiopia,ETH,Total population,2018,109224410.0
 Gabon,GAB,Number of people using drinking water services,2018,1798645.8944432472
 Gabon,GAB,Total population,2018,2119275.0
+"Gambia, The",GMB,Number of people using drinking water services,2018,1829838.7474113689
+"Gambia, The",GMB,Total population,2018,2280092.0
 Ghana,GHA,Number of people using drinking water services,2018,24864630.945519045
 Ghana,GHA,Total population,2018,29767108.0
 Guinea,GIN,Number of people using drinking water services,2018,7929336.129574561
@@ -1589,6 +1999,8 @@ Lesotho,LSO,Number of people using drinking water services,2018,1507469.87045174
 Lesotho,LSO,Total population,2018,2108327.0
 Liberia,LBR,Number of people using drinking water services,2018,3580004.7246778817
 Liberia,LBR,Total population,2018,4818976.0
+Libya,LBY,Number of people using drinking water services,2018,6671320.34647347
+Libya,LBY,Total population,2018,6678565.0
 Madagascar,MDG,Number of people using drinking water services,2018,13547934.1128277
 Madagascar,MDG,Total population,2018,26262313.0
 Malawi,MWI,Number of people using drinking water services,2018,12429214.519395074
@@ -1599,6 +2011,8 @@ Mauritania,MRT,Number of people using drinking water services,2018,3127665.85711
 Mauritania,MRT,Total population,2018,4403312.0
 Mauritius,MUS,Number of people using drinking water services,2018,1263611.1118608678
 Mauritius,MUS,Total population,2018,1265303.0
+Morocco,MAR,Number of people using drinking water services,2018,31629849.71844282
+Morocco,MAR,Total population,2018,36029089.0
 Mozambique,MOZ,Number of people using drinking water services,2018,17227479.420173127
 Mozambique,MOZ,Total population,2018,29496009.0
 Namibia,NAM,Number of people using drinking water services,2018,2047158.9029819402
@@ -1609,6 +2023,8 @@ Nigeria,NGA,Number of people using drinking water services,2018,145086035.867998
 Nigeria,NGA,Total population,2018,195874685.0
 Rwanda,RWA,Number of people using drinking water services,2018,7326377.438264698
 Rwanda,RWA,Total population,2018,12301969.0
+Sao Tome and Principe,STP,Number of people using drinking water services,2018,164995.50107389683
+Sao Tome and Principe,STP,Total population,2018,211032.0
 Senegal,SEN,Number of people using drinking water services,2018,13063116.575473504
 Senegal,SEN,Total population,2018,15854324.0
 Seychelles,SYC,Number of people using drinking water services,2018,93134.28763323
@@ -1627,12 +2043,16 @@ Tanzania,TZA,Number of people using drinking water services,2018,32958701.362961
 Tanzania,TZA,Total population,2018,56313444.0
 Togo,TGO,Number of people using drinking water services,2018,5301061.08637973
 Togo,TGO,Total population,2018,7889095.0
+Tunisia,TUN,Number of people using drinking water services,2018,11162198.835631076
+Tunisia,TUN,Total population,2018,11565203.0
 Uganda,UGA,Number of people using drinking water services,2018,22480752.174538426
 Uganda,UGA,Total population,2018,42729032.0
 Zambia,ZMB,Number of people using drinking water services,2018,11071106.886990111
 Zambia,ZMB,Total population,2018,17351714.0
 Zimbabwe,ZWE,Number of people using drinking water services,2018,9174244.034000365
 Zimbabwe,ZWE,Total population,2018,14438812.0
+Algeria,DZA,Number of people using drinking water services,2019,40572827.64390216
+Algeria,DZA,Total population,2019,43053054.0
 Angola,AGO,Number of people using drinking water services,2019,18103197.251584202
 Angola,AGO,Total population,2019,31825299.0
 Benin,BEN,Number of people using drinking water services,2019,7705974.894925156
@@ -1653,6 +2073,16 @@ Chad,TCD,Number of people using drinking water services,2019,7307198.004567473
 Chad,TCD,Total population,2019,15946882.0
 Comoros,COM,Number of people using drinking water services,2019,682503.9069204872
 Comoros,COM,Total population,2019,850891.0
+"Congo, Dem. Rep.",COD,Number of people using drinking water services,2019,39312808.33721006
+"Congo, Dem. Rep.",COD,Total population,2019,86790568.0
+"Congo, Rep.",COG,Number of people using drinking water services,2019,3959828.899208726
+"Congo, Rep.",COG,Total population,2019,5380504.0
+Cote d'Ivoire,CIV,Number of people using drinking water services,2019,18244025.752406295
+Cote d'Ivoire,CIV,Total population,2019,25716554.0
+Djibouti,DJI,Number of people using drinking water services,2019,739861.9028407503
+Djibouti,DJI,Total population,2019,973557.0
+"Egypt, Arab Rep.",EGY,Number of people using drinking water services,2019,99768923.48626554
+"Egypt, Arab Rep.",EGY,Total population,2019,100388076.0
 Equatorial Guinea,GNQ,Number of people using drinking water services,2019,
 Equatorial Guinea,GNQ,Total population,2019,1355982.0
 Eritrea,ERI,Number of people using drinking water services,2019,
@@ -1663,6 +2093,8 @@ Ethiopia,ETH,Number of people using drinking water services,2019,53948033.665371
 Ethiopia,ETH,Total population,2019,112078727.0
 Gabon,GAB,Number of people using drinking water services,2019,1850683.8029217822
 Gabon,GAB,Total population,2019,2172578.0
+"Gambia, The",GMB,Number of people using drinking water services,2019,1892181.6133305694
+"Gambia, The",GMB,Total population,2019,2347696.0
 Ghana,GHA,Number of people using drinking water services,2019,25751595.32711433
 Ghana,GHA,Total population,2019,30417858.0
 Guinea,GIN,Number of people using drinking water services,2019,8164000.10661017
@@ -1675,6 +2107,8 @@ Lesotho,LSO,Number of people using drinking water services,2019,1526667.16440276
 Lesotho,LSO,Total population,2019,2125267.0
 Liberia,LBR,Number of people using drinking water services,2019,3710941.3309622034
 Liberia,LBR,Total population,2019,4937374.0
+Libya,LBY,Number of people using drinking water services,2019,6770101.076528815
+Libya,LBY,Total population,2019,6777453.0
 Madagascar,MDG,Number of people using drinking water services,2019,14155129.626662588
 Madagascar,MDG,Total population,2019,26969306.0
 Malawi,MWI,Number of people using drinking water services,2019,12905924.807834642
@@ -1685,6 +2119,8 @@ Mauritania,MRT,Number of people using drinking water services,2019,3229465.74680
 Mauritania,MRT,Total population,2019,4525698.0
 Mauritius,MUS,Number of people using drinking water services,2019,1264018.2429183018
 Mauritius,MUS,Total population,2019,1265711.0
+Morocco,MAR,Number of people using drinking water services,2019,32497843.702798054
+Morocco,MAR,Total population,2019,36471766.0
 Mozambique,MOZ,Number of people using drinking water services,2019,18485003.015621845
 Mozambique,MOZ,Total population,2019,30366043.0
 Namibia,NAM,Number of people using drinking water services,2019,2095953.443677033
@@ -1695,6 +2131,8 @@ Nigeria,NGA,Number of people using drinking water services,2019,152408552.455127
 Nigeria,NGA,Total population,2019,200963603.0
 Rwanda,RWA,Number of people using drinking water services,2019,7624388.515799911
 Rwanda,RWA,Total population,2019,12626938.0
+Sao Tome and Principe,STP,Number of people using drinking water services,2019,168198.6318547808
+Sao Tome and Principe,STP,Total population,2019,215048.0
 Senegal,SEN,Number of people using drinking water services,2019,13632263.889106326
 Senegal,SEN,Total population,2019,16296362.0
 Seychelles,SYC,Number of people using drinking water services,2019,94551.5179013625
@@ -1713,12 +2151,16 @@ Tanzania,TZA,Number of people using drinking water services,2019,35036266.247715
 Tanzania,TZA,Total population,2019,58005461.0
 Togo,TGO,Number of people using drinking water services,2019,5526018.219590223
 Togo,TGO,Total population,2019,8082359.0
+Tunisia,TUN,Number of people using drinking water services,2019,11347644.266734667
+Tunisia,TUN,Total population,2019,11694721.0
 Uganda,UGA,Number of people using drinking water services,2019,24006636.872594666
 Uganda,UGA,Total population,2019,44269587.0
 Zambia,ZMB,Number of people using drinking water services,2019,11540357.6815443
 Zambia,ZMB,Total population,2019,17861034.0
 Zimbabwe,ZWE,Number of people using drinking water services,2019,9240554.874222042
 Zimbabwe,ZWE,Total population,2019,14645473.0
+Algeria,DZA,Number of people using drinking water services,2020,41411754.168811485
+Algeria,DZA,Total population,2020,43851043.0
 Angola,AGO,Number of people using drinking water services,2020,18788901.85572602
 Angola,AGO,Total population,2020,32866268.0
 Benin,BEN,Number of people using drinking water services,2020,7930283.650041221
@@ -1739,6 +2181,16 @@ Chad,TCD,Number of people using drinking water services,2020,7586699.340181346
 Chad,TCD,Total population,2020,16425859.0
 Comoros,COM,Number of people using drinking water services,2020,
 Comoros,COM,Total population,2020,869595.0
+"Congo, Dem. Rep.",COD,Number of people using drinking water services,2020,41155370.07323852
+"Congo, Dem. Rep.",COD,Total population,2020,89561404.0
+"Congo, Rep.",COG,Number of people using drinking water services,2020,4071497.230735054
+"Congo, Rep.",COG,Total population,2020,5518092.0
+Cote d'Ivoire,CIV,Number of people using drinking water services,2020,18704589.58741777
+Cote d'Ivoire,CIV,Total population,2020,26378275.0
+Djibouti,DJI,Number of people using drinking water services,2020,751374.7326732042
+Djibouti,DJI,Total population,2020,988002.0
+"Egypt, Arab Rep.",EGY,Number of people using drinking water services,2020,101761510.41081552
+"Egypt, Arab Rep.",EGY,Total population,2020,102334403.0
 Equatorial Guinea,GNQ,Number of people using drinking water services,2020,
 Equatorial Guinea,GNQ,Total population,2020,1402985.0
 Eritrea,ERI,Number of people using drinking water services,2020,
@@ -1749,6 +2201,8 @@ Ethiopia,ETH,Number of people using drinking water services,2020,57039840.147875
 Ethiopia,ETH,Total population,2020,114963583.0
 Gabon,GAB,Number of people using drinking water services,2020,1899479.2451047678
 Gabon,GAB,Total population,2020,2225728.0
+"Gambia, The",GMB,Number of people using drinking water services,2020,1956057.6808058098
+"Gambia, The",GMB,Total population,2020,2416664.0
 Ghana,GHA,Number of people using drinking water services,2020,26657789.20400634
 Ghana,GHA,Total population,2020,31072945.0
 Guinea,GIN,Number of people using drinking water services,2020,8399968.67470362
@@ -1761,6 +2215,8 @@ Lesotho,LSO,Number of people using drinking water services,2020,1546192.64478236
 Lesotho,LSO,Total population,2020,2142252.0
 Liberia,LBR,Number of people using drinking water services,2020,3806498.3230353645
 Liberia,LBR,Total population,2020,5057677.0
+Libya,LBY,Number of people using drinking water services,2020,6863833.288971306
+Libya,LBY,Total population,2020,6871287.0
 Madagascar,MDG,Number of people using drinking water services,2020,14783095.533746233
 Madagascar,MDG,Total population,2020,27691019.0
 Malawi,MWI,Number of people using drinking water services,2020,13400098.94248517
@@ -1771,6 +2227,8 @@ Mauritania,MRT,Number of people using drinking water services,2020,3332925.07362
 Mauritania,MRT,Total population,2020,4649660.0
 Mauritius,MUS,Number of people using drinking water services,2020,1264047.13223978
 Mauritius,MUS,Total population,2020,1265740.0
+Morocco,MAR,Number of people using drinking water services,2020,33368009.866471317
+Morocco,MAR,Total population,2020,36910558.0
 Mozambique,MOZ,Number of people using drinking water services,2020,19806389.63765799
 Mozambique,MOZ,Total population,2020,31255435.0
 Namibia,NAM,Number of people using drinking water services,2020,2141230.835044325
@@ -1781,6 +2239,8 @@ Nigeria,NGA,Number of people using drinking water services,2020,159982982.112141
 Nigeria,NGA,Total population,2020,206139587.0
 Rwanda,RWA,Number of people using drinking water services,2020,7825012.455255403
 Rwanda,RWA,Total population,2020,12952209.0
+Sao Tome and Principe,STP,Number of people using drinking water services,2020,171441.8813932076
+Sao Tome and Principe,STP,Total population,2020,219161.0
 Senegal,SEN,Number of people using drinking water services,2020,14216473.581891147
 Senegal,SEN,Total population,2020,16743930.0
 Seychelles,SYC,Number of people using drinking water services,2020,
@@ -1799,6 +2259,8 @@ Tanzania,TZA,Number of people using drinking water services,2020,36268701.199189
 Tanzania,TZA,Total population,2020,59734213.0
 Togo,TGO,Number of people using drinking water services,2020,5677865.811067264
 Togo,TGO,Total population,2020,8278737.0
+Tunisia,TUN,Number of people using drinking water services,2020,11528271.074087758
+Tunisia,TUN,Total population,2020,11818618.0
 Uganda,UGA,Number of people using drinking water services,2020,25548658.0591461
 Uganda,UGA,Total population,2020,45741000.0
 Zambia,ZMB,Number of people using drinking water services,2020,12025383.814060029

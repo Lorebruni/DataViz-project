@@ -1,4 +1,7 @@
 Country Name,Country Code,Indicator Name,Year,Percentage
+Algeria,DZA,% of total population using drinking water services,2000,89.84882827
+Algeria,DZA,% of rural population using drinking water services,2000,83.41060174
+Algeria,DZA,% of urban population using drinking water services,2000,94.15548024
 Angola,AGO,% of total population using drinking water services,2000,41.14430792
 Angola,AGO,% of rural population using drinking water services,2000,21.15264072
 Angola,AGO,% of urban population using drinking water services,2000,61.06652686
@@ -26,6 +29,21 @@ Central African Republic,CAF,% of urban population using drinking water services
 Chad,TCD,% of total population using drinking water services,2000,39.52587081
 Chad,TCD,% of rural population using drinking water services,2000,29.71377005
 Chad,TCD,% of urban population using drinking water services,2000,75.0624827
+"Congo, Dem. Rep.",COD,% of total population using drinking water services,2000,33.71492715
+"Congo, Dem. Rep.",COD,% of rural population using drinking water services,2000,16.31363876
+"Congo, Dem. Rep.",COD,% of urban population using drinking water services,2000,65.85890251
+"Congo, Rep.",COG,% of total population using drinking water services,2000,57.15587365
+"Congo, Rep.",COG,% of rural population using drinking water services,2000,18.01043776
+"Congo, Rep.",COG,% of urban population using drinking water services,2000,84.70340156
+Cote d'Ivoire,CIV,% of total population using drinking water services,2000,71.39500207
+Cote d'Ivoire,CIV,% of rural population using drinking water services,2000,56.20447139
+Cote d'Ivoire,CIV,% of urban population using drinking water services,2000,91.40440875
+Djibouti,DJI,% of total population using drinking water services,2000,75.44816207
+Djibouti,DJI,% of rural population using drinking water services,2000,54.30347568
+Djibouti,DJI,% of urban population using drinking water services,2000,81.93203582
+"Egypt, Arab Rep.",EGY,% of total population using drinking water services,2000,97.88826659
+"Egypt, Arab Rep.",EGY,% of rural population using drinking water services,2000,96.87617291
+"Egypt, Arab Rep.",EGY,% of urban population using drinking water services,2000,99.24104354
 Eswatini,SWZ,% of total population using drinking water services,2000,53.26228879
 Eswatini,SWZ,% of rural population using drinking water services,2000,43.2769899
 Eswatini,SWZ,% of urban population using drinking water services,2000,87.29223472
@@ -35,6 +53,9 @@ Ethiopia,ETH,% of urban population using drinking water services,2000,75.2268156
 Gabon,GAB,% of total population using drinking water services,2000,80.86852914
 Gabon,GAB,% of rural population using drinking water services,2000,42.86586165
 Gabon,GAB,% of urban population using drinking water services,2000,91.04429659
+"Gambia, The",GMB,% of total population using drinking water services,2000,73.80407731
+"Gambia, The",GMB,% of rural population using drinking water services,2000,65.22731388
+"Gambia, The",GMB,% of urban population using drinking water services,2000,83.14484343
 Ghana,GHA,% of total population using drinking water services,2000,63.84429954
 Ghana,GHA,% of rural population using drinking water services,2000,53.15203081
 Ghana,GHA,% of urban population using drinking water services,2000,77.49191724
@@ -53,6 +74,7 @@ Lesotho,LSO,% of urban population using drinking water services,2000,80.78935718
 Liberia,LBR,% of total population using drinking water services,2000,61.66387018
 Liberia,LBR,% of rural population using drinking water services,2000,49.14072693
 Liberia,LBR,% of urban population using drinking water services,2000,77.38990649
+Libya,LBY,% of total population using drinking water services,2000,84.23207196
 Madagascar,MDG,% of total population using drinking water services,2000,36.26696237
 Madagascar,MDG,% of rural population using drinking water services,2000,23.65224151
 Madagascar,MDG,% of urban population using drinking water services,2000,70.16497726
@@ -68,6 +90,9 @@ Mauritania,MRT,% of urban population using drinking water services,2000,66.96093
 Mauritius,MUS,% of total population using drinking water services,2000,99.27977595
 Mauritius,MUS,% of rural population using drinking water services,2000,98.92841087
 Mauritius,MUS,% of urban population using drinking water services,2000,99.75185845
+Morocco,MAR,% of total population using drinking water services,2000,62.49829228
+Morocco,MAR,% of rural population using drinking water services,2000,28.83825079
+Morocco,MAR,% of urban population using drinking water services,2000,91.94885804
 Mozambique,MOZ,% of total population using drinking water services,2000,21.09908528
 Mozambique,MOZ,% of rural population using drinking water services,2000,5.327321198
 Mozambique,MOZ,% of urban population using drinking water services,2000,59.52954588
@@ -83,6 +108,9 @@ Nigeria,NGA,% of urban population using drinking water services,2000,66.93435565
 Rwanda,RWA,% of total population using drinking water services,2000,45.14899674
 Rwanda,RWA,% of rural population using drinking water services,2000,40.62305325
 Rwanda,RWA,% of urban population using drinking water services,2000,70.94559736
+Sao Tome and Principe,STP,% of total population using drinking water services,2000,68.07961894
+Sao Tome and Principe,STP,% of rural population using drinking water services,2000,61.11293615
+Sao Tome and Principe,STP,% of urban population using drinking water services,2000,74.15329697
 Senegal,SEN,% of total population using drinking water services,2000,59.62500399
 Senegal,SEN,% of rural population using drinking water services,2000,40.24114606
 Senegal,SEN,% of urban population using drinking water services,2000,88.3161906
@@ -104,6 +132,9 @@ Tanzania,TZA,% of urban population using drinking water services,2000,65.2311139
 Togo,TGO,% of total population using drinking water services,2000,45.30163026
 Togo,TGO,% of rural population using drinking water services,2000,28.81900994
 Togo,TGO,% of urban population using drinking water services,2000,78.90749934
+Tunisia,TUN,% of total population using drinking water services,2000,88.54523455
+Tunisia,TUN,% of rural population using drinking water services,2000,71.71147157
+Tunisia,TUN,% of urban population using drinking water services,2000,98.24975234
 Uganda,UGA,% of total population using drinking water services,2000,26.50316936
 Uganda,UGA,% of rural population using drinking water services,2000,18.97048597
 Uganda,UGA,% of urban population using drinking water services,2000,69.91518063
@@ -113,6 +144,9 @@ Zambia,ZMB,% of urban population using drinking water services,2000,83.42818398
 Zimbabwe,ZWE,% of total population using drinking water services,2000,71.86938743
 Zimbabwe,ZWE,% of rural population using drinking water services,2000,59.8524971
 Zimbabwe,ZWE,% of urban population using drinking water services,2000,95.44966158
+Algeria,DZA,% of total population using drinking water services,2001,90.11344378
+Algeria,DZA,% of rural population using drinking water services,2001,83.73746924
+Algeria,DZA,% of urban population using drinking water services,2001,94.23947038
 Angola,AGO,% of total population using drinking water services,2001,42.25467641
 Angola,AGO,% of rural population using drinking water services,2001,21.52821595
 Angola,AGO,% of urban population using drinking water services,2001,61.95115679
@@ -140,6 +174,21 @@ Central African Republic,CAF,% of urban population using drinking water services
 Chad,TCD,% of total population using drinking water services,2001,39.8520354
 Chad,TCD,% of rural population using drinking water services,2001,30.09900083
 Chad,TCD,% of urban population using drinking water services,2001,75.10608188
+"Congo, Dem. Rep.",COD,% of total population using drinking water services,2001,34.28904305
+"Congo, Dem. Rep.",COD,% of rural population using drinking water services,2001,16.61153894
+"Congo, Dem. Rep.",COD,% of urban population using drinking water services,2001,66.28558626
+"Congo, Rep.",COG,% of total population using drinking water services,2001,57.46332748
+"Congo, Rep.",COG,% of rural population using drinking water services,2001,18.01043776
+"Congo, Rep.",COG,% of urban population using drinking water services,2001,84.70340156
+Cote d'Ivoire,CIV,% of total population using drinking water services,2001,71.38709009
+Cote d'Ivoire,CIV,% of rural population using drinking water services,2001,56.18042558
+Cote d'Ivoire,CIV,% of urban population using drinking water services,2001,91.08371778
+Djibouti,DJI,% of total population using drinking water services,2001,75.46308927
+Djibouti,DJI,% of rural population using drinking water services,2001,53.93385764
+Djibouti,DJI,% of urban population using drinking water services,2001,82.04798209
+"Egypt, Arab Rep.",EGY,% of total population using drinking water services,2001,97.97025777
+"Egypt, Arab Rep.",EGY,% of rural population using drinking water services,2001,97.00406398
+"Egypt, Arab Rep.",EGY,% of urban population using drinking water services,2001,99.25925407
 Eswatini,SWZ,% of total population using drinking water services,2001,54.13193704
 Eswatini,SWZ,% of rural population using drinking water services,2001,44.32738935
 Eswatini,SWZ,% of urban population using drinking water services,2001,87.79689512
@@ -149,6 +198,9 @@ Ethiopia,ETH,% of urban population using drinking water services,2001,75.6743053
 Gabon,GAB,% of total population using drinking water services,2001,81.14049899
 Gabon,GAB,% of rural population using drinking water services,2001,42.91656209
 Gabon,GAB,% of urban population using drinking water services,2001,90.9166827
+"Gambia, The",GMB,% of total population using drinking water services,2001,74.1917965
+"Gambia, The",GMB,% of rural population using drinking water services,2001,65.43973117
+"Gambia, The",GMB,% of urban population using drinking water services,2001,83.38348462
 Ghana,GHA,% of total population using drinking water services,2001,64.71780693
 Ghana,GHA,% of rural population using drinking water services,2001,54.08966687
 Ghana,GHA,% of urban population using drinking water services,2001,77.91904336
@@ -167,6 +219,7 @@ Lesotho,LSO,% of urban population using drinking water services,2001,81.38478613
 Liberia,LBR,% of total population using drinking water services,2001,62.60565158
 Liberia,LBR,% of rural population using drinking water services,2001,50.17522308
 Liberia,LBR,% of urban population using drinking water services,2001,78.00059716
+Libya,LBY,% of total population using drinking water services,2001,85.10204151
 Madagascar,MDG,% of total population using drinking water services,2001,36.98295541
 Madagascar,MDG,% of rural population using drinking water services,2001,24.27138166
 Madagascar,MDG,% of urban population using drinking water services,2001,70.67923598
@@ -182,6 +235,9 @@ Mauritania,MRT,% of urban population using drinking water services,2001,67.22565
 Mauritius,MUS,% of total population using drinking water services,2001,99.32417949
 Mauritius,MUS,% of rural population using drinking water services,2001,98.9975856
 Mauritius,MUS,% of urban population using drinking water services,2001,99.76497051
+Morocco,MAR,% of total population using drinking water services,2001,63.73406864
+Morocco,MAR,% of rural population using drinking water services,2001,30.82737759
+Morocco,MAR,% of urban population using drinking water services,2001,92.14952352
 Mozambique,MOZ,% of total population using drinking water services,2001,22.31977995
 Mozambique,MOZ,% of rural population using drinking water services,2001,6.916158192
 Mozambique,MOZ,% of urban population using drinking water services,2001,59.52954588
@@ -197,6 +253,9 @@ Nigeria,NGA,% of urban population using drinking water services,2001,67.53273512
 Rwanda,RWA,% of total population using drinking water services,2001,46.15284299
 Rwanda,RWA,% of rural population using drinking water services,2001,41.3752158
 Rwanda,RWA,% of urban population using drinking water services,2001,71.55795954
+Sao Tome and Principe,STP,% of total population using drinking water services,2001,68.74833526
+Sao Tome and Principe,STP,% of rural population using drinking water services,2001,61.84300558
+Sao Tome and Principe,STP,% of urban population using drinking water services,2001,74.54199562
 Senegal,SEN,% of total population using drinking water services,2001,60.79243523
 Senegal,SEN,% of rural population using drinking water services,2001,41.85157729
 Senegal,SEN,% of urban population using drinking water services,2001,88.6607343
@@ -218,6 +277,9 @@ Tanzania,TZA,% of urban population using drinking water services,2001,66.2079332
 Togo,TGO,% of total population using drinking water services,2001,46.55443615
 Togo,TGO,% of rural population using drinking water services,2001,30.05412511
 Togo,TGO,% of urban population using drinking water services,2001,79.52142543
+Tunisia,TUN,% of total population using drinking water services,2001,88.97157008
+Tunisia,TUN,% of rural population using drinking water services,2001,72.4300939
+Tunisia,TUN,% of urban population using drinking water services,2001,98.3498595
 Uganda,UGA,% of total population using drinking water services,2001,27.76429699
 Uganda,UGA,% of rural population using drinking water services,2001,20.12977181
 Uganda,UGA,% of urban population using drinking water services,2001,70.35360445
@@ -227,6 +289,9 @@ Zambia,ZMB,% of urban population using drinking water services,2001,83.59297612
 Zimbabwe,ZWE,% of total population using drinking water services,2001,72.01604918
 Zimbabwe,ZWE,% of rural population using drinking water services,2001,59.8524971
 Zimbabwe,ZWE,% of urban population using drinking water services,2001,95.44966158
+Algeria,DZA,% of total population using drinking water services,2002,90.37379792
+Algeria,DZA,% of rural population using drinking water services,2002,84.06433674
+Algeria,DZA,% of urban population using drinking water services,2002,94.32346052
 Angola,AGO,% of total population using drinking water services,2002,43.37679859
 Angola,AGO,% of rural population using drinking water services,2002,21.90310643
 Angola,AGO,% of urban population using drinking water services,2002,62.83578671
@@ -254,6 +319,21 @@ Central African Republic,CAF,% of urban population using drinking water services
 Chad,TCD,% of total population using drinking water services,2002,40.17618371
 Chad,TCD,% of rural population using drinking water services,2002,30.48505702
 Chad,TCD,% of urban population using drinking water services,2002,75.14051136
+"Congo, Dem. Rep.",COD,% of total population using drinking water services,2002,34.86508705
+"Congo, Dem. Rep.",COD,% of rural population using drinking water services,2002,16.90791885
+"Congo, Dem. Rep.",COD,% of urban population using drinking water services,2002,66.71285305
+"Congo, Rep.",COG,% of total population using drinking water services,2002,57.9533587
+"Congo, Rep.",COG,% of rural population using drinking water services,2002,18.24271364
+"Congo, Rep.",COG,% of urban population using drinking water services,2002,84.85231238
+Cote d'Ivoire,CIV,% of total population using drinking water services,2002,71.37765468
+Cote d'Ivoire,CIV,% of rural population using drinking water services,2002,56.15637393
+Cote d'Ivoire,CIV,% of urban population using drinking water services,2002,90.76356873
+Djibouti,DJI,% of total population using drinking water services,2002,75.47846668
+Djibouti,DJI,% of rural population using drinking water services,2002,53.5642396
+Djibouti,DJI,% of urban population using drinking water services,2002,82.16392835
+"Egypt, Arab Rep.",EGY,% of total population using drinking water services,2002,98.05218056
+"Egypt, Arab Rep.",EGY,% of rural population using drinking water services,2002,97.13202494
+"Egypt, Arab Rep.",EGY,% of urban population using drinking water services,2002,99.2774662
 Eswatini,SWZ,% of total population using drinking water services,2002,54.99691096
 Eswatini,SWZ,% of rural population using drinking water services,2002,45.36914121
 Eswatini,SWZ,% of urban population using drinking water services,2002,88.30234084
@@ -263,6 +343,9 @@ Ethiopia,ETH,% of urban population using drinking water services,2002,76.1219856
 Gabon,GAB,% of total population using drinking water services,2002,81.39898485
 Gabon,GAB,% of rural population using drinking water services,2002,42.96149771
 Gabon,GAB,% of urban population using drinking water services,2002,90.78835263
+"Gambia, The",GMB,% of total population using drinking water services,2002,74.57954034
+"Gambia, The",GMB,% of rural population using drinking water services,2002,65.65063722
+"Gambia, The",GMB,% of urban population using drinking water services,2002,83.62238497
 Ghana,GHA,% of total population using drinking water services,2002,65.8036643
 Ghana,GHA,% of rural population using drinking water services,2002,55.02681952
 Ghana,GHA,% of urban population using drinking water services,2002,78.82990096
@@ -281,6 +364,7 @@ Lesotho,LSO,% of urban population using drinking water services,2002,81.98191493
 Liberia,LBR,% of total population using drinking water services,2002,63.54508319
 Liberia,LBR,% of rural population using drinking water services,2002,51.20971923
 Liberia,LBR,% of urban population using drinking water services,2002,78.61128782
+Libya,LBY,% of total population using drinking water services,2002,85.97201105
 Madagascar,MDG,% of total population using drinking water services,2002,37.70075782
 Madagascar,MDG,% of rural population using drinking water services,2002,24.89247642
 Madagascar,MDG,% of urban population using drinking water services,2002,71.19359921
@@ -296,6 +380,9 @@ Mauritania,MRT,% of urban population using drinking water services,2002,68.54091
 Mauritius,MUS,% of total population using drinking water services,2002,99.36869528
 Mauritius,MUS,% of rural population using drinking water services,2002,99.06676033
 Mauritius,MUS,% of urban population using drinking water services,2002,99.77808257
+Morocco,MAR,% of total population using drinking water services,2002,65.11268975
+Morocco,MAR,% of rural population using drinking water services,2002,33.03612116
+Morocco,MAR,% of urban population using drinking water services,2002,92.44817646
 Mozambique,MOZ,% of total population using drinking water services,2002,24.05191982
 Mozambique,MOZ,% of rural population using drinking water services,2002,8.646902014
 Mozambique,MOZ,% of urban population using drinking water services,2002,60.94353163
@@ -311,6 +398,9 @@ Nigeria,NGA,% of urban population using drinking water services,2002,68.74263707
 Rwanda,RWA,% of total population using drinking water services,2002,47.17165599
 Rwanda,RWA,% of rural population using drinking water services,2002,42.13163758
 Rwanda,RWA,% of urban population using drinking water services,2002,72.17287798
+Sao Tome and Principe,STP,% of total population using drinking water services,2002,69.43304966
+Sao Tome and Principe,STP,% of rural population using drinking water services,2002,62.56563442
+Sao Tome and Principe,STP,% of urban population using drinking water services,2002,74.92710632
 Senegal,SEN,% of total population using drinking water services,2002,61.96474085
 Senegal,SEN,% of rural population using drinking water services,2002,43.47670934
 Senegal,SEN,% of urban population using drinking water services,2002,89.00588135
@@ -332,6 +422,9 @@ Tanzania,TZA,% of urban population using drinking water services,2002,67.1847525
 Togo,TGO,% of total population using drinking water services,2002,47.80300366
 Togo,TGO,% of rural population using drinking water services,2002,31.28825405
 Togo,TGO,% of urban population using drinking water services,2002,80.1354557
+Tunisia,TUN,% of total population using drinking water services,2002,89.36719469
+Tunisia,TUN,% of rural population using drinking water services,2002,73.14871623
+Tunisia,TUN,% of urban population using drinking water services,2002,98.41035374
 Uganda,UGA,% of total population using drinking water services,2002,29.05145026
 Uganda,UGA,% of rural population using drinking water services,2002,21.32103127
 Uganda,UGA,% of urban population using drinking water services,2002,70.79255035
@@ -341,6 +434,9 @@ Zambia,ZMB,% of urban population using drinking water services,2002,83.75781999
 Zimbabwe,ZWE,% of total population using drinking water services,2002,71.70607087
 Zimbabwe,ZWE,% of rural population using drinking water services,2002,59.22371452
 Zimbabwe,ZWE,% of urban population using drinking water services,2002,95.31553685
+Algeria,DZA,% of total population using drinking water services,2003,90.62972314
+Algeria,DZA,% of rural population using drinking water services,2003,84.39120424
+Algeria,DZA,% of urban population using drinking water services,2003,94.40745067
 Angola,AGO,% of total population using drinking water services,2003,44.3638732
 Angola,AGO,% of rural population using drinking water services,2003,22.27731214
 Angola,AGO,% of urban population using drinking water services,2003,63.44901485
@@ -368,6 +464,21 @@ Central African Republic,CAF,% of urban population using drinking water services
 Chad,TCD,% of total population using drinking water services,2003,40.4992037
 Chad,TCD,% of rural population using drinking water services,2003,30.87193864
 Chad,TCD,% of urban population using drinking water services,2003,75.16577113
+"Congo, Dem. Rep.",COD,% of total population using drinking water services,2003,35.44310563
+"Congo, Dem. Rep.",COD,% of rural population using drinking water services,2003,17.2027785
+"Congo, Dem. Rep.",COD,% of urban population using drinking water services,2003,67.14070288
+"Congo, Rep.",COG,% of total population using drinking water services,2003,58.44132636
+"Congo, Rep.",COG,% of rural population using drinking water services,2003,18.47498951
+"Congo, Rep.",COG,% of urban population using drinking water services,2003,85.00128421
+Cote d'Ivoire,CIV,% of total population using drinking water services,2003,71.36634523
+Cote d'Ivoire,CIV,% of rural population using drinking water services,2003,56.13231645
+Cote d'Ivoire,CIV,% of urban population using drinking water services,2003,90.4439616
+Djibouti,DJI,% of total population using drinking water services,2003,75.49428579
+Djibouti,DJI,% of rural population using drinking water services,2003,53.19462156
+Djibouti,DJI,% of urban population using drinking water services,2003,82.27987462
+"Egypt, Arab Rep.",EGY,% of total population using drinking water services,2003,98.13405103
+"Egypt, Arab Rep.",EGY,% of rural population using drinking water services,2003,97.2600558
+"Egypt, Arab Rep.",EGY,% of urban population using drinking water services,2003,99.29567994
 Eswatini,SWZ,% of total population using drinking water services,2003,55.85716009
 Eswatini,SWZ,% of rural population using drinking water services,2003,46.40224548
 Eswatini,SWZ,% of urban population using drinking water services,2003,88.8085719
@@ -377,6 +488,9 @@ Ethiopia,ETH,% of urban population using drinking water services,2003,76.5698565
 Gabon,GAB,% of total population using drinking water services,2003,81.64372062
 Gabon,GAB,% of rural population using drinking water services,2003,43.00066851
 Gabon,GAB,% of urban population using drinking water services,2003,90.65930639
+"Gambia, The",GMB,% of total population using drinking water services,2003,74.96069707
+"Gambia, The",GMB,% of rural population using drinking water services,2003,65.86003203
+"Gambia, The",GMB,% of urban population using drinking water services,2003,83.86154445
 Ghana,GHA,% of total population using drinking water services,2003,66.89205837
 Ghana,GHA,% of rural population using drinking water services,2003,55.96395569
 Ghana,GHA,% of urban population using drinking water services,2003,79.74603296
@@ -395,6 +509,7 @@ Lesotho,LSO,% of urban population using drinking water services,2003,82.58074358
 Liberia,LBR,% of total population using drinking water services,2003,64.48159806
 Liberia,LBR,% of rural population using drinking water services,2003,52.24421539
 Liberia,LBR,% of urban population using drinking water services,2003,79.22197849
+Libya,LBY,% of total population using drinking water services,2003,86.8419806
 Madagascar,MDG,% of total population using drinking water services,2003,38.41987314
 Madagascar,MDG,% of rural population using drinking water services,2003,25.51552579
 Madagascar,MDG,% of urban population using drinking water services,2003,71.70806693
@@ -410,6 +525,9 @@ Mauritania,MRT,% of urban population using drinking water services,2003,69.86441
 Mauritius,MUS,% of total population using drinking water services,2003,99.4133417
 Mauritius,MUS,% of rural population using drinking water services,2003,99.13593505
 Mauritius,MUS,% of urban population using drinking water services,2003,99.79119463
+Morocco,MAR,% of total population using drinking water services,2003,66.49059949
+Morocco,MAR,% of rural population using drinking water services,2003,35.27148825
+Morocco,MAR,% of urban population using drinking water services,2003,92.74725522
 Mozambique,MOZ,% of total population using drinking water services,2003,25.82298156
 Mozambique,MOZ,% of rural population using drinking water services,2003,10.43066569
 Mozambique,MOZ,% of urban population using drinking water services,2003,62.3668143
@@ -425,6 +543,9 @@ Nigeria,NGA,% of urban population using drinking water services,2003,69.96328072
 Rwanda,RWA,% of total population using drinking water services,2003,47.94628152
 Rwanda,RWA,% of rural population using drinking water services,2003,42.89231857
 Rwanda,RWA,% of urban population using drinking water services,2003,72.79035267
+Sao Tome and Principe,STP,% of total population using drinking water services,2003,70.10852701
+Sao Tome and Principe,STP,% of rural population using drinking water services,2003,63.28082268
+Sao Tome and Principe,STP,% of urban population using drinking water services,2003,75.30862905
 Senegal,SEN,% of total population using drinking water services,2003,63.20780998
 Senegal,SEN,% of rural population using drinking water services,2003,45.11654223
 Senegal,SEN,% of urban population using drinking water services,2003,89.35163174
@@ -446,6 +567,9 @@ Tanzania,TZA,% of urban population using drinking water services,2003,68.1615718
 Togo,TGO,% of total population using drinking water services,2003,49.04678578
 Togo,TGO,% of rural population using drinking water services,2003,32.52139676
 Togo,TGO,% of urban population using drinking water services,2003,80.74959015
+Tunisia,TUN,% of total population using drinking water services,2003,89.75746338
+Tunisia,TUN,% of rural population using drinking water services,2003,73.86733856
+Tunisia,TUN,% of urban population using drinking water services,2003,98.47076742
 Uganda,UGA,% of total population using drinking water services,2003,30.36400447
 Uganda,UGA,% of rural population using drinking water services,2003,22.54426434
 Uganda,UGA,% of urban population using drinking water services,2003,71.23201832
@@ -455,6 +579,9 @@ Zambia,ZMB,% of urban population using drinking water services,2003,83.92271559
 Zimbabwe,ZWE,% of total population using drinking water services,2003,71.21101553
 Zimbabwe,ZWE,% of rural population using drinking water services,2003,58.59713546
 Zimbabwe,ZWE,% of urban population using drinking water services,2003,95.18137607
+Algeria,DZA,% of total population using drinking water services,2004,90.88125597
+Algeria,DZA,% of rural population using drinking water services,2004,84.71807174
+Algeria,DZA,% of urban population using drinking water services,2004,94.49144081
 Angola,AGO,% of total population using drinking water services,2004,45.35133457
 Angola,AGO,% of rural population using drinking water services,2004,22.6508331
 Angola,AGO,% of urban population using drinking water services,2004,64.05470726
@@ -482,6 +609,21 @@ Central African Republic,CAF,% of urban population using drinking water services
 Chad,TCD,% of total population using drinking water services,2004,40.82063289
 Chad,TCD,% of rural population using drinking water services,2004,31.25964568
 Chad,TCD,% of urban population using drinking water services,2004,75.18186121
+"Congo, Dem. Rep.",COD,% of total population using drinking water services,2004,36.02313413
+"Congo, Dem. Rep.",COD,% of rural population using drinking water services,2004,17.49611789
+"Congo, Dem. Rep.",COD,% of urban population using drinking water services,2004,67.56913575
+"Congo, Rep.",COG,% of total population using drinking water services,2004,59.50972199
+"Congo, Rep.",COG,% of rural population using drinking water services,2004,20.1831506
+"Congo, Rep.",COG,% of urban population using drinking water services,2004,85.15031705
+Cote d'Ivoire,CIV,% of total population using drinking water services,2004,71.35349055
+Cote d'Ivoire,CIV,% of rural population using drinking water services,2004,56.10825313
+Cote d'Ivoire,CIV,% of urban population using drinking water services,2004,90.12489638
+Djibouti,DJI,% of total population using drinking water services,2004,75.51055148
+Djibouti,DJI,% of rural population using drinking water services,2004,52.82500352
+Djibouti,DJI,% of urban population using drinking water services,2004,82.39582089
+"Egypt, Arab Rep.",EGY,% of total population using drinking water services,2004,98.21585572
+"Egypt, Arab Rep.",EGY,% of rural population using drinking water services,2004,97.38815656
+"Egypt, Arab Rep.",EGY,% of urban population using drinking water services,2004,99.31389528
 Eswatini,SWZ,% of total population using drinking water services,2004,56.71179324
 Eswatini,SWZ,% of rural population using drinking water services,2004,47.42670216
 Eswatini,SWZ,% of urban population using drinking water services,2004,89.31558828
@@ -491,6 +633,9 @@ Ethiopia,ETH,% of urban population using drinking water services,2004,77.0179181
 Gabon,GAB,% of total population using drinking water services,2004,81.87491809
 Gabon,GAB,% of rural population using drinking water services,2004,43.0340745
 Gabon,GAB,% of urban population using drinking water services,2004,90.52954397
+"Gambia, The",GMB,% of total population using drinking water services,2004,75.31670545
+"Gambia, The",GMB,% of rural population using drinking water services,2004,66.06791559
+"Gambia, The",GMB,% of urban population using drinking water services,2004,84.10096307
 Ghana,GHA,% of total population using drinking water services,2004,67.98333147
 Ghana,GHA,% of rural population using drinking water services,2004,56.90107539
 Ghana,GHA,% of urban population using drinking water services,2004,80.66743936
@@ -509,6 +654,7 @@ Lesotho,LSO,% of urban population using drinking water services,2004,83.18127209
 Liberia,LBR,% of total population using drinking water services,2004,65.41546415
 Liberia,LBR,% of rural population using drinking water services,2004,53.27871154
 Liberia,LBR,% of urban population using drinking water services,2004,79.83266915
+Libya,LBY,% of total population using drinking water services,2004,87.71195015
 Madagascar,MDG,% of total population using drinking water services,2004,39.14075421
 Madagascar,MDG,% of rural population using drinking water services,2004,26.14052976
 Madagascar,MDG,% of urban population using drinking water services,2004,72.22263915
@@ -524,6 +670,9 @@ Mauritania,MRT,% of urban population using drinking water services,2004,71.19614
 Mauritius,MUS,% of total population using drinking water services,2004,99.4581087
 Mauritius,MUS,% of rural population using drinking water services,2004,99.20510978
 Mauritius,MUS,% of urban population using drinking water services,2004,99.80430669
+Morocco,MAR,% of total population using drinking water services,2004,67.86815937
+Morocco,MAR,% of rural population using drinking water services,2004,37.53347888
+Morocco,MAR,% of urban population using drinking water services,2004,93.04675981
 Mozambique,MOZ,% of total population using drinking water services,2004,27.63324523
 Mozambique,MOZ,% of rural population using drinking water services,2004,12.26744923
 Mozambique,MOZ,% of urban population using drinking water services,2004,63.79939389
@@ -539,6 +688,9 @@ Nigeria,NGA,% of urban population using drinking water services,2004,71.19466609
 Rwanda,RWA,% of total population using drinking water services,2004,48.6879174
 Rwanda,RWA,% of rural population using drinking water services,2004,43.65725878
 Rwanda,RWA,% of urban population using drinking water services,2004,73.41038363
+Sao Tome and Principe,STP,% of total population using drinking water services,2004,70.77013138
+Sao Tome and Principe,STP,% of rural population using drinking water services,2004,63.98857037
+Sao Tome and Principe,STP,% of urban population using drinking water services,2004,75.68656382
 Senegal,SEN,% of total population using drinking water services,2004,64.50246623
 Senegal,SEN,% of rural population using drinking water services,2004,46.77107594
 Senegal,SEN,% of urban population using drinking water services,2004,89.69798549
@@ -560,6 +712,9 @@ Tanzania,TZA,% of urban population using drinking water services,2004,69.3964122
 Togo,TGO,% of total population using drinking water services,2004,50.28574494
 Togo,TGO,% of rural population using drinking water services,2004,33.75355324
 Togo,TGO,% of urban population using drinking water services,2004,81.36382879
+Tunisia,TUN,% of total population using drinking water services,2004,90.13832718
+Tunisia,TUN,% of rural population using drinking water services,2004,74.58596089
+Tunisia,TUN,% of urban population using drinking water services,2004,98.53110054
 Uganda,UGA,% of total population using drinking water services,2004,31.70179028
 Uganda,UGA,% of rural population using drinking water services,2004,23.79947102
 Uganda,UGA,% of urban population using drinking water services,2004,71.67200838
@@ -569,6 +724,9 @@ Zambia,ZMB,% of urban population using drinking water services,2004,84.08766291
 Zimbabwe,ZWE,% of total population using drinking water services,2004,70.68706151
 Zimbabwe,ZWE,% of rural population using drinking water services,2004,57.97275991
 Zimbabwe,ZWE,% of urban population using drinking water services,2004,95.04717926
+Algeria,DZA,% of total population using drinking water services,2005,91.12824941
+Algeria,DZA,% of rural population using drinking water services,2005,85.04493924
+Algeria,DZA,% of urban population using drinking water services,2005,94.57543095
 Angola,AGO,% of total population using drinking water services,2005,46.33601912
 Angola,AGO,% of rural population using drinking water services,2005,23.02366929
 Angola,AGO,% of urban population using drinking water services,2005,64.65286393
@@ -596,6 +754,21 @@ Central African Republic,CAF,% of urban population using drinking water services
 Chad,TCD,% of total population using drinking water services,2005,41.14046577
 Chad,TCD,% of rural population using drinking water services,2005,31.64817814
 Chad,TCD,% of urban population using drinking water services,2005,75.18878159
+"Congo, Dem. Rep.",COD,% of total population using drinking water services,2005,36.60722724
+"Congo, Dem. Rep.",COD,% of rural population using drinking water services,2005,17.78793701
+"Congo, Dem. Rep.",COD,% of urban population using drinking water services,2005,67.99815166
+"Congo, Rep.",COG,% of total population using drinking water services,2005,60.57693709
+"Congo, Rep.",COG,% of rural population using drinking water services,2005,21.9279619
+"Congo, Rep.",COG,% of urban population using drinking water services,2005,85.29941091
+Cote d'Ivoire,CIV,% of total population using drinking water services,2005,71.33807855
+Cote d'Ivoire,CIV,% of rural population using drinking water services,2005,56.08418399
+Cote d'Ivoire,CIV,% of urban population using drinking water services,2005,89.80637307
+Djibouti,DJI,% of total population using drinking water services,2005,75.52696529
+Djibouti,DJI,% of rural population using drinking water services,2005,52.45538548
+Djibouti,DJI,% of urban population using drinking water services,2005,82.51176716
+"Egypt, Arab Rep.",EGY,% of total population using drinking water services,2005,98.29760753
+"Egypt, Arab Rep.",EGY,% of rural population using drinking water services,2005,97.51632721
+"Egypt, Arab Rep.",EGY,% of urban population using drinking water services,2005,99.33211222
 Eswatini,SWZ,% of total population using drinking water services,2005,57.56202912
 Eswatini,SWZ,% of rural population using drinking water services,2005,48.44251126
 Eswatini,SWZ,% of urban population using drinking water services,2005,89.82338999
@@ -605,6 +778,9 @@ Ethiopia,ETH,% of urban population using drinking water services,2005,77.4661702
 Gabon,GAB,% of total population using drinking water services,2005,82.09230292
 Gabon,GAB,% of rural population using drinking water services,2005,43.06171566
 Gabon,GAB,% of urban population using drinking water services,2005,90.39906537
+"Gambia, The",GMB,% of total population using drinking water services,2005,75.67240477
+"Gambia, The",GMB,% of rural population using drinking water services,2005,66.2742879
+"Gambia, The",GMB,% of urban population using drinking water services,2005,84.34064084
 Ghana,GHA,% of total population using drinking water services,2005,69.0766398
 Ghana,GHA,% of rural population using drinking water services,2005,57.83817861
 Ghana,GHA,% of urban population using drinking water services,2005,81.59412015
@@ -623,6 +799,7 @@ Lesotho,LSO,% of urban population using drinking water services,2005,83.78350046
 Liberia,LBR,% of total population using drinking water services,2005,66.34640363
 Liberia,LBR,% of rural population using drinking water services,2005,54.31320769
 Liberia,LBR,% of urban population using drinking water services,2005,80.44335982
+Libya,LBY,% of total population using drinking water services,2005,88.58191969
 Madagascar,MDG,% of total population using drinking water services,2005,40.01323565
 Madagascar,MDG,% of rural population using drinking water services,2005,26.76748835
 Madagascar,MDG,% of urban population using drinking water services,2005,72.73731588
@@ -638,6 +815,9 @@ Mauritania,MRT,% of urban population using drinking water services,2005,72.53612
 Mauritius,MUS,% of total population using drinking water services,2005,99.5030092
 Mauritius,MUS,% of rural population using drinking water services,2005,99.27428451
 Mauritius,MUS,% of urban population using drinking water services,2005,99.81741875
+Morocco,MAR,% of total population using drinking water services,2005,69.35375676
+Morocco,MAR,% of rural population using drinking water services,2005,39.82209303
+Morocco,MAR,% of urban population using drinking water services,2005,93.34669023
 Mozambique,MOZ,% of total population using drinking water services,2005,29.48194619
 Mozambique,MOZ,% of rural population using drinking water services,2005,14.15725263
 Mozambique,MOZ,% of urban population using drinking water services,2005,65.24127039
@@ -653,6 +833,9 @@ Nigeria,NGA,% of urban population using drinking water services,2005,72.43679318
 Rwanda,RWA,% of total population using drinking water services,2005,49.43351109
 Rwanda,RWA,% of rural population using drinking water services,2005,44.42645821
 Rwanda,RWA,% of urban population using drinking water services,2005,74.03297085
+Sao Tome and Principe,STP,% of total population using drinking water services,2005,71.41714113
+Sao Tome and Principe,STP,% of rural population using drinking water services,2005,64.68887747
+Sao Tome and Principe,STP,% of urban population using drinking water services,2005,76.06091064
 Senegal,SEN,% of total population using drinking water services,2005,65.7952662
 Senegal,SEN,% of rural population using drinking water services,2005,48.44031049
 Senegal,SEN,% of urban population using drinking water services,2005,90.04494259
@@ -674,6 +857,9 @@ Tanzania,TZA,% of urban population using drinking water services,2005,70.6385435
 Togo,TGO,% of total population using drinking water services,2005,51.5193694
 Togo,TGO,% of rural population using drinking water services,2005,34.98472348
 Togo,TGO,% of urban population using drinking water services,2005,81.9781716
+Tunisia,TUN,% of total population using drinking water services,2005,90.49617491
+Tunisia,TUN,% of rural population using drinking water services,2005,75.30458323
+Tunisia,TUN,% of urban population using drinking water services,2005,98.5913531
 Uganda,UGA,% of total population using drinking water services,2005,33.06223781
 Uganda,UGA,% of rural population using drinking water services,2005,25.08665132
 Uganda,UGA,% of urban population using drinking water services,2005,72.11252051
@@ -683,6 +869,9 @@ Zambia,ZMB,% of urban population using drinking water services,2005,84.25266195
 Zimbabwe,ZWE,% of total population using drinking water services,2005,70.16310803
 Zimbabwe,ZWE,% of rural population using drinking water services,2005,57.35058788
 Zimbabwe,ZWE,% of urban population using drinking water services,2005,94.9129464
+Algeria,DZA,% of total population using drinking water services,2006,91.37095552
+Algeria,DZA,% of rural population using drinking water services,2006,85.37180674
+Algeria,DZA,% of urban population using drinking water services,2006,94.65942109
 Angola,AGO,% of total population using drinking water services,2006,47.15022864
 Angola,AGO,% of rural population using drinking water services,2006,23.39582072
 Angola,AGO,% of urban population using drinking water services,2006,65.24348486
@@ -710,6 +899,21 @@ Central African Republic,CAF,% of urban population using drinking water services
 Chad,TCD,% of total population using drinking water services,2006,41.45868775
 Chad,TCD,% of rural population using drinking water services,2006,32.03753601
 Chad,TCD,% of urban population using drinking water services,2006,75.18653226
+"Congo, Dem. Rep.",COD,% of total population using drinking water services,2006,37.19644995
+"Congo, Dem. Rep.",COD,% of rural population using drinking water services,2006,18.07823587
+"Congo, Dem. Rep.",COD,% of urban population using drinking water services,2006,68.4277506
+"Congo, Rep.",COG,% of total population using drinking water services,2006,61.64256697
+"Congo, Rep.",COG,% of rural population using drinking water services,2006,23.70942339
+"Congo, Rep.",COG,% of urban population using drinking water services,2006,85.44856578
+Cote d'Ivoire,CIV,% of total population using drinking water services,2006,71.32078825
+Cote d'Ivoire,CIV,% of rural population using drinking water services,2006,56.06010901
+Cote d'Ivoire,CIV,% of urban population using drinking water services,2006,89.48839168
+Djibouti,DJI,% of total population using drinking water services,2006,75.54411767
+Djibouti,DJI,% of rural population using drinking water services,2006,52.08576744
+Djibouti,DJI,% of urban population using drinking water services,2006,82.62771343
+"Egypt, Arab Rep.",EGY,% of total population using drinking water services,2006,98.37929106
+"Egypt, Arab Rep.",EGY,% of rural population using drinking water services,2006,97.64456775
+"Egypt, Arab Rep.",EGY,% of urban population using drinking water services,2006,99.35033076
 Eswatini,SWZ,% of total population using drinking water services,2006,58.40698488
 Eswatini,SWZ,% of rural population using drinking water services,2006,49.44967277
 Eswatini,SWZ,% of urban population using drinking water services,2006,90.33197702
@@ -719,6 +923,9 @@ Ethiopia,ETH,% of urban population using drinking water services,2006,77.9146130
 Gabon,GAB,% of total population using drinking water services,2006,82.29702978
 Gabon,GAB,% of rural population using drinking water services,2006,43.083592
 Gabon,GAB,% of urban population using drinking water services,2006,90.26787059
+"Gambia, The",GMB,% of total population using drinking water services,2006,76.02783315
+"Gambia, The",GMB,% of rural population using drinking water services,2006,66.47914897
+"Gambia, The",GMB,% of urban population using drinking water services,2006,84.58057774
 Ghana,GHA,% of total population using drinking water services,2006,70.17280407
 Ghana,GHA,% of rural population using drinking water services,2006,58.77526536
 Ghana,GHA,% of urban population using drinking water services,2006,82.52607534
@@ -737,6 +944,7 @@ Lesotho,LSO,% of urban population using drinking water services,2006,84.38742868
 Liberia,LBR,% of total population using drinking water services,2006,67.00601195
 Liberia,LBR,% of rural population using drinking water services,2006,55.0570913
 Liberia,LBR,% of urban population using drinking water services,2006,80.81129529
+Libya,LBY,% of total population using drinking water services,2006,89.45188924
 Madagascar,MDG,% of total population using drinking water services,2006,40.88944092
 Madagascar,MDG,% of rural population using drinking water services,2006,27.39640155
 Madagascar,MDG,% of urban population using drinking water services,2006,73.25209711
@@ -752,6 +960,9 @@ Mauritania,MRT,% of urban population using drinking water services,2006,73.88434
 Mauritius,MUS,% of total population using drinking water services,2006,99.54802929
 Mauritius,MUS,% of rural population using drinking water services,2006,99.34345924
 Mauritius,MUS,% of urban population using drinking water services,2006,99.83053081
+Morocco,MAR,% of total population using drinking water services,2006,70.85193792
+Morocco,MAR,% of rural population using drinking water services,2006,42.13733072
+Morocco,MAR,% of urban population using drinking water services,2006,93.64704648
 Mozambique,MOZ,% of total population using drinking water services,2006,31.36986536
 Mozambique,MOZ,% of rural population using drinking water services,2006,16.10007588
 Mozambique,MOZ,% of urban population using drinking water services,2006,66.69244381
@@ -767,6 +978,9 @@ Nigeria,NGA,% of urban population using drinking water services,2006,73.68966198
 Rwanda,RWA,% of total population using drinking water services,2006,50.18335968
 Rwanda,RWA,% of rural population using drinking water services,2006,45.19991686
 Rwanda,RWA,% of urban population using drinking water services,2006,74.65811433
+Sao Tome and Principe,STP,% of total population using drinking water services,2006,72.05015306
+Sao Tome and Principe,STP,% of rural population using drinking water services,2006,65.381744
+Sao Tome and Principe,STP,% of urban population using drinking water services,2006,76.43166949
 Senegal,SEN,% of total population using drinking water services,2006,67.08684653
 Senegal,SEN,% of rural population using drinking water services,2006,50.12424586
 Senegal,SEN,% of urban population using drinking water services,2006,90.39250303
@@ -788,6 +1002,9 @@ Tanzania,TZA,% of urban population using drinking water services,2006,71.8879657
 Togo,TGO,% of total population using drinking water services,2006,52.74809794
 Togo,TGO,% of rural population using drinking water services,2006,36.2149075
 Togo,TGO,% of urban population using drinking water services,2006,82.5926186
+Tunisia,TUN,% of total population using drinking water services,2006,90.8501833
+Tunisia,TUN,% of rural population using drinking water services,2006,76.02320556
+Tunisia,TUN,% of urban population using drinking water services,2006,98.6515251
 Uganda,UGA,% of total population using drinking water services,2006,34.44705036
 Uganda,UGA,% of rural population using drinking water services,2006,26.40580524
 Uganda,UGA,% of urban population using drinking water services,2006,72.55355471
@@ -797,6 +1014,9 @@ Zambia,ZMB,% of urban population using drinking water services,2006,84.41771272
 Zimbabwe,ZWE,% of total population using drinking water services,2006,69.63880335
 Zimbabwe,ZWE,% of rural population using drinking water services,2006,56.73061935
 Zimbabwe,ZWE,% of urban population using drinking water services,2006,94.77867751
+Algeria,DZA,% of total population using drinking water services,2007,91.60922889
+Algeria,DZA,% of rural population using drinking water services,2007,85.69867424
+Algeria,DZA,% of urban population using drinking water services,2007,94.74341124
 Angola,AGO,% of total population using drinking water services,2007,47.96147053
 Angola,AGO,% of rural population using drinking water services,2007,23.7672874
 Angola,AGO,% of urban population using drinking water services,2007,65.82657006
@@ -824,6 +1044,21 @@ Central African Republic,CAF,% of urban population using drinking water services
 Chad,TCD,% of total population using drinking water services,2007,41.7757177
 Chad,TCD,% of rural population using drinking water services,2007,32.4277193
 Chad,TCD,% of urban population using drinking water services,2007,75.17511323
+"Congo, Dem. Rep.",COD,% of total population using drinking water services,2007,37.79087
+"Congo, Dem. Rep.",COD,% of rural population using drinking water services,2007,18.36701447
+"Congo, Dem. Rep.",COD,% of urban population using drinking water services,2007,68.85793258
+"Congo, Rep.",COG,% of total population using drinking water services,2007,62.70681265
+"Congo, Rep.",COG,% of rural population using drinking water services,2007,25.52753509
+"Congo, Rep.",COG,% of urban population using drinking water services,2007,85.59778166
+Cote d'Ivoire,CIV,% of total population using drinking water services,2007,71.30161927
+Cote d'Ivoire,CIV,% of rural population using drinking water services,2007,56.0360282
+Cote d'Ivoire,CIV,% of urban population using drinking water services,2007,89.17095221
+Djibouti,DJI,% of total population using drinking water services,2007,75.56172072
+Djibouti,DJI,% of rural population using drinking water services,2007,51.7161494
+Djibouti,DJI,% of urban population using drinking water services,2007,82.7436597
+"Egypt, Arab Rep.",EGY,% of total population using drinking water services,2007,98.46026211
+"Egypt, Arab Rep.",EGY,% of rural population using drinking water services,2007,97.77287819
+"Egypt, Arab Rep.",EGY,% of urban population using drinking water services,2007,99.3685509
 Eswatini,SWZ,% of total population using drinking water services,2007,59.26560993
 Eswatini,SWZ,% of rural population using drinking water services,2007,50.44818669
 Eswatini,SWZ,% of urban population using drinking water services,2007,90.84134939
@@ -833,6 +1068,9 @@ Ethiopia,ETH,% of urban population using drinking water services,2007,78.3632465
 Gabon,GAB,% of total population using drinking water services,2007,82.48880187
 Gabon,GAB,% of rural population using drinking water services,2007,43.09970352
 Gabon,GAB,% of urban population using drinking water services,2007,90.13595964
+"Gambia, The",GMB,% of total population using drinking water services,2007,76.38302999
+"Gambia, The",GMB,% of rural population using drinking water services,2007,66.6824988
+"Gambia, The",GMB,% of urban population using drinking water services,2007,84.82077379
 Ghana,GHA,% of total population using drinking water services,2007,71.2716956
 Ghana,GHA,% of rural population using drinking water services,2007,59.71233564
 Ghana,GHA,% of urban population using drinking water services,2007,83.46330492
@@ -851,6 +1089,7 @@ Lesotho,LSO,% of urban population using drinking water services,2007,84.99305676
 Liberia,LBR,% of total population using drinking water services,2007,67.65578366
 Liberia,LBR,% of rural population using drinking water services,2007,55.79011132
 Liberia,LBR,% of urban population using drinking water services,2007,81.17557275
+Libya,LBY,% of total population using drinking water services,2007,90.32185879
 Madagascar,MDG,% of total population using drinking water services,2007,41.76885109
 Madagascar,MDG,% of rural population using drinking water services,2007,28.02726935
 Madagascar,MDG,% of urban population using drinking water services,2007,73.76698284
@@ -866,6 +1105,9 @@ Mauritania,MRT,% of urban population using drinking water services,2007,75.24081
 Mauritius,MUS,% of total population using drinking water services,2007,99.59317929
 Mauritius,MUS,% of rural population using drinking water services,2007,99.41263397
 Mauritius,MUS,% of urban population using drinking water services,2007,99.84364286
+Morocco,MAR,% of total population using drinking water services,2007,72.33844751
+Morocco,MAR,% of rural population using drinking water services,2007,44.47919193
+Morocco,MAR,% of urban population using drinking water services,2007,93.94782855
 Mozambique,MOZ,% of total population using drinking water services,2007,33.29522577
 Mozambique,MOZ,% of rural population using drinking water services,2007,18.09591899
 Mozambique,MOZ,% of urban population using drinking water services,2007,68.15291414
@@ -881,6 +1123,9 @@ Nigeria,NGA,% of urban population using drinking water services,2007,74.95327249
 Rwanda,RWA,% of total population using drinking water services,2007,50.93687129
 Rwanda,RWA,% of rural population using drinking water services,2007,45.97763473
 Rwanda,RWA,% of urban population using drinking water services,2007,75.28581407
+Sao Tome and Principe,STP,% of total population using drinking water services,2007,72.66929332
+Sao Tome and Principe,STP,% of rural population using drinking water services,2007,66.06716994
+Sao Tome and Principe,STP,% of urban population using drinking water services,2007,76.79884039
 Senegal,SEN,% of total population using drinking water services,2007,68.37656166
 Senegal,SEN,% of rural population using drinking water services,2007,51.82288207
 Senegal,SEN,% of urban population using drinking water services,2007,90.74066683
@@ -902,6 +1147,9 @@ Tanzania,TZA,% of urban population using drinking water services,2007,73.1446788
 Togo,TGO,% of total population using drinking water services,2007,53.97189441
 Togo,TGO,% of rural population using drinking water services,2007,37.44410529
 Togo,TGO,% of urban population using drinking water services,2007,83.20716977
+Tunisia,TUN,% of total population using drinking water services,2007,91.1999283
+Tunisia,TUN,% of rural population using drinking water services,2007,76.74182789
+Tunisia,TUN,% of urban population using drinking water services,2007,98.71161654
 Uganda,UGA,% of total population using drinking water services,2007,35.85411384
 Uganda,UGA,% of rural population using drinking water services,2007,27.75693277
 Uganda,UGA,% of urban population using drinking water services,2007,72.995111
@@ -911,6 +1159,9 @@ Zambia,ZMB,% of urban population using drinking water services,2007,84.58281522
 Zimbabwe,ZWE,% of total population using drinking water services,2007,69.11454478
 Zimbabwe,ZWE,% of rural population using drinking water services,2007,56.11285434
 Zimbabwe,ZWE,% of urban population using drinking water services,2007,94.64437258
+Algeria,DZA,% of total population using drinking water services,2008,91.84330409
+Algeria,DZA,% of rural population using drinking water services,2008,86.02554174
+Algeria,DZA,% of urban population using drinking water services,2008,94.82740138
 Angola,AGO,% of total population using drinking water services,2008,48.77040378
 Angola,AGO,% of rural population using drinking water services,2008,24.13806931
 Angola,AGO,% of urban population using drinking water services,2008,66.40211952
@@ -938,6 +1189,21 @@ Central African Republic,CAF,% of urban population using drinking water services
 Chad,TCD,% of total population using drinking water services,2008,42.09069088
 Chad,TCD,% of rural population using drinking water services,2008,32.81872802
 Chad,TCD,% of urban population using drinking water services,2008,75.1545245
+"Congo, Dem. Rep.",COD,% of total population using drinking water services,2008,38.38954596
+"Congo, Dem. Rep.",COD,% of rural population using drinking water services,2008,18.65427281
+"Congo, Dem. Rep.",COD,% of urban population using drinking water services,2008,69.2886976
+"Congo, Rep.",COG,% of total population using drinking water services,2008,63.77039103
+"Congo, Rep.",COG,% of rural population using drinking water services,2008,27.38229699
+"Congo, Rep.",COG,% of urban population using drinking water services,2008,85.74705855
+Cote d'Ivoire,CIV,% of total population using drinking water services,2008,71.28056904
+Cote d'Ivoire,CIV,% of rural population using drinking water services,2008,56.01194155
+Cote d'Ivoire,CIV,% of urban population using drinking water services,2008,88.85405465
+Djibouti,DJI,% of total population using drinking water services,2008,75.57976866
+Djibouti,DJI,% of rural population using drinking water services,2008,51.34653137
+Djibouti,DJI,% of urban population using drinking water services,2008,82.85960597
+"Egypt, Arab Rep.",EGY,% of total population using drinking water services,2008,98.54089121
+"Egypt, Arab Rep.",EGY,% of rural population using drinking water services,2008,97.90125853
+"Egypt, Arab Rep.",EGY,% of urban population using drinking water services,2008,99.38677265
 Eswatini,SWZ,% of total population using drinking water services,2008,60.2369722
 Eswatini,SWZ,% of rural population using drinking water services,2008,51.43805302
 Eswatini,SWZ,% of urban population using drinking water services,2008,91.35150708
@@ -947,6 +1213,9 @@ Ethiopia,ETH,% of urban population using drinking water services,2008,78.8120705
 Gabon,GAB,% of total population using drinking water services,2008,82.66875326
 Gabon,GAB,% of rural population using drinking water services,2008,43.11005022
 Gabon,GAB,% of urban population using drinking water services,2008,90.00333252
+"Gambia, The",GMB,% of total population using drinking water services,2008,76.73821284
+"Gambia, The",GMB,% of rural population using drinking water services,2008,66.88433738
+"Gambia, The",GMB,% of urban population using drinking water services,2008,85.06122898
 Ghana,GHA,% of total population using drinking water services,2008,72.37342057
 Ghana,GHA,% of rural population using drinking water services,2008,60.64938944
 Ghana,GHA,% of urban population using drinking water services,2008,84.4058089
@@ -965,6 +1234,7 @@ Lesotho,LSO,% of urban population using drinking water services,2008,85.60038469
 Liberia,LBR,% of total population using drinking water services,2008,68.29553369
 Liberia,LBR,% of rural population using drinking water services,2008,56.51226773
 Liberia,LBR,% of urban population using drinking water services,2008,81.5361922
+Libya,LBY,% of total population using drinking water services,2008,91.19182833
 Madagascar,MDG,% of total population using drinking water services,2008,42.65232181
 Madagascar,MDG,% of rural population using drinking water services,2008,28.66009176
 Madagascar,MDG,% of urban population using drinking water services,2008,74.28197307
@@ -980,6 +1250,9 @@ Mauritania,MRT,% of urban population using drinking water services,2008,76.60551
 Mauritius,MUS,% of total population using drinking water services,2008,99.63844997
 Mauritius,MUS,% of rural population using drinking water services,2008,99.4818087
 Mauritius,MUS,% of urban population using drinking water services,2008,99.85675492
+Morocco,MAR,% of total population using drinking water services,2008,73.81241348
+Morocco,MAR,% of rural population using drinking water services,2008,46.84767668
+Morocco,MAR,% of urban population using drinking water services,2008,94.24903646
 Mozambique,MOZ,% of total population using drinking water services,2008,35.39980799
 Mozambique,MOZ,% of rural population using drinking water services,2008,20.14478196
 Mozambique,MOZ,% of urban population using drinking water services,2008,69.62268139
@@ -995,6 +1268,9 @@ Nigeria,NGA,% of urban population using drinking water services,2008,76.22762472
 Rwanda,RWA,% of total population using drinking water services,2008,51.69434363
 Rwanda,RWA,% of rural population using drinking water services,2008,46.75961181
 Rwanda,RWA,% of urban population using drinking water services,2008,75.91607007
+Sao Tome and Principe,STP,% of total population using drinking water services,2008,73.27470062
+Sao Tome and Principe,STP,% of rural population using drinking water services,2008,66.74515531
+Sao Tome and Principe,STP,% of urban population using drinking water services,2008,77.16242332
 Senegal,SEN,% of total population using drinking water services,2008,69.6641986
 Senegal,SEN,% of rural population using drinking water services,2008,53.5362191
 Senegal,SEN,% of urban population using drinking water services,2008,91.08943397
@@ -1016,6 +1292,9 @@ Tanzania,TZA,% of urban population using drinking water services,2008,74.4086828
 Togo,TGO,% of total population using drinking water services,2008,55.19116723
 Togo,TGO,% of rural population using drinking water services,2008,38.67231684
 Togo,TGO,% of urban population using drinking water services,2008,83.82182513
+Tunisia,TUN,% of total population using drinking water services,2008,91.54564612
+Tunisia,TUN,% of rural population using drinking water services,2008,77.46045022
+Tunisia,TUN,% of urban population using drinking water services,2008,98.77162743
 Uganda,UGA,% of total population using drinking water services,2008,37.28362336
 Uganda,UGA,% of rural population using drinking water services,2008,29.14003391
 Uganda,UGA,% of urban population using drinking water services,2008,73.43718937
@@ -1025,6 +1304,9 @@ Zambia,ZMB,% of urban population using drinking water services,2008,84.74796944
 Zimbabwe,ZWE,% of total population using drinking water services,2008,68.58996496
 Zimbabwe,ZWE,% of rural population using drinking water services,2008,55.49729284
 Zimbabwe,ZWE,% of urban population using drinking water services,2008,94.51003161
+Algeria,DZA,% of total population using drinking water services,2009,92.07203717
+Algeria,DZA,% of rural population using drinking water services,2009,86.35240924
+Algeria,DZA,% of urban population using drinking water services,2009,94.91139152
 Angola,AGO,% of total population using drinking water services,2009,49.57516542
 Angola,AGO,% of rural population using drinking water services,2009,24.50816646
 Angola,AGO,% of urban population using drinking water services,2009,66.97013324
@@ -1052,6 +1334,21 @@ Central African Republic,CAF,% of urban population using drinking water services
 Chad,TCD,% of total population using drinking water services,2009,42.40402243
 Chad,TCD,% of rural population using drinking water services,2009,33.21056215
 Chad,TCD,% of urban population using drinking water services,2009,75.12476608
+"Congo, Dem. Rep.",COD,% of total population using drinking water services,2009,38.99355346
+"Congo, Dem. Rep.",COD,% of rural population using drinking water services,2009,18.94001088
+"Congo, Dem. Rep.",COD,% of urban population using drinking water services,2009,69.72004565
+"Congo, Rep.",COG,% of total population using drinking water services,2009,64.83275868
+"Congo, Rep.",COG,% of rural population using drinking water services,2009,29.27370909
+"Congo, Rep.",COG,% of urban population using drinking water services,2009,85.89639646
+Cote d'Ivoire,CIV,% of total population using drinking water services,2009,71.25698287
+Cote d'Ivoire,CIV,% of rural population using drinking water services,2009,55.98784908
+Cote d'Ivoire,CIV,% of urban population using drinking water services,2009,88.537699
+Djibouti,DJI,% of total population using drinking water services,2009,75.59794598
+Djibouti,DJI,% of rural population using drinking water services,2009,50.97691333
+Djibouti,DJI,% of urban population using drinking water services,2009,82.97555224
+"Egypt, Arab Rep.",EGY,% of total population using drinking water services,2009,98.62161863
+"Egypt, Arab Rep.",EGY,% of rural population using drinking water services,2009,98.02970876
+"Egypt, Arab Rep.",EGY,% of urban population using drinking water services,2009,99.404996
 Eswatini,SWZ,% of total population using drinking water services,2009,61.20011373
 Eswatini,SWZ,% of rural population using drinking water services,2009,52.41927177
 Eswatini,SWZ,% of urban population using drinking water services,2009,91.8624501
@@ -1061,6 +1358,9 @@ Ethiopia,ETH,% of urban population using drinking water services,2009,79.2610852
 Gabon,GAB,% of total population using drinking water services,2009,82.8356437
 Gabon,GAB,% of rural population using drinking water services,2009,43.1146321
 Gabon,GAB,% of urban population using drinking water services,2009,89.86998921
+"Gambia, The",GMB,% of total population using drinking water services,2009,77.09269112
+"Gambia, The",GMB,% of rural population using drinking water services,2009,67.08466471
+"Gambia, The",GMB,% of urban population using drinking water services,2009,85.30194331
 Ghana,GHA,% of total population using drinking water services,2009,73.47737501
 Ghana,GHA,% of rural population using drinking water services,2009,61.58642677
 Ghana,GHA,% of urban population using drinking water services,2009,85.35358728
@@ -1079,6 +1379,7 @@ Lesotho,LSO,% of urban population using drinking water services,2009,86.20941247
 Liberia,LBR,% of total population using drinking water services,2009,68.92804916
 Liberia,LBR,% of rural population using drinking water services,2009,57.22356056
 Liberia,LBR,% of urban population using drinking water services,2009,81.89315364
+Libya,LBY,% of total population using drinking water services,2009,92.06179788
 Madagascar,MDG,% of total population using drinking water services,2009,43.53751234
 Madagascar,MDG,% of rural population using drinking water services,2009,29.29486879
 Madagascar,MDG,% of urban population using drinking water services,2009,74.7970678
@@ -1094,6 +1395,9 @@ Mauritania,MRT,% of urban population using drinking water services,2009,77.97845
 Mauritius,MUS,% of total population using drinking water services,2009,99.68384945
 Mauritius,MUS,% of rural population using drinking water services,2009,99.55098342
 Mauritius,MUS,% of urban population using drinking water services,2009,99.86986698
+Morocco,MAR,% of total population using drinking water services,2009,75.27306806
+Morocco,MAR,% of rural population using drinking water services,2009,49.24278495
+Morocco,MAR,% of urban population using drinking water services,2009,94.55067019
 Mozambique,MOZ,% of total population using drinking water services,2009,37.55198351
 Mozambique,MOZ,% of rural population using drinking water services,2009,22.24666479
 Mozambique,MOZ,% of urban population using drinking water services,2009,71.10174556
@@ -1109,6 +1413,9 @@ Nigeria,NGA,% of urban population using drinking water services,2009,77.51271866
 Rwanda,RWA,% of total population using drinking water services,2009,52.45606068
 Rwanda,RWA,% of rural population using drinking water services,2009,47.54584812
 Rwanda,RWA,% of urban population using drinking water services,2009,76.54888233
+Sao Tome and Principe,STP,% of total population using drinking water services,2009,73.86611276
+Sao Tome and Principe,STP,% of rural population using drinking water services,2009,67.41570009
+Sao Tome and Principe,STP,% of urban population using drinking water services,2009,77.5224183
 Senegal,SEN,% of total population using drinking water services,2009,70.94917933
 Senegal,SEN,% of rural population using drinking water services,2009,55.26425696
 Senegal,SEN,% of urban population using drinking water services,2009,91.43880447
@@ -1130,6 +1437,9 @@ Tanzania,TZA,% of urban population using drinking water services,2009,75.6799777
 Togo,TGO,% of total population using drinking water services,2009,56.404078
 Togo,TGO,% of rural population using drinking water services,2009,39.89954217
 Togo,TGO,% of urban population using drinking water services,2009,84.43658467
+Tunisia,TUN,% of total population using drinking water services,2009,91.88736848
+Tunisia,TUN,% of rural population using drinking water services,2009,78.17907256
+Tunisia,TUN,% of urban population using drinking water services,2009,98.83155775
 Uganda,UGA,% of total population using drinking water services,2009,38.73394146
 Uganda,UGA,% of rural population using drinking water services,2009,30.55510867
 Uganda,UGA,% of urban population using drinking water services,2009,73.87978981
@@ -1139,6 +1449,9 @@ Zambia,ZMB,% of urban population using drinking water services,2009,84.91317538
 Zimbabwe,ZWE,% of total population using drinking water services,2009,68.06548108
 Zimbabwe,ZWE,% of rural population using drinking water services,2009,54.88393486
 Zimbabwe,ZWE,% of urban population using drinking water services,2009,94.37565461
+Algeria,DZA,% of total population using drinking water services,2010,92.29597417
+Algeria,DZA,% of rural population using drinking water services,2010,86.67927674
+Algeria,DZA,% of urban population using drinking water services,2010,94.99538166
 Angola,AGO,% of total population using drinking water services,2010,50.37684093
 Angola,AGO,% of rural population using drinking water services,2010,24.87757885
 Angola,AGO,% of urban population using drinking water services,2010,67.53061123
@@ -1166,6 +1479,21 @@ Central African Republic,CAF,% of urban population using drinking water services
 Chad,TCD,% of total population using drinking water services,2010,42.72317538
 Chad,TCD,% of rural population using drinking water services,2010,33.6032217
 Chad,TCD,% of urban population using drinking water services,2010,75.08583795
+"Congo, Dem. Rep.",COD,% of total population using drinking water services,2010,39.60194826
+"Congo, Dem. Rep.",COD,% of rural population using drinking water services,2010,19.22422869
+"Congo, Dem. Rep.",COD,% of urban population using drinking water services,2010,70.15197675
+"Congo, Rep.",COG,% of total population using drinking water services,2010,65.89391032
+"Congo, Rep.",COG,% of rural population using drinking water services,2010,31.20177139
+"Congo, Rep.",COG,% of urban population using drinking water services,2010,86.04579538
+Cote d'Ivoire,CIV,% of total population using drinking water services,2010,71.23152598
+Cote d'Ivoire,CIV,% of rural population using drinking water services,2010,55.96375077
+Cote d'Ivoire,CIV,% of urban population using drinking water services,2010,88.22188527
+Djibouti,DJI,% of total population using drinking water services,2010,75.61980786
+Djibouti,DJI,% of rural population using drinking water services,2010,50.60729529
+Djibouti,DJI,% of urban population using drinking water services,2010,83.09149851
+"Egypt, Arab Rep.",EGY,% of total population using drinking water services,2010,98.70241581
+"Egypt, Arab Rep.",EGY,% of rural population using drinking water services,2010,98.15822888
+"Egypt, Arab Rep.",EGY,% of urban population using drinking water services,2010,99.42322095
 Eswatini,SWZ,% of total population using drinking water services,2010,62.15507375
 Eswatini,SWZ,% of rural population using drinking water services,2010,53.39184292
 Eswatini,SWZ,% of urban population using drinking water services,2010,92.37417845
@@ -1175,6 +1503,9 @@ Ethiopia,ETH,% of urban population using drinking water services,2010,79.7102905
 Gabon,GAB,% of total population using drinking water services,2010,82.99105522
 Gabon,GAB,% of rural population using drinking water services,2010,43.11344916
 Gabon,GAB,% of urban population using drinking water services,2010,89.73592973
+"Gambia, The",GMB,% of total population using drinking water services,2010,77.44704825
+"Gambia, The",GMB,% of rural population using drinking water services,2010,67.2834808
+"Gambia, The",GMB,% of urban population using drinking water services,2010,85.54291678
 Ghana,GHA,% of total population using drinking water services,2010,74.584619
 Ghana,GHA,% of rural population using drinking water services,2010,62.52344762
 Ghana,GHA,% of urban population using drinking water services,2010,86.30664005
@@ -1193,6 +1524,7 @@ Lesotho,LSO,% of urban population using drinking water services,2010,86.82014011
 Liberia,LBR,% of total population using drinking water services,2010,69.55329165
 Liberia,LBR,% of rural population using drinking water services,2010,57.92398978
 Liberia,LBR,% of urban population using drinking water services,2010,82.24645706
+Libya,LBY,% of total population using drinking water services,2010,92.93176743
 Madagascar,MDG,% of total population using drinking water services,2010,44.42527631
 Madagascar,MDG,% of rural population using drinking water services,2010,29.93160042
 Madagascar,MDG,% of urban population using drinking water services,2010,75.31226703
@@ -1208,6 +1540,9 @@ Mauritania,MRT,% of urban population using drinking water services,2010,79.35964
 Mauritius,MUS,% of total population using drinking water services,2010,99.72937337
 Mauritius,MUS,% of rural population using drinking water services,2010,99.62015815
 Mauritius,MUS,% of urban population using drinking water services,2010,99.88297904
+Morocco,MAR,% of total population using drinking water services,2010,76.72145338
+Morocco,MAR,% of rural population using drinking water services,2010,51.66451676
+Morocco,MAR,% of urban population using drinking water services,2010,94.85272976
 Mozambique,MOZ,% of total population using drinking water services,2010,39.73997963
 Mozambique,MOZ,% of rural population using drinking water services,2010,24.40156747
 Mozambique,MOZ,% of urban population using drinking water services,2010,72.59010665
@@ -1223,6 +1558,9 @@ Nigeria,NGA,% of urban population using drinking water services,2010,78.80855432
 Rwanda,RWA,% of total population using drinking water services,2010,53.22144838
 Rwanda,RWA,% of rural population using drinking water services,2010,48.33634364
 Rwanda,RWA,% of urban population using drinking water services,2010,77.18425085
+Sao Tome and Principe,STP,% of total population using drinking water services,2010,74.44411367
+Sao Tome and Principe,STP,% of rural population using drinking water services,2010,68.0788043
+Sao Tome and Principe,STP,% of urban population using drinking water services,2010,77.87882532
 Senegal,SEN,% of total population using drinking water services,2010,72.23202583
 Senegal,SEN,% of rural population using drinking water services,2010,57.00699566
 Senegal,SEN,% of urban population using drinking water services,2010,91.78877831
@@ -1244,6 +1582,9 @@ Tanzania,TZA,% of urban population using drinking water services,2010,76.9585634
 Togo,TGO,% of total population using drinking water services,2010,57.61240183
 Togo,TGO,% of rural population using drinking water services,2010,41.12578126
 Togo,TGO,% of urban population using drinking water services,2010,85.05144839
+Tunisia,TUN,% of total population using drinking water services,2010,92.22490194
+Tunisia,TUN,% of rural population using drinking water services,2010,78.89769489
+Tunisia,TUN,% of urban population using drinking water services,2010,98.89140751
 Uganda,UGA,% of total population using drinking water services,2010,40.2051887
 Uganda,UGA,% of rural population using drinking water services,2010,32.00215704
 Uganda,UGA,% of urban population using drinking water services,2010,74.32291233
@@ -1253,6 +1594,9 @@ Zambia,ZMB,% of urban population using drinking water services,2010,85.07843305
 Zimbabwe,ZWE,% of total population using drinking water services,2010,67.54071095
 Zimbabwe,ZWE,% of rural population using drinking water services,2010,54.27278038
 Zimbabwe,ZWE,% of urban population using drinking water services,2010,94.24124156
+Algeria,DZA,% of total population using drinking water services,2011,92.51499419
+Algeria,DZA,% of rural population using drinking water services,2011,87.00614424
+Algeria,DZA,% of urban population using drinking water services,2011,95.07937181
 Angola,AGO,% of total population using drinking water services,2011,51.17483374
 Angola,AGO,% of rural population using drinking water services,2011,25.24630648
 Angola,AGO,% of urban population using drinking water services,2011,68.08355348
@@ -1280,6 +1624,21 @@ Central African Republic,CAF,% of urban population using drinking water services
 Chad,TCD,% of total population using drinking water services,2011,43.04789724
 Chad,TCD,% of rural population using drinking water services,2011,33.99670667
 Chad,TCD,% of urban population using drinking water services,2011,75.03774011
+"Congo, Dem. Rep.",COD,% of total population using drinking water services,2011,40.21581378
+"Congo, Dem. Rep.",COD,% of rural population using drinking water services,2011,19.50692624
+"Congo, Dem. Rep.",COD,% of urban population using drinking water services,2011,70.58449088
+"Congo, Rep.",COG,% of total population using drinking water services,2011,66.95217738
+"Congo, Rep.",COG,% of rural population using drinking water services,2011,33.1664839
+"Congo, Rep.",COG,% of urban population using drinking water services,2011,86.19525531
+Cote d'Ivoire,CIV,% of total population using drinking water services,2011,71.20419268
+Cote d'Ivoire,CIV,% of rural population using drinking water services,2011,55.93964662
+Cote d'Ivoire,CIV,% of urban population using drinking water services,2011,87.90661346
+Djibouti,DJI,% of total population using drinking water services,2011,75.64549934
+Djibouti,DJI,% of rural population using drinking water services,2011,50.23767725
+Djibouti,DJI,% of urban population using drinking water services,2011,83.20744478
+"Egypt, Arab Rep.",EGY,% of total population using drinking water services,2011,98.78330921
+"Egypt, Arab Rep.",EGY,% of rural population using drinking water services,2011,98.2868189
+"Egypt, Arab Rep.",EGY,% of urban population using drinking water services,2011,99.4414475
 Eswatini,SWZ,% of total population using drinking water services,2011,63.10228629
 Eswatini,SWZ,% of rural population using drinking water services,2011,54.35576649
 Eswatini,SWZ,% of urban population using drinking water services,2011,92.88669213
@@ -1289,6 +1648,9 @@ Ethiopia,ETH,% of urban population using drinking water services,2011,80.1596865
 Gabon,GAB,% of total population using drinking water services,2011,83.13467666
 Gabon,GAB,% of rural population using drinking water services,2011,43.1065014
 Gabon,GAB,% of urban population using drinking water services,2011,89.60115408
+"Gambia, The",GMB,% of total population using drinking water services,2011,77.80095111
+"Gambia, The",GMB,% of rural population using drinking water services,2011,67.48078565
+"Gambia, The",GMB,% of urban population using drinking water services,2011,85.78414939
 Ghana,GHA,% of total population using drinking water services,2011,75.69454415
 Ghana,GHA,% of rural population using drinking water services,2011,63.460452
 Ghana,GHA,% of urban population using drinking water services,2011,87.26496721
@@ -1307,6 +1669,7 @@ Lesotho,LSO,% of urban population using drinking water services,2011,87.43256761
 Liberia,LBR,% of total population using drinking water services,2011,70.1714638
 Liberia,LBR,% of rural population using drinking water services,2011,58.61355541
 Liberia,LBR,% of urban population using drinking water services,2011,82.59610247
+Libya,LBY,% of total population using drinking water services,2011,93.80173697
 Madagascar,MDG,% of total population using drinking water services,2011,45.3151096
 Madagascar,MDG,% of rural population using drinking water services,2011,30.57028667
 Madagascar,MDG,% of urban population using drinking water services,2011,75.82757077
@@ -1322,6 +1685,9 @@ Mauritania,MRT,% of urban population using drinking water services,2011,80.74907
 Mauritius,MUS,% of total population using drinking water services,2011,99.77502176
 Mauritius,MUS,% of rural population using drinking water services,2011,99.68933288
 Mauritius,MUS,% of urban population using drinking water services,2011,99.8960911
+Morocco,MAR,% of total population using drinking water services,2011,78.15588754
+Morocco,MAR,% of rural population using drinking water services,2011,54.1128721
+Morocco,MAR,% of urban population using drinking water services,2011,95.15521515
 Mozambique,MOZ,% of total population using drinking water services,2011,41.96206548
 Mozambique,MOZ,% of rural population using drinking water services,2011,26.60949001
 Mozambique,MOZ,% of urban population using drinking water services,2011,74.08776465
@@ -1337,6 +1703,9 @@ Nigeria,NGA,% of urban population using drinking water services,2011,80.11513169
 Rwanda,RWA,% of total population using drinking water services,2011,53.99079479
 Rwanda,RWA,% of rural population using drinking water services,2011,49.13109839
 Rwanda,RWA,% of urban population using drinking water services,2011,77.82217564
+Sao Tome and Principe,STP,% of total population using drinking water services,2011,75.00868419
+Sao Tome and Principe,STP,% of rural population using drinking water services,2011,68.73446793
+Sao Tome and Principe,STP,% of urban population using drinking water services,2011,78.23164437
 Senegal,SEN,% of total population using drinking water services,2011,73.51214473
 Senegal,SEN,% of rural population using drinking water services,2011,58.76443518
 Senegal,SEN,% of urban population using drinking water services,2011,92.1393555
@@ -1358,6 +1727,9 @@ Tanzania,TZA,% of urban population using drinking water services,2011,78.2444400
 Togo,TGO,% of total population using drinking water services,2011,58.82474106
 Togo,TGO,% of rural population using drinking water services,2011,42.35103413
 Togo,TGO,% of urban population using drinking water services,2011,85.66641629
+Tunisia,TUN,% of total population using drinking water services,2011,92.41831756
+Tunisia,TUN,% of rural population using drinking water services,2011,79.19175645
+Tunisia,TUN,% of urban population using drinking water services,2011,98.95117672
 Uganda,UGA,% of total population using drinking water services,2011,41.69614318
 Uganda,UGA,% of rural population using drinking water services,2011,33.48117903
 Uganda,UGA,% of urban population using drinking water services,2011,74.76655692
@@ -1367,6 +1739,9 @@ Zambia,ZMB,% of urban population using drinking water services,2011,85.24374245
 Zimbabwe,ZWE,% of total population using drinking water services,2011,67.01607639
 Zimbabwe,ZWE,% of rural population using drinking water services,2011,53.66382942
 Zimbabwe,ZWE,% of urban population using drinking water services,2011,94.10679247
+Algeria,DZA,% of total population using drinking water services,2012,92.74518845
+Algeria,DZA,% of rural population using drinking water services,2012,87.34267638
+Algeria,DZA,% of urban population using drinking water services,2012,95.18205803
 Angola,AGO,% of total population using drinking water services,2012,51.9685411
 Angola,AGO,% of rural population using drinking water services,2012,25.61434935
 Angola,AGO,% of urban population using drinking water services,2012,68.62896
@@ -1394,6 +1769,21 @@ Central African Republic,CAF,% of urban population using drinking water services
 Chad,TCD,% of total population using drinking water services,2012,43.37833546
 Chad,TCD,% of rural population using drinking water services,2012,34.39101706
 Chad,TCD,% of urban population using drinking water services,2012,74.98047258
+"Congo, Dem. Rep.",COD,% of total population using drinking water services,2012,40.83420107
+"Congo, Dem. Rep.",COD,% of rural population using drinking water services,2012,19.78810352
+"Congo, Dem. Rep.",COD,% of urban population using drinking water services,2012,71.01758805
+"Congo, Rep.",COG,% of total population using drinking water services,2012,68.00757085
+"Congo, Rep.",COG,% of rural population using drinking water services,2012,35.1678466
+"Congo, Rep.",COG,% of urban population using drinking water services,2012,86.34477625
+Cote d'Ivoire,CIV,% of total population using drinking water services,2012,71.17466615
+Cote d'Ivoire,CIV,% of rural population using drinking water services,2012,55.91553665
+Cote d'Ivoire,CIV,% of urban population using drinking water services,2012,87.59188356
+Djibouti,DJI,% of total population using drinking water services,2012,75.67483066
+Djibouti,DJI,% of rural population using drinking water services,2012,49.86805921
+Djibouti,DJI,% of urban population using drinking water services,2012,83.32339104
+"Egypt, Arab Rep.",EGY,% of total population using drinking water services,2012,98.86391957
+"Egypt, Arab Rep.",EGY,% of rural population using drinking water services,2012,98.41547881
+"Egypt, Arab Rep.",EGY,% of urban population using drinking water services,2012,99.45967565
 Eswatini,SWZ,% of total population using drinking water services,2012,64.01398627
 Eswatini,SWZ,% of rural population using drinking water services,2012,55.31104248
 Eswatini,SWZ,% of urban population using drinking water services,2012,93.39999114
@@ -1403,6 +1793,9 @@ Ethiopia,ETH,% of urban population using drinking water services,2012,80.6092730
 Gabon,GAB,% of total population using drinking water services,2012,83.26759908
 Gabon,GAB,% of rural population using drinking water services,2012,43.09378882
 Gabon,GAB,% of urban population using drinking water services,2012,89.46566224
+"Gambia, The",GMB,% of total population using drinking water services,2012,78.15481333
+"Gambia, The",GMB,% of rural population using drinking water services,2012,67.67657924
+"Gambia, The",GMB,% of urban population using drinking water services,2012,86.02564115
 Ghana,GHA,% of total population using drinking water services,2012,76.80702433
 Ghana,GHA,% of rural population using drinking water services,2012,64.3974399
 Ghana,GHA,% of urban population using drinking water services,2012,88.22856878
@@ -1421,6 +1814,7 @@ Lesotho,LSO,% of urban population using drinking water services,2012,88.04669496
 Liberia,LBR,% of total population using drinking water services,2012,70.78205575
 Liberia,LBR,% of rural population using drinking water services,2012,59.29225744
 Liberia,LBR,% of urban population using drinking water services,2012,82.94208988
+Libya,LBY,% of total population using drinking water services,2012,94.67170652
 Madagascar,MDG,% of total population using drinking water services,2012,46.20695403
 Madagascar,MDG,% of rural population using drinking water services,2012,31.21092752
 Madagascar,MDG,% of urban population using drinking water services,2012,76.342979
@@ -1436,6 +1830,9 @@ Mauritania,MRT,% of urban population using drinking water services,2012,82.14673
 Mauritius,MUS,% of total population using drinking water services,2012,99.8207931
 Mauritius,MUS,% of rural population using drinking water services,2012,99.75850761
 Mauritius,MUS,% of urban population using drinking water services,2012,99.90920316
+Morocco,MAR,% of total population using drinking water services,2012,79.57650954
+Morocco,MAR,% of rural population using drinking water services,2012,56.58785096
+Morocco,MAR,% of urban population using drinking water services,2012,95.45812638
 Mozambique,MOZ,% of total population using drinking water services,2012,44.21749158
 Mozambique,MOZ,% of rural population using drinking water services,2012,28.87043241
 Mozambique,MOZ,% of urban population using drinking water services,2012,75.59471957
@@ -1451,6 +1848,9 @@ Nigeria,NGA,% of urban population using drinking water services,2012,81.43245078
 Rwanda,RWA,% of total population using drinking water services,2012,54.76437975
 Rwanda,RWA,% of rural population using drinking water services,2012,49.93011235
 Rwanda,RWA,% of urban population using drinking water services,2012,78.46265668
+Sao Tome and Principe,STP,% of total population using drinking water services,2012,75.56019155
+Sao Tome and Principe,STP,% of rural population using drinking water services,2012,69.38269097
+Sao Tome and Principe,STP,% of urban population using drinking water services,2012,78.58087547
 Senegal,SEN,% of total population using drinking water services,2012,74.78899994
 Senegal,SEN,% of rural population using drinking water services,2012,60.53657553
 Senegal,SEN,% of urban population using drinking water services,2012,92.49053604
@@ -1472,6 +1872,9 @@ Tanzania,TZA,% of urban population using drinking water services,2012,79.5376075
 Togo,TGO,% of total population using drinking water services,2012,60.03682811
 Togo,TGO,% of rural population using drinking water services,2012,43.57530076
 Togo,TGO,% of urban population using drinking water services,2012,86.28148837
+Tunisia,TUN,% of total population using drinking water services,2012,93.03060656
+Tunisia,TUN,% of rural population using drinking water services,2012,80.76835802
+Tunisia,TUN,% of urban population using drinking water services,2012,99.01086536
 Uganda,UGA,% of total population using drinking water services,2012,43.20641186
 Uganda,UGA,% of rural population using drinking water services,2012,34.99217463
 Uganda,UGA,% of urban population using drinking water services,2012,75.2107236
@@ -1481,6 +1884,9 @@ Zambia,ZMB,% of urban population using drinking water services,2012,85.40910357
 Zimbabwe,ZWE,% of total population using drinking water services,2012,66.49118469
 Zimbabwe,ZWE,% of rural population using drinking water services,2012,53.05708198
 Zimbabwe,ZWE,% of urban population using drinking water services,2012,93.97230735
+Algeria,DZA,% of total population using drinking water services,2013,92.97088353
+Algeria,DZA,% of rural population using drinking water services,2013,87.67928086
+Algeria,DZA,% of urban population using drinking water services,2013,95.28477725
 Angola,AGO,% of total population using drinking water services,2013,52.75734684
 Angola,AGO,% of rural population using drinking water services,2013,25.98170746
 Angola,AGO,% of urban population using drinking water services,2013,69.16683077
@@ -1508,6 +1914,21 @@ Central African Republic,CAF,% of urban population using drinking water services
 Chad,TCD,% of total population using drinking water services,2013,43.71380254
 Chad,TCD,% of rural population using drinking water services,2013,34.78615286
 Chad,TCD,% of urban population using drinking water services,2013,74.91403535
+"Congo, Dem. Rep.",COD,% of total population using drinking water services,2013,41.45717361
+"Congo, Dem. Rep.",COD,% of rural population using drinking water services,2013,20.06776054
+"Congo, Dem. Rep.",COD,% of urban population using drinking water services,2013,71.45126826
+"Congo, Rep.",COG,% of total population using drinking water services,2013,69.05953867
+"Congo, Rep.",COG,% of rural population using drinking water services,2013,37.20585951
+"Congo, Rep.",COG,% of urban population using drinking water services,2013,86.49435821
+Cote d'Ivoire,CIV,% of total population using drinking water services,2013,71.14295293
+Cote d'Ivoire,CIV,% of rural population using drinking water services,2013,55.89142084
+Cote d'Ivoire,CIV,% of urban population using drinking water services,2013,87.27769557
+Djibouti,DJI,% of total population using drinking water services,2013,75.70828177
+Djibouti,DJI,% of rural population using drinking water services,2013,49.49844117
+Djibouti,DJI,% of urban population using drinking water services,2013,83.43933731
+"Egypt, Arab Rep.",EGY,% of total population using drinking water services,2013,98.94469919
+"Egypt, Arab Rep.",EGY,% of rural population using drinking water services,2013,98.54420862
+"Egypt, Arab Rep.",EGY,% of urban population using drinking water services,2013,99.47790541
 Eswatini,SWZ,% of total population using drinking water services,2013,64.91826824
 Eswatini,SWZ,% of rural population using drinking water services,2013,56.25767087
 Eswatini,SWZ,% of urban population using drinking water services,2013,93.91407547
@@ -1517,6 +1938,9 @@ Ethiopia,ETH,% of urban population using drinking water services,2013,81.0590502
 Gabon,GAB,% of total population using drinking water services,2013,83.3885703
 Gabon,GAB,% of rural population using drinking water services,2013,43.07531142
 Gabon,GAB,% of urban population using drinking water services,2013,89.32945423
+"Gambia, The",GMB,% of total population using drinking water services,2013,78.50773267
+"Gambia, The",GMB,% of rural population using drinking water services,2013,67.8708616
+"Gambia, The",GMB,% of urban population using drinking water services,2013,86.26739204
 Ghana,GHA,% of total population using drinking water services,2013,77.92168398
 Ghana,GHA,% of rural population using drinking water services,2013,65.33441133
 Ghana,GHA,% of urban population using drinking water services,2013,89.19744473
@@ -1535,6 +1959,7 @@ Lesotho,LSO,% of urban population using drinking water services,2013,88.66252217
 Liberia,LBR,% of total population using drinking water services,2013,71.38551577
 Liberia,LBR,% of rural population using drinking water services,2013,59.96009588
 Liberia,LBR,% of urban population using drinking water services,2013,83.28441926
+Libya,LBY,% of total population using drinking water services,2013,95.54167607
 Madagascar,MDG,% of total population using drinking water services,2013,47.10030599
 Madagascar,MDG,% of rural population using drinking water services,2013,31.85352298
 Madagascar,MDG,% of urban population using drinking water services,2013,76.85849174
@@ -1550,6 +1975,9 @@ Mauritania,MRT,% of urban population using drinking water services,2013,83.55264
 Mauritius,MUS,% of total population using drinking water services,2013,99.8666919
 Mauritius,MUS,% of rural population using drinking water services,2013,99.82768234
 Mauritius,MUS,% of urban population using drinking water services,2013,99.92231522
+Morocco,MAR,% of total population using drinking water services,2013,80.98264576
+Morocco,MAR,% of rural population using drinking water services,2013,59.08945336
+Morocco,MAR,% of urban population using drinking water services,2013,95.76146343
 Mozambique,MOZ,% of total population using drinking water services,2013,46.50550282
 Mozambique,MOZ,% of rural population using drinking water services,2013,31.18439467
 Mozambique,MOZ,% of urban population using drinking water services,2013,77.11097141
@@ -1565,6 +1993,9 @@ Nigeria,NGA,% of urban population using drinking water services,2013,82.76051158
 Rwanda,RWA,% of total population using drinking water services,2013,55.54163998
 Rwanda,RWA,% of rural population using drinking water services,2013,50.73338553
 Rwanda,RWA,% of urban population using drinking water services,2013,79.10569399
+Sao Tome and Principe,STP,% of total population using drinking water services,2013,76.09606384
+Sao Tome and Principe,STP,% of rural population using drinking water services,2013,70.02347344
+Sao Tome and Principe,STP,% of urban population using drinking water services,2013,78.92651861
 Senegal,SEN,% of total population using drinking water services,2013,76.06272249
 Senegal,SEN,% of rural population using drinking water services,2013,62.32341671
 Senegal,SEN,% of urban population using drinking water services,2013,92.84231993
@@ -1586,6 +2017,9 @@ Tanzania,TZA,% of urban population using drinking water services,2013,80.8380659
 Togo,TGO,% of total population using drinking water services,2013,61.2425157
 Togo,TGO,% of rural population using drinking water services,2013,44.79858117
 Togo,TGO,% of urban population using drinking water services,2013,86.89666464
+Tunisia,TUN,% of total population using drinking water services,2013,93.63885476
+Tunisia,TUN,% of rural population using drinking water services,2013,82.36037797
+Tunisia,TUN,% of urban population using drinking water services,2013,99.07047344
 Uganda,UGA,% of total population using drinking water services,2013,44.73396974
 Uganda,UGA,% of rural population using drinking water services,2013,36.53514385
 Uganda,UGA,% of urban population using drinking water services,2013,75.65541235
@@ -1595,6 +2029,9 @@ Zambia,ZMB,% of urban population using drinking water services,2013,85.57451642
 Zimbabwe,ZWE,% of total population using drinking water services,2013,65.96647418
 Zimbabwe,ZWE,% of rural population using drinking water services,2013,52.45253804
 Zimbabwe,ZWE,% of urban population using drinking water services,2013,93.83778618
+Algeria,DZA,% of total population using drinking water services,2014,93.19235149
+Algeria,DZA,% of rural population using drinking water services,2014,88.01595769
+Algeria,DZA,% of urban population using drinking water services,2014,95.38752947
 Angola,AGO,% of total population using drinking water services,2014,53.5415069
 Angola,AGO,% of rural population using drinking water services,2014,26.34838081
 Angola,AGO,% of urban population using drinking water services,2014,69.69716582
@@ -1622,6 +2059,21 @@ Central African Republic,CAF,% of urban population using drinking water services
 Chad,TCD,% of total population using drinking water services,2014,44.05402607
 Chad,TCD,% of rural population using drinking water services,2014,35.18211409
 Chad,TCD,% of urban population using drinking water services,2014,74.83842841
+"Congo, Dem. Rep.",COD,% of total population using drinking water services,2014,42.08531377
+"Congo, Dem. Rep.",COD,% of rural population using drinking water services,2014,20.3458973
+"Congo, Dem. Rep.",COD,% of urban population using drinking water services,2014,71.88553151
+"Congo, Rep.",COG,% of total population using drinking water services,2014,70.10704061
+"Congo, Rep.",COG,% of rural population using drinking water services,2014,39.28052263
+"Congo, Rep.",COG,% of urban population using drinking water services,2014,86.64400118
+Cote d'Ivoire,CIV,% of total population using drinking water services,2014,71.10905957
+Cote d'Ivoire,CIV,% of rural population using drinking water services,2014,55.8672992
+Cote d'Ivoire,CIV,% of urban population using drinking water services,2014,86.9640495
+Djibouti,DJI,% of total population using drinking water services,2014,75.7452946
+Djibouti,DJI,% of rural population using drinking water services,2014,49.12882313
+Djibouti,DJI,% of urban population using drinking water services,2014,83.55528358
+"Egypt, Arab Rep.",EGY,% of total population using drinking water services,2014,99.0256283
+"Egypt, Arab Rep.",EGY,% of rural population using drinking water services,2014,98.67300833
+"Egypt, Arab Rep.",EGY,% of urban population using drinking water services,2014,99.49613677
 Eswatini,SWZ,% of total population using drinking water services,2014,65.81478667
 Eswatini,SWZ,% of rural population using drinking water services,2014,57.19565168
 Eswatini,SWZ,% of urban population using drinking water services,2014,94.42894514
@@ -1631,6 +2083,9 @@ Ethiopia,ETH,% of urban population using drinking water services,2014,81.5090180
 Gabon,GAB,% of total population using drinking water services,2014,83.49452443
 Gabon,GAB,% of rural population using drinking water services,2014,43.0510692
 Gabon,GAB,% of urban population using drinking water services,2014,89.19253005
+"Gambia, The",GMB,% of total population using drinking water services,2014,78.85957511
+"Gambia, The",GMB,% of rural population using drinking water services,2014,68.06363271
+"Gambia, The",GMB,% of urban population using drinking water services,2014,86.50940208
 Ghana,GHA,% of total population using drinking water services,2014,79.03862925
 Ghana,GHA,% of rural population using drinking water services,2014,66.27136628
 Ghana,GHA,% of urban population using drinking water services,2014,90.17159509
@@ -1649,6 +2104,7 @@ Lesotho,LSO,% of urban population using drinking water services,2014,89.28004923
 Liberia,LBR,% of total population using drinking water services,2014,71.98135433
 Liberia,LBR,% of rural population using drinking water services,2014,60.61707072
 Liberia,LBR,% of urban population using drinking water services,2014,83.62309064
+Libya,LBY,% of total population using drinking water services,2014,96.41164561
 Madagascar,MDG,% of total population using drinking water services,2014,47.99556388
 Madagascar,MDG,% of rural population using drinking water services,2014,32.49807305
 Madagascar,MDG,% of urban population using drinking water services,2014,77.37410898
@@ -1664,6 +2120,9 @@ Mauritania,MRT,% of urban population using drinking water services,2014,84.96679
 Mauritius,MUS,% of total population using drinking water services,2014,99.86658686
 Mauritius,MUS,% of rural population using drinking water services,2014,99.82768234
 Mauritius,MUS,% of urban population using drinking water services,2014,99.92231522
+Morocco,MAR,% of total population using drinking water services,2014,82.37439241
+Morocco,MAR,% of rural population using drinking water services,2014,61.61767928
+Morocco,MAR,% of urban population using drinking water services,2014,96.06522631
 Mozambique,MOZ,% of total population using drinking water services,2014,48.82531943
 Mozambique,MOZ,% of rural population using drinking water services,2014,33.55137679
 Mozambique,MOZ,% of urban population using drinking water services,2014,78.63652016
@@ -1679,6 +2138,9 @@ Nigeria,NGA,% of urban population using drinking water services,2014,84.09931409
 Rwanda,RWA,% of total population using drinking water services,2014,56.32737024
 Rwanda,RWA,% of rural population using drinking water services,2014,51.54091794
 Rwanda,RWA,% of urban population using drinking water services,2014,79.75128755
+Sao Tome and Principe,STP,% of total population using drinking water services,2014,76.6172719
+Sao Tome and Principe,STP,% of rural population using drinking water services,2014,70.65681533
+Sao Tome and Principe,STP,% of urban population using drinking water services,2014,79.26857378
 Senegal,SEN,% of total population using drinking water services,2014,77.3330898
 Senegal,SEN,% of rural population using drinking water services,2014,64.12495872
 Senegal,SEN,% of urban population using drinking water services,2014,93.19470717
@@ -1700,6 +2162,9 @@ Tanzania,TZA,% of urban population using drinking water services,2014,82.1458152
 Togo,TGO,% of total population using drinking water services,2014,62.44262635
 Togo,TGO,% of rural population using drinking water services,2014,46.02087534
 Togo,TGO,% of urban population using drinking water services,2014,87.51194508
+Tunisia,TUN,% of total population using drinking water services,2014,94.24353435
+Tunisia,TUN,% of rural population using drinking water services,2014,83.96781628
+Tunisia,TUN,% of urban population using drinking water services,2014,99.13000097
 Uganda,UGA,% of total population using drinking water services,2014,46.27957204
 Uganda,UGA,% of rural population using drinking water services,2014,38.11008668
 Uganda,UGA,% of urban population using drinking water services,2014,76.10062318
@@ -1709,6 +2174,9 @@ Zambia,ZMB,% of urban population using drinking water services,2014,85.73998099
 Zimbabwe,ZWE,% of total population using drinking water services,2014,65.45410818
 Zimbabwe,ZWE,% of rural population using drinking water services,2014,51.85019762
 Zimbabwe,ZWE,% of urban population using drinking water services,2014,93.70322898
+Algeria,DZA,% of total population using drinking water services,2015,93.40956153
+Algeria,DZA,% of rural population using drinking water services,2015,88.35270686
+Algeria,DZA,% of urban population using drinking water services,2015,95.4903147
 Angola,AGO,% of total population using drinking water services,2015,54.31692835
 Angola,AGO,% of rural population using drinking water services,2015,26.7143694
 Angola,AGO,% of urban population using drinking water services,2015,70.21996512
@@ -1736,6 +2204,21 @@ Central African Republic,CAF,% of urban population using drinking water services
 Chad,TCD,% of total population using drinking water services,2015,44.39909697
 Chad,TCD,% of rural population using drinking water services,2015,35.57890074
 Chad,TCD,% of urban population using drinking water services,2015,74.75365178
+"Congo, Dem. Rep.",COD,% of total population using drinking water services,2015,42.71817997
+"Congo, Dem. Rep.",COD,% of rural population using drinking water services,2015,20.6225138
+"Congo, Dem. Rep.",COD,% of urban population using drinking water services,2015,72.32037779
+"Congo, Rep.",COG,% of total population using drinking water services,2015,71.14958177
+"Congo, Rep.",COG,% of rural population using drinking water services,2015,41.39183594
+"Congo, Rep.",COG,% of urban population using drinking water services,2015,86.79370516
+Cote d'Ivoire,CIV,% of total population using drinking water services,2015,71.0757669
+Cote d'Ivoire,CIV,% of rural population using drinking water services,2015,55.84317172
+Cote d'Ivoire,CIV,% of urban population using drinking water services,2015,86.65094535
+Djibouti,DJI,% of total population using drinking water services,2015,75.78704503
+Djibouti,DJI,% of rural population using drinking water services,2015,48.75920509
+Djibouti,DJI,% of urban population using drinking water services,2015,83.67122985
+"Egypt, Arab Rep.",EGY,% of total population using drinking water services,2015,99.10671754
+"Egypt, Arab Rep.",EGY,% of rural population using drinking water services,2015,98.80187792
+"Egypt, Arab Rep.",EGY,% of urban population using drinking water services,2015,99.51436973
 Eswatini,SWZ,% of total population using drinking water services,2015,66.70395522
 Eswatini,SWZ,% of rural population using drinking water services,2015,58.1249849
 Eswatini,SWZ,% of urban population using drinking water services,2015,94.94460013
@@ -1745,6 +2228,9 @@ Ethiopia,ETH,% of urban population using drinking water services,2015,81.9591765
 Gabon,GAB,% of total population using drinking water services,2015,83.85848655
 Gabon,GAB,% of rural population using drinking water services,2015,43.39003316
 Gabon,GAB,% of urban population using drinking water services,2015,89.31533187
+"Gambia, The",GMB,% of total population using drinking water services,2015,79.2101665
+"Gambia, The",GMB,% of rural population using drinking water services,2015,68.25489257
+"Gambia, The",GMB,% of urban population using drinking water services,2015,86.75167126
 Ghana,GHA,% of total population using drinking water services,2015,80.15796123
 Ghana,GHA,% of rural population using drinking water services,2015,67.20830477
 Ghana,GHA,% of urban population using drinking water services,2015,91.15101984
@@ -1763,6 +2249,7 @@ Lesotho,LSO,% of urban population using drinking water services,2015,89.89927614
 Liberia,LBR,% of total population using drinking water services,2015,72.56979194
 Liberia,LBR,% of rural population using drinking water services,2015,61.26318196
 Liberia,LBR,% of urban population using drinking water services,2015,83.95810401
+Libya,LBY,% of total population using drinking water services,2015,97.28161516
 Madagascar,MDG,% of total population using drinking water services,2015,48.89177354
 Madagascar,MDG,% of rural population using drinking water services,2015,33.14457773
 Madagascar,MDG,% of urban population using drinking water services,2015,77.88983072
@@ -1778,6 +2265,9 @@ Mauritania,MRT,% of urban population using drinking water services,2015,86.38918
 Mauritius,MUS,% of total population using drinking water services,2015,99.86648182
 Mauritius,MUS,% of rural population using drinking water services,2015,99.82768234
 Mauritius,MUS,% of urban population using drinking water services,2015,99.92231522
+Morocco,MAR,% of total population using drinking water services,2015,83.75113288
+Morocco,MAR,% of rural population using drinking water services,2015,64.17252874
+Morocco,MAR,% of urban population using drinking water services,2015,96.36941502
 Mozambique,MOZ,% of total population using drinking water services,2015,51.17617521
 Mozambique,MOZ,% of rural population using drinking water services,2015,35.97137876
 Mozambique,MOZ,% of urban population using drinking water services,2015,80.17136583
@@ -1793,6 +2283,9 @@ Nigeria,NGA,% of urban population using drinking water services,2015,85.44885832
 Rwanda,RWA,% of total population using drinking water services,2015,57.12177402
 Rwanda,RWA,% of rural population using drinking water services,2015,52.35270956
 Rwanda,RWA,% of urban population using drinking water services,2015,80.39943738
+Sao Tome and Principe,STP,% of total population using drinking water services,2015,77.12422979
+Sao Tome and Principe,STP,% of rural population using drinking water services,2015,71.28271664
+Sao Tome and Principe,STP,% of urban population using drinking water services,2015,79.607041
 Senegal,SEN,% of total population using drinking water services,2015,78.60209362
 Senegal,SEN,% of rural population using drinking water services,2015,65.94120156
 Senegal,SEN,% of urban population using drinking water services,2015,93.54769776
@@ -1814,6 +2307,9 @@ Tanzania,TZA,% of urban population using drinking water services,2015,83.4608554
 Togo,TGO,% of total population using drinking water services,2015,63.63712635
 Togo,TGO,% of rural population using drinking water services,2015,47.24218328
 Togo,TGO,% of urban population using drinking water services,2015,88.1273297
+Tunisia,TUN,% of total population using drinking water services,2015,94.8454551
+Tunisia,TUN,% of rural population using drinking water services,2015,85.59067297
+Tunisia,TUN,% of urban population using drinking water services,2015,99.18944794
 Uganda,UGA,% of total population using drinking water services,2015,47.84155836
 Uganda,UGA,% of rural population using drinking water services,2015,39.71700313
 Uganda,UGA,% of urban population using drinking water services,2015,76.54635609
@@ -1823,6 +2319,9 @@ Zambia,ZMB,% of urban population using drinking water services,2015,85.90549729
 Zimbabwe,ZWE,% of total population using drinking water services,2015,64.95492911
 Zimbabwe,ZWE,% of rural population using drinking water services,2015,51.25006071
 Zimbabwe,ZWE,% of urban population using drinking water services,2015,93.56863574
+Algeria,DZA,% of total population using drinking water services,2016,93.62277749
+Algeria,DZA,% of rural population using drinking water services,2016,88.68952838
+Algeria,DZA,% of urban population using drinking water services,2016,95.59313293
 Angola,AGO,% of total population using drinking water services,2016,55.08427644
 Angola,AGO,% of rural population using drinking water services,2016,27.07967323
 Angola,AGO,% of urban population using drinking water services,2016,70.73522869
@@ -1850,6 +2349,21 @@ Central African Republic,CAF,% of urban population using drinking water services
 Chad,TCD,% of total population using drinking water services,2016,44.74869976
 Chad,TCD,% of rural population using drinking water services,2016,35.9765128
 Chad,TCD,% of urban population using drinking water services,2016,74.65970544
+"Congo, Dem. Rep.",COD,% of total population using drinking water services,2016,43.35584023
+"Congo, Dem. Rep.",COD,% of rural population using drinking water services,2016,20.89761003
+"Congo, Dem. Rep.",COD,% of urban population using drinking water services,2016,72.75580711
+"Congo, Rep.",COG,% of total population using drinking water services,2016,72.18665483
+"Congo, Rep.",COG,% of rural population using drinking water services,2016,43.53979946
+"Congo, Rep.",COG,% of urban population using drinking water services,2016,86.94347015
+Cote d'Ivoire,CIV,% of total population using drinking water services,2016,71.04239202
+Cote d'Ivoire,CIV,% of rural population using drinking water services,2016,55.81903842
+Cote d'Ivoire,CIV,% of urban population using drinking water services,2016,86.3383831
+Djibouti,DJI,% of total population using drinking water services,2016,75.83262734
+Djibouti,DJI,% of rural population using drinking water services,2016,48.38958705
+Djibouti,DJI,% of urban population using drinking water services,2016,83.78717612
+"Egypt, Arab Rep.",EGY,% of total population using drinking water services,2016,99.18797298
+"Egypt, Arab Rep.",EGY,% of rural population using drinking water services,2016,98.93081742
+"Egypt, Arab Rep.",EGY,% of urban population using drinking water services,2016,99.53260429
 Eswatini,SWZ,% of total population using drinking water services,2016,67.58835188
 Eswatini,SWZ,% of rural population using drinking water services,2016,59.04567053
 Eswatini,SWZ,% of urban population using drinking water services,2016,95.46104045
@@ -1859,6 +2373,9 @@ Ethiopia,ETH,% of urban population using drinking water services,2016,82.4095256
 Gabon,GAB,% of total population using drinking water services,2016,84.20854944
 Gabon,GAB,% of rural population using drinking water services,2016,43.72899712
 Gabon,GAB,% of urban population using drinking water services,2016,89.4381337
+"Gambia, The",GMB,% of total population using drinking water services,2016,79.55916761
+"Gambia, The",GMB,% of rural population using drinking water services,2016,68.44464119
+"Gambia, The",GMB,% of urban population using drinking water services,2016,86.99419958
 Ghana,GHA,% of total population using drinking water services,2016,81.27978114
 Ghana,GHA,% of rural population using drinking water services,2016,68.14522677
 Ghana,GHA,% of urban population using drinking water services,2016,92.13571898
@@ -1877,6 +2394,7 @@ Lesotho,LSO,% of urban population using drinking water services,2016,90.52020291
 Liberia,LBR,% of total population using drinking water services,2016,73.15081745
 Liberia,LBR,% of rural population using drinking water services,2016,61.89842961
 Liberia,LBR,% of urban population using drinking water services,2016,84.28945936
+Libya,LBY,% of total population using drinking water services,2016,98.15158471
 Madagascar,MDG,% of total population using drinking water services,2016,49.78933803
 Madagascar,MDG,% of rural population using drinking water services,2016,33.79303702
 Madagascar,MDG,% of urban population using drinking water services,2016,78.40565696
@@ -1892,6 +2410,9 @@ Mauritania,MRT,% of urban population using drinking water services,2016,87.81982
 Mauritius,MUS,% of total population using drinking water services,2016,99.86639665
 Mauritius,MUS,% of rural population using drinking water services,2016,99.82768234
 Mauritius,MUS,% of urban population using drinking water services,2016,99.92231522
+Morocco,MAR,% of total population using drinking water services,2016,85.11293354
+Morocco,MAR,% of rural population using drinking water services,2016,66.75400172
+Morocco,MAR,% of urban population using drinking water services,2016,96.67402956
 Mozambique,MOZ,% of total population using drinking water services,2016,53.55726711
 Mozambique,MOZ,% of rural population using drinking water services,2016,38.44440059
 Mozambique,MOZ,% of urban population using drinking water services,2016,81.71550841
@@ -1907,6 +2428,9 @@ Nigeria,NGA,% of urban population using drinking water services,2016,86.80914427
 Rwanda,RWA,% of total population using drinking water services,2016,57.92420961
 Rwanda,RWA,% of rural population using drinking water services,2016,53.1687604
 Rwanda,RWA,% of urban population using drinking water services,2016,81.05014347
+Sao Tome and Principe,STP,% of total population using drinking water services,2016,77.61750204
+Sao Tome and Principe,STP,% of rural population using drinking water services,2016,71.90117737
+Sao Tome and Principe,STP,% of urban population using drinking water services,2016,79.94192026
 Senegal,SEN,% of total population using drinking water services,2016,79.86889467
 Senegal,SEN,% of rural population using drinking water services,2016,67.77214523
 Senegal,SEN,% of urban population using drinking water services,2016,93.9012917
@@ -1928,6 +2452,9 @@ Tanzania,TZA,% of urban population using drinking water services,2016,84.7831864
 Togo,TGO,% of total population using drinking water services,2016,64.82759182
 Togo,TGO,% of rural population using drinking water services,2016,48.46250499
 Togo,TGO,% of urban population using drinking water services,2016,88.74281851
+Tunisia,TUN,% of total population using drinking water services,2016,95.44404588
+Tunisia,TUN,% of rural population using drinking water services,2016,87.22894802
+Tunisia,TUN,% of urban population using drinking water services,2016,99.24881434
 Uganda,UGA,% of total population using drinking water services,2016,49.41834413
 Uganda,UGA,% of rural population using drinking water services,2016,41.35589319
 Uganda,UGA,% of urban population using drinking water services,2016,76.99261108
@@ -1937,6 +2464,9 @@ Zambia,ZMB,% of urban population using drinking water services,2016,86.07106531
 Zimbabwe,ZWE,% of total population using drinking water services,2016,64.46896436
 Zimbabwe,ZWE,% of rural population using drinking water services,2016,50.65212731
 Zimbabwe,ZWE,% of urban population using drinking water services,2016,93.43400646
+Algeria,DZA,% of total population using drinking water services,2017,93.83197734
+Algeria,DZA,% of rural population using drinking water services,2017,89.02642224
+Algeria,DZA,% of urban population using drinking water services,2017,95.69598416
 Angola,AGO,% of total population using drinking water services,2017,55.84290632
 Angola,AGO,% of rural population using drinking water services,2017,27.4442923
 Angola,AGO,% of urban population using drinking water services,2017,71.24295652
@@ -1964,6 +2494,21 @@ Central African Republic,CAF,% of urban population using drinking water services
 Chad,TCD,% of total population using drinking water services,2017,45.10250956
 Chad,TCD,% of rural population using drinking water services,2017,36.37495028
 Chad,TCD,% of urban population using drinking water services,2017,74.55658941
+"Congo, Dem. Rep.",COD,% of total population using drinking water services,2017,43.99783932
+"Congo, Dem. Rep.",COD,% of rural population using drinking water services,2017,21.171186
+"Congo, Dem. Rep.",COD,% of urban population using drinking water services,2017,73.19181947
+"Congo, Rep.",COG,% of total population using drinking water services,2017,73.21776106
+"Congo, Rep.",COG,% of rural population using drinking water services,2017,45.72441318
+"Congo, Rep.",COG,% of urban population using drinking water services,2017,87.09329616
+Cote d'Ivoire,CIV,% of total population using drinking water services,2017,71.00918662
+Cote d'Ivoire,CIV,% of rural population using drinking water services,2017,55.79489928
+Cote d'Ivoire,CIV,% of urban population using drinking water services,2017,86.02636278
+Djibouti,DJI,% of total population using drinking water services,2017,75.88252067
+Djibouti,DJI,% of rural population using drinking water services,2017,48.01996901
+Djibouti,DJI,% of urban population using drinking water services,2017,83.90312239
+"Egypt, Arab Rep.",EGY,% of total population using drinking water services,2017,99.26951418
+"Egypt, Arab Rep.",EGY,% of rural population using drinking water services,2017,99.05982681
+"Egypt, Arab Rep.",EGY,% of urban population using drinking water services,2017,99.55084045
 Eswatini,SWZ,% of total population using drinking water services,2017,68.62115957
 Eswatini,SWZ,% of rural population using drinking water services,2017,60.18592993
 Eswatini,SWZ,% of urban population using drinking water services,2017,95.89061465
@@ -1973,6 +2518,9 @@ Ethiopia,ETH,% of urban population using drinking water services,2017,82.8600653
 Gabon,GAB,% of total population using drinking water services,2017,84.54578933
 Gabon,GAB,% of rural population using drinking water services,2017,44.06796108
 Gabon,GAB,% of urban population using drinking water services,2017,89.56093552
+"Gambia, The",GMB,% of total population using drinking water services,2017,79.90678221
+"Gambia, The",GMB,% of rural population using drinking water services,2017,68.63287856
+"Gambia, The",GMB,% of urban population using drinking water services,2017,87.23698704
 Ghana,GHA,% of total population using drinking water services,2017,82.40394776
 Ghana,GHA,% of rural population using drinking water services,2017,69.0821323
 Ghana,GHA,% of urban population using drinking water services,2017,93.12569252
@@ -1991,6 +2539,7 @@ Lesotho,LSO,% of urban population using drinking water services,2017,91.14282954
 Liberia,LBR,% of total population using drinking water services,2017,73.72398234
 Liberia,LBR,% of rural population using drinking water services,2017,62.52281366
 Liberia,LBR,% of urban population using drinking water services,2017,84.61715671
+Libya,LBY,% of total population using drinking water services,2017,99.02155425
 Madagascar,MDG,% of total population using drinking water services,2017,50.68775606
 Madagascar,MDG,% of rural population using drinking water services,2017,34.44345092
 Madagascar,MDG,% of urban population using drinking water services,2017,78.9215877
@@ -2006,6 +2555,9 @@ Mauritania,MRT,% of urban population using drinking water services,2017,89.25869
 Mauritius,MUS,% of total population using drinking water services,2017,99.86633136
 Mauritius,MUS,% of rural population using drinking water services,2017,99.82768234
 Mauritius,MUS,% of urban population using drinking water services,2017,99.92231522
+Morocco,MAR,% of total population using drinking water services,2017,86.45921074
+Morocco,MAR,% of rural population using drinking water services,2017,69.36209824
+Morocco,MAR,% of urban population using drinking water services,2017,96.97906993
 Mozambique,MOZ,% of total population using drinking water services,2017,55.96737766
 Mozambique,MOZ,% of rural population using drinking water services,2017,40.97044228
 Mozambique,MOZ,% of urban population using drinking water services,2017,83.26894792
@@ -2021,6 +2573,9 @@ Nigeria,NGA,% of urban population using drinking water services,2017,88.18017193
 Rwanda,RWA,% of total population using drinking water services,2017,58.73515174
 Rwanda,RWA,% of rural population using drinking water services,2017,53.98907046
 Rwanda,RWA,% of urban population using drinking water services,2017,81.70340582
+Sao Tome and Principe,STP,% of total population using drinking water services,2017,78.09764709
+Sao Tome and Principe,STP,% of rural population using drinking water services,2017,72.51219752
+Sao Tome and Principe,STP,% of urban population using drinking water services,2017,80.27321156
 Senegal,SEN,% of total population using drinking water services,2017,81.1334504
 Senegal,SEN,% of rural population using drinking water services,2017,69.61778973
 Senegal,SEN,% of urban population using drinking water services,2017,94.25548898
@@ -2042,6 +2597,9 @@ Tanzania,TZA,% of urban population using drinking water services,2017,86.1128083
 Togo,TGO,% of total population using drinking water services,2017,66.01351042
 Togo,TGO,% of rural population using drinking water services,2017,49.68184048
 Togo,TGO,% of urban population using drinking water services,2017,89.35841149
+Tunisia,TUN,% of total population using drinking water services,2017,95.99335363
+Tunisia,TUN,% of rural population using drinking water services,2017,88.88264145
+Tunisia,TUN,% of urban population using drinking water services,2017,99.24176842
 Uganda,UGA,% of total population using drinking water services,2017,51.00911063
 Uganda,UGA,% of rural population using drinking water services,2017,43.02675686
 Uganda,UGA,% of urban population using drinking water services,2017,77.43938814
@@ -2051,6 +2609,9 @@ Zambia,ZMB,% of urban population using drinking water services,2017,86.23668506
 Zimbabwe,ZWE,% of total population using drinking water services,2017,63.99662473
 Zimbabwe,ZWE,% of rural population using drinking water services,2017,50.05639743
 Zimbabwe,ZWE,% of urban population using drinking water services,2017,93.29934114
+Algeria,DZA,% of total population using drinking water services,2018,94.03741308
+Algeria,DZA,% of rural population using drinking water services,2018,89.36338845
+Algeria,DZA,% of urban population using drinking water services,2018,95.79886839
 Angola,AGO,% of total population using drinking water services,2018,56.59174872
 Angola,AGO,% of rural population using drinking water services,2018,27.80822661
 Angola,AGO,% of urban population using drinking water services,2018,71.74314862
@@ -2078,6 +2639,21 @@ Central African Republic,CAF,% of urban population using drinking water services
 Chad,TCD,% of total population using drinking water services,2018,45.46056009
 Chad,TCD,% of rural population using drinking water services,2018,36.77421319
 Chad,TCD,% of urban population using drinking water services,2018,74.44430367
+"Congo, Dem. Rep.",COD,% of total population using drinking water services,2018,44.64476808
+"Congo, Dem. Rep.",COD,% of rural population using drinking water services,2018,21.44324171
+"Congo, Dem. Rep.",COD,% of urban population using drinking water services,2018,73.62841487
+"Congo, Rep.",COG,% of total population using drinking water services,2018,73.40681542
+"Congo, Rep.",COG,% of rural population using drinking water services,2018,45.72441318
+"Congo, Rep.",COG,% of urban population using drinking water services,2018,87.09329616
+Cote d'Ivoire,CIV,% of total population using drinking water services,2018,70.97608502
+Cote d'Ivoire,CIV,% of rural population using drinking water services,2018,55.7707543
+Cote d'Ivoire,CIV,% of urban population using drinking water services,2018,85.71488437
+Djibouti,DJI,% of total population using drinking water services,2018,75.9368505
+Djibouti,DJI,% of rural population using drinking water services,2018,47.65035097
+Djibouti,DJI,% of urban population using drinking water services,2018,84.01906866
+"Egypt, Arab Rep.",EGY,% of total population using drinking water services,2018,99.32633211
+"Egypt, Arab Rep.",EGY,% of rural population using drinking water services,2018,99.15082959
+"Egypt, Arab Rep.",EGY,% of urban population using drinking water services,2018,99.561804
 Eswatini,SWZ,% of total population using drinking water services,2018,69.65441173
 Eswatini,SWZ,% of rural population using drinking water services,2018,61.32618934
 Eswatini,SWZ,% of urban population using drinking water services,2018,96.32018885
@@ -2087,6 +2663,9 @@ Ethiopia,ETH,% of urban population using drinking water services,2018,83.3107956
 Gabon,GAB,% of total population using drinking water services,2018,84.87081169
 Gabon,GAB,% of rural population using drinking water services,2018,44.40692504
 Gabon,GAB,% of urban population using drinking water services,2018,89.68373734
+"Gambia, The",GMB,% of total population using drinking water services,2018,80.25284714
+"Gambia, The",GMB,% of rural population using drinking water services,2018,68.81960469
+"Gambia, The",GMB,% of urban population using drinking water services,2018,87.48003364
 Ghana,GHA,% of total population using drinking water services,2018,83.53055643
 Ghana,GHA,% of rural population using drinking water services,2018,70.01902136
 Ghana,GHA,% of urban population using drinking water services,2018,94.12094046
@@ -2105,6 +2684,7 @@ Lesotho,LSO,% of urban population using drinking water services,2018,91.76715602
 Liberia,LBR,% of total population using drinking water services,2018,74.28973966
 Liberia,LBR,% of rural population using drinking water services,2018,63.13633412
 Liberia,LBR,% of urban population using drinking water services,2018,84.94119604
+Libya,LBY,% of total population using drinking water services,2018,99.8915238
 Madagascar,MDG,% of total population using drinking water services,2018,51.58697984
 Madagascar,MDG,% of rural population using drinking water services,2018,35.09581943
 Madagascar,MDG,% of urban population using drinking water services,2018,79.43762295
@@ -2120,6 +2700,9 @@ Mauritania,MRT,% of urban population using drinking water services,2018,89.25869
 Mauritius,MUS,% of total population using drinking water services,2018,99.86628593
 Mauritius,MUS,% of rural population using drinking water services,2018,99.82768234
 Mauritius,MUS,% of urban population using drinking water services,2018,99.92231522
+Morocco,MAR,% of total population using drinking water services,2018,87.7897571
+Morocco,MAR,% of rural population using drinking water services,2018,71.99681828
+Morocco,MAR,% of urban population using drinking water services,2018,97.28453612
 Mozambique,MOZ,% of total population using drinking water services,2018,58.40613698
 Mozambique,MOZ,% of rural population using drinking water services,2018,43.54950383
 Mozambique,MOZ,% of urban population using drinking water services,2018,84.83168434
@@ -2135,6 +2718,9 @@ Nigeria,NGA,% of urban population using drinking water services,2018,89.5619413
 Rwanda,RWA,% of total population using drinking water services,2018,59.55451065
 Rwanda,RWA,% of rural population using drinking water services,2018,54.81363973
 Rwanda,RWA,% of urban population using drinking water services,2018,82.35922443
+Sao Tome and Principe,STP,% of total population using drinking water services,2018,78.18506249
+Sao Tome and Principe,STP,% of rural population using drinking water services,2018,73.11577709
+Sao Tome and Principe,STP,% of urban population using drinking water services,2018,80.07879205
 Senegal,SEN,% of total population using drinking water services,2018,82.39466139
 Senegal,SEN,% of rural population using drinking water services,2018,71.47813505
 Senegal,SEN,% of urban population using drinking water services,2018,94.61028962
@@ -2156,6 +2742,9 @@ Tanzania,TZA,% of urban population using drinking water services,2018,87.4497212
 Togo,TGO,% of total population using drinking water services,2018,67.1947934
 Togo,TGO,% of rural population using drinking water services,2018,50.90018973
 Togo,TGO,% of urban population using drinking water services,2018,89.97410866
+Tunisia,TUN,% of total population using drinking water services,2018,96.51537319
+Tunisia,TUN,% of rural population using drinking water services,2018,90.55175324
+Tunisia,TUN,% of urban population using drinking water services,2018,99.20157816
 Uganda,UGA,% of total population using drinking water services,2018,52.61236008
 Uganda,UGA,% of rural population using drinking water services,2018,44.72959415
 Uganda,UGA,% of urban population using drinking water services,2018,77.88668729
@@ -2165,6 +2754,9 @@ Zambia,ZMB,% of urban population using drinking water services,2018,86.40235653
 Zimbabwe,ZWE,% of total population using drinking water services,2018,63.53877337
 Zimbabwe,ZWE,% of rural population using drinking water services,2018,49.46287106
 Zimbabwe,ZWE,% of urban population using drinking water services,2018,93.16463978
+Algeria,DZA,% of total population using drinking water services,2019,94.23913956
+Algeria,DZA,% of rural population using drinking water services,2019,89.70042701
+Algeria,DZA,% of urban population using drinking water services,2019,95.90178563
 Angola,AGO,% of total population using drinking water services,2019,56.88303903
 Angola,AGO,% of rural population using drinking water services,2019,27.80822661
 Angola,AGO,% of urban population using drinking water services,2019,71.74314862
@@ -2192,6 +2784,21 @@ Central African Republic,CAF,% of urban population using drinking water services
 Chad,TCD,% of total population using drinking water services,2019,45.82211121
 Chad,TCD,% of rural population using drinking water services,2019,37.17430151
 Chad,TCD,% of urban population using drinking water services,2019,74.32284823
+"Congo, Dem. Rep.",COD,% of total population using drinking water services,2019,45.29617589
+"Congo, Dem. Rep.",COD,% of rural population using drinking water services,2019,21.71377716
+"Congo, Dem. Rep.",COD,% of urban population using drinking water services,2019,74.06559331
+"Congo, Rep.",COG,% of total population using drinking water services,2019,73.59587316
+"Congo, Rep.",COG,% of rural population using drinking water services,2019,45.72441318
+"Congo, Rep.",COG,% of urban population using drinking water services,2019,87.09329616
+Cote d'Ivoire,CIV,% of total population using drinking water services,2019,70.9427311
+Cote d'Ivoire,CIV,% of rural population using drinking water services,2019,55.7466035
+Cote d'Ivoire,CIV,% of urban population using drinking water services,2019,85.40394787
+Djibouti,DJI,% of total population using drinking water services,2019,75.99574579
+Djibouti,DJI,% of rural population using drinking water services,2019,47.28073293
+Djibouti,DJI,% of urban population using drinking water services,2019,84.13501493
+"Egypt, Arab Rep.",EGY,% of total population using drinking water services,2019,99.38324098
+"Egypt, Arab Rep.",EGY,% of rural population using drinking water services,2019,99.24183237
+"Egypt, Arab Rep.",EGY,% of urban population using drinking water services,2019,99.57276755
 Eswatini,SWZ,% of total population using drinking water services,2019,70.68793074
 Eswatini,SWZ,% of rural population using drinking water services,2019,62.46644874
 Eswatini,SWZ,% of urban population using drinking water services,2019,96.74976305
@@ -2201,6 +2808,9 @@ Ethiopia,ETH,% of urban population using drinking water services,2019,83.7617165
 Gabon,GAB,% of total population using drinking water services,2019,85.18376799
 Gabon,GAB,% of rural population using drinking water services,2019,44.74588901
 Gabon,GAB,% of urban population using drinking water services,2019,89.80653917
+"Gambia, The",GMB,% of total population using drinking water services,2019,80.59738626
+"Gambia, The",GMB,% of rural population using drinking water services,2019,69.00481957
+"Gambia, The",GMB,% of urban population using drinking water services,2019,87.72333939
 Ghana,GHA,% of total population using drinking water services,2019,84.65946329
 Ghana,GHA,% of rural population using drinking water services,2019,70.95589394
 Ghana,GHA,% of urban population using drinking water services,2019,95.12146279
@@ -2219,6 +2829,7 @@ Lesotho,LSO,% of urban population using drinking water services,2019,92.39318235
 Liberia,LBR,% of total population using drinking water services,2019,75.16022345
 Liberia,LBR,% of rural population using drinking water services,2019,64.10021689
 Liberia,LBR,% of urban population using drinking water services,2019,85.52810963
+Libya,LBY,% of total population using drinking water services,2019,99.8915238
 Madagascar,MDG,% of total population using drinking water services,2019,52.48607297
 Madagascar,MDG,% of rural population using drinking water services,2019,35.75014255
 Madagascar,MDG,% of urban population using drinking water services,2019,79.9537627
@@ -2234,6 +2845,9 @@ Mauritania,MRT,% of urban population using drinking water services,2019,89.25869
 Mauritius,MUS,% of total population using drinking water services,2019,99.86626038
 Mauritius,MUS,% of rural population using drinking water services,2019,99.82768234
 Mauritius,MUS,% of urban population using drinking water services,2019,99.92231522
+Morocco,MAR,% of total population using drinking water services,2019,89.10411331
+Morocco,MAR,% of rural population using drinking water services,2019,74.65816186
+Morocco,MAR,% of urban population using drinking water services,2019,97.59042815
 Mozambique,MOZ,% of total population using drinking water services,2019,60.87392755
 Mozambique,MOZ,% of rural population using drinking water services,2019,46.18158524
 Mozambique,MOZ,% of urban population using drinking water services,2019,86.40371767
@@ -2249,6 +2863,9 @@ Nigeria,NGA,% of urban population using drinking water services,2019,90.95445239
 Rwanda,RWA,% of total population using drinking water services,2019,60.38192724
 Rwanda,RWA,% of rural population using drinking water services,2019,55.64246823
 Rwanda,RWA,% of urban population using drinking water services,2019,83.0175993
+Sao Tome and Principe,STP,% of total population using drinking water services,2019,78.21445996
+Sao Tome and Principe,STP,% of rural population using drinking water services,2019,73.71191608
+Sao Tome and Principe,STP,% of urban population using drinking water services,2019,79.82966748
 Senegal,SEN,% of total population using drinking water services,2019,83.65219114
 Senegal,SEN,% of rural population using drinking water services,2019,73.35318121
 Senegal,SEN,% of urban population using drinking water services,2019,94.96569361
@@ -2270,6 +2887,9 @@ Tanzania,TZA,% of urban population using drinking water services,2019,88.7939249
 Togo,TGO,% of total population using drinking water services,2019,68.37135321
 Togo,TGO,% of rural population using drinking water services,2019,52.11755275
 Togo,TGO,% of urban population using drinking water services,2019,90.58991001
+Tunisia,TUN,% of total population using drinking water services,2019,97.03219313
+Tunisia,TUN,% of rural population using drinking water services,2019,92.2362834
+Tunisia,TUN,% of urban population using drinking water services,2019,99.16138789
 Uganda,UGA,% of total population using drinking water services,2019,54.22828289
 Uganda,UGA,% of rural population using drinking water services,2019,46.46440506
 Uganda,UGA,% of urban population using drinking water services,2019,78.33450851
@@ -2279,6 +2899,9 @@ Zambia,ZMB,% of urban population using drinking water services,2019,86.56807973
 Zimbabwe,ZWE,% of total population using drinking water services,2019,63.09495688
 Zimbabwe,ZWE,% of rural population using drinking water services,2019,48.8715482
 Zimbabwe,ZWE,% of urban population using drinking water services,2019,93.02990239
+Algeria,DZA,% of total population using drinking water services,2020,94.43732996
+Algeria,DZA,% of rural population using drinking water services,2020,90.03753791
+Algeria,DZA,% of urban population using drinking water services,2020,96.00473586
 Angola,AGO,% of total population using drinking water services,2020,57.16773762
 Angola,AGO,% of rural population using drinking water services,2020,27.80822661
 Angola,AGO,% of urban population using drinking water services,2020,71.74314862
@@ -2306,6 +2929,21 @@ Central African Republic,CAF,% of urban population using drinking water services
 Chad,TCD,% of total population using drinking water services,2020,46.18753479
 Chad,TCD,% of rural population using drinking water services,2020,37.57521525
 Chad,TCD,% of urban population using drinking water services,2020,74.19222309
+"Congo, Dem. Rep.",COD,% of total population using drinking water services,2020,45.95212696
+"Congo, Dem. Rep.",COD,% of rural population using drinking water services,2020,21.98279234
+"Congo, Dem. Rep.",COD,% of urban population using drinking water services,2020,74.50335478
+"Congo, Rep.",COG,% of total population using drinking water services,2020,73.78451158
+"Congo, Rep.",COG,% of rural population using drinking water services,2020,45.72441318
+"Congo, Rep.",COG,% of urban population using drinking water services,2020,87.09329616
+Cote d'Ivoire,CIV,% of total population using drinking water services,2020,70.90907039
+Cote d'Ivoire,CIV,% of rural population using drinking water services,2020,55.72244686
+Cote d'Ivoire,CIV,% of urban population using drinking water services,2020,85.09355329
+Djibouti,DJI,% of total population using drinking water services,2020,76.04992021
+Djibouti,DJI,% of rural population using drinking water services,2020,47.28073293
+Djibouti,DJI,% of urban population using drinking water services,2020,84.13501493
+"Egypt, Arab Rep.",EGY,% of total population using drinking water services,2020,99.44017596
+"Egypt, Arab Rep.",EGY,% of rural population using drinking water services,2020,99.33283515
+"Egypt, Arab Rep.",EGY,% of urban population using drinking water services,2020,99.5837311
 Eswatini,SWZ,% of total population using drinking water services,2020,70.75307095
 Eswatini,SWZ,% of rural population using drinking water services,2020,62.46644874
 Eswatini,SWZ,% of urban population using drinking water services,2020,96.74976305
@@ -2315,6 +2953,9 @@ Ethiopia,ETH,% of urban population using drinking water services,2020,84.2128281
 Gabon,GAB,% of total population using drinking water services,2020,85.3419306
 Gabon,GAB,% of rural population using drinking water services,2020,44.74588901
 Gabon,GAB,% of urban population using drinking water services,2020,89.80653917
+"Gambia, The",GMB,% of total population using drinking water services,2020,80.94040714
+"Gambia, The",GMB,% of rural population using drinking water services,2020,69.18852321
+"Gambia, The",GMB,% of urban population using drinking water services,2020,87.96690427
 Ghana,GHA,% of total population using drinking water services,2020,85.79099665
 Ghana,GHA,% of rural population using drinking water services,2020,71.89275005
 Ghana,GHA,% of urban population using drinking water services,2020,96.12725952
@@ -2333,6 +2974,7 @@ Lesotho,LSO,% of urban population using drinking water services,2020,93.02090855
 Liberia,LBR,% of total population using drinking water services,2020,75.26179159
 Liberia,LBR,% of rural population using drinking water services,2020,64.10021689
 Liberia,LBR,% of urban population using drinking water services,2020,85.52810963
+Libya,LBY,% of total population using drinking water services,2020,99.8915238
 Madagascar,MDG,% of total population using drinking water services,2020,53.38588491
 Madagascar,MDG,% of rural population using drinking water services,2020,36.40642028
 Madagascar,MDG,% of urban population using drinking water services,2020,80.47000694
@@ -2348,6 +2990,9 @@ Mauritania,MRT,% of urban population using drinking water services,2020,89.25869
 Mauritius,MUS,% of total population using drinking water services,2020,99.8662547
 Mauritius,MUS,% of rural population using drinking water services,2020,99.82768234
 Mauritius,MUS,% of urban population using drinking water services,2020,99.92231522
+Morocco,MAR,% of total population using drinking water services,2020,90.40234468
+Morocco,MAR,% of rural population using drinking water services,2020,77.34612896
+Morocco,MAR,% of urban population using drinking water services,2020,97.89674601
 Mozambique,MOZ,% of total population using drinking water services,2020,63.36942563
 Mozambique,MOZ,% of rural population using drinking water services,2020,48.8666865
 Mozambique,MOZ,% of urban population using drinking water services,2020,87.98504792
@@ -2363,6 +3008,9 @@ Nigeria,NGA,% of urban population using drinking water services,2020,92.35770519
 Rwanda,RWA,% of total population using drinking water services,2020,60.41450115
 Rwanda,RWA,% of rural population using drinking water services,2020,55.64246823
 Rwanda,RWA,% of urban population using drinking water services,2020,83.0175993
+Sao Tome and Principe,STP,% of total population using drinking water services,2020,78.22645516
+Sao Tome and Principe,STP,% of rural population using drinking water services,2020,74.30061449
+Sao Tome and Principe,STP,% of urban population using drinking water services,2020,79.5805429
 Senegal,SEN,% of total population using drinking water services,2020,84.90523779
 Senegal,SEN,% of rural population using drinking water services,2020,75.2429282
 Senegal,SEN,% of urban population using drinking water services,2020,95.32170094
@@ -2384,6 +3032,9 @@ Tanzania,TZA,% of urban population using drinking water services,2020,88.7939249
 Togo,TGO,% of total population using drinking water services,2020,68.58372009
 Togo,TGO,% of rural population using drinking water services,2020,52.11755275
 Togo,TGO,% of urban population using drinking water services,2020,90.58991001
+Tunisia,TUN,% of total population using drinking water services,2020,97.54330899
+Tunisia,TUN,% of rural population using drinking water services,2020,93.93623193
+Tunisia,TUN,% of urban population using drinking water services,2020,99.12119763
 Uganda,UGA,% of total population using drinking water services,2020,55.85504921
 Uganda,UGA,% of rural population using drinking water services,2020,48.23118958
 Uganda,UGA,% of urban population using drinking water services,2020,78.7828518

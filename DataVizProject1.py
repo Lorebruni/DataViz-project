@@ -59,7 +59,7 @@ fig1 = px.line(selected,
 selected2=line[line["Country Name"] == country]
 reference_line = go.Scatter(x=selected2['Year'],
                             y=selected2['Value'],
-                            mode="lines", name="Number of people with drinking water services if only population grow",
+                            mode="lines", name="N. people with drinking water services if only population grow",
                             line=go.scatter.Line(color="gray"))
 fig1.add_trace(reference_line)
 

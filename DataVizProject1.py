@@ -49,7 +49,9 @@ st.markdown(
 )
 
 
-@st.cache(components.html(func=source_code, height = 700, scrolling=False))
+@st.cache
+def map():
+    return(components.html(func=source_code, height = 700, scrolling=False))
 
 graph = st.sidebar.selectbox('What type of graph',['Geografical Map','Time series'])
 
@@ -95,6 +97,6 @@ elif graph=='Geografical Map':
     st.sidebar.warning("If you can't see the slider to select year, or you see it badly, try to change broswer and use Chrome or Firefox")
     with st.container():
         st.title('Africa')
-        components.html(source_code, height = 700, scrolling=False)
+        map()
  
 

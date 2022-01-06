@@ -17,6 +17,8 @@ import plotly.graph_objects as go
 line=pd.read_csv('line.csv')
 wdi_scatter=pd.read_csv('wdi_scatter.csv')
 wdi_new1=pd.read_csv('wdi_new1.csv')
+africa_html=open("slider_map0_modified.html", 'r', encoding='utf-8')
+source_code = africa_html.read() 
 
 
 # In[12]:

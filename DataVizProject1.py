@@ -75,7 +75,7 @@ if graph == 'Time series':
 
     selected=wdi_scatter[wdi_scatter["Country Name"] == country]
     fig1 = px.line(selected, 
-                    x = 'Year', y = 'Value', 
+                    x = 'Year', y = 'Value',  log_y=True,
                     labels=dict(x ='Years', y= 'Number of people'), color='Indicator Name', markers=True,
                     title = "Population growth vs Population with drinking services growth",
                     template="simple_white")

@@ -62,7 +62,7 @@ if graph == 'Time series':
                    labels=dict(x = 'Years', y = 'Percentage of people using drinking water services'), 
                    color='Indicator Name', markers=True, range_y=[0,100],
                    title='Drinking water services for rural, urban and total population',
-                #template="simple_white")?
+                   template="simple_white")
     newnames = {'% of total population using drinking water services':'% of population', 
                   '% of rural population using drinking water services': '% of rural population',
                   '% of urban population using drinking water services': '% of urban population'}
@@ -78,7 +78,7 @@ if graph == 'Time series':
                     x = 'Year', y = 'Value',  #log_y=True,?
                     labels=dict(x ='Years', y= 'Number of people'), color='Indicator Name', markers=True,
                     title = "Population growth vs Population with drinking services growth",
-                  )#template="simple_white")?
+                    template="seaborn")
     
     selected2=line[line["Country Name"] == country]
     reference_line = go.Scatter(x=selected2['Year'],

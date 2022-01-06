@@ -63,9 +63,9 @@ if graph == 'Time series':
                    color='Indicator Name', markers=True, range_y=[0,100],
                    title='Drinking water services for rural, urban and total population',
                 template="simple_white")
-    newnames = {'% of total population using drinking water services':'total population', 
-                  '% of rural population using drinking water services': 'rural population',
-                  '% of urban population using drinking water services': 'urban population'}
+    newnames = {'% of total population using drinking water services':'% of population', 
+                  '% of rural population using drinking water services': '% of rural population',
+                  '% of urban population using drinking water services': '% of urban population'}
     fig.for_each_trace(lambda t: t.update(name = newnames[t.name],
                                             legendgroup = newnames[t.name],
                                             hovertemplate = t.hovertemplate.replace(t.name, newnames[t.name])
@@ -84,7 +84,7 @@ if graph == 'Time series':
     reference_line = go.Scatter(x=selected2['Year'],
                                 y=selected2['Value'],
                                 mode="lines", name="N. people with drinking water services if only population grow",
-                                line=go.scatter.Line(color="gray"), dash='dash')
+                                line=go.scatter.Line(color="gray"))
     
     fig1.add_trace(reference_line)
     col2.plotly_chart(fig1,use_column_width = True)

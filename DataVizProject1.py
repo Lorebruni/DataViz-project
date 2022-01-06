@@ -84,7 +84,7 @@ if graph == 'Time series':
     reference_line = go.Scatter(x=selected2['Year'],
                                 y=selected2['Value'],
                                 mode="lines", name="N. people with drinking water services if only population grow",
-                                line=go.scatter.Line(color="gray"))
+                                line=go.scatter.Line(color="gray"), dash='dash')
     
     fig1.add_trace(reference_line)
     col2.plotly_chart(fig1,use_column_width = True)

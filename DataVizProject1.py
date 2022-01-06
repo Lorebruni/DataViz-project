@@ -91,6 +91,6 @@ elif graph=='Geografical Map':
     st.sidebar.info('Remember to close the sidebar if you want to interact with the map :)')
     with st.container():
         st.title('Africa')
-        components.html(source_code, height = 700, scrolling=False)
+        
  
 

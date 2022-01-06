@@ -51,7 +51,8 @@ st.markdown(
 
 @st.cache
 def map():
-    return(components.html(func=source_code, height = 700, scrolling=False))
+    m=components.html(func=source_code, height = 700, scrolling=False)
+    return(m)
 
 graph = st.sidebar.selectbox('What type of graph',['Geografical Map','Time series'])
 

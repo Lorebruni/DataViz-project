@@ -6,6 +6,7 @@
 
 import pandas as pd
 import streamlit as st
+import streamlit.components.v1 as components
 import plotly.express as px
 from plotly.subplots import make_subplots
 import plotly.graph_objects as go
@@ -91,6 +92,6 @@ elif graph=='Geografical Map':
     st.sidebar.info('Remember to close the sidebar if you want to interact with the map :)')
     with st.container():
         st.title('Africa')
-        components.html('jsabxkja',components.html(source_code, height = 700, scrolling=False))
+        components.html(source_code, height = 700, scrolling=False))
  
 

@@ -90,6 +90,7 @@ if graph == 'Time series':
   
 elif graph=='Geografical Map':
     st.sidebar.info('Remember to close the sidebar if you want to interact with the map :)')
+    st.sidebar.warnings("If you can't see the slider to select year, or you see it badly, try to change broswer and use Chrome or Firefox")
     with st.container():
         st.title('Africa')
         components.html(source_code, height = 700, scrolling=False)

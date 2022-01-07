@@ -10,6 +10,10 @@ import streamlit.components.v1 as components
 import plotly.express as px
 from plotly.subplots import make_subplots
 import plotly.graph_objects as go
+from matplotlib import rc
+
+rc('font',**{'family':'sans-serif','sans-serif':['Helvetica']})
+rc('text', usetex=True)
 
 
 # In[11]:
@@ -83,7 +87,7 @@ if graph == 'Time series':
     selected2=line[line["Country Name"] == country]
     reference_line = go.Scatter(x=selected2['Year'],
                                 y=selected2['Value'],
-                                mode="lines", name="n° people with access to drinking water services if there no percentual change since 2000",
+                                mode="lines", name=r"n° people with access to drinking water services \\ if there no percentual change since 2000",
                                 line=go.scatter.Line(color="gray"))
     
     fig1.add_trace(reference_line)

@@ -62,7 +62,7 @@ if graph == 'Time series':
                    labels=dict(x = 'Years', y = 'Percentage of people using drinking water services'), 
                    color='Indicator Name', markers=True, range_y=[0,100],
                    title='Drinking water services for rural, urban and total population',
-                   template="simple_white")
+                   template="seaborn")
     newnames = {'% of total population using drinking water services':'% of population', 
                   '% of rural population using drinking water services': '% of rural population',
                   '% of urban population using drinking water services': '% of urban population'}
@@ -83,18 +83,17 @@ if graph == 'Time series':
     selected2=line[line["Country Name"] == country]
     reference_line = go.Scatter(x=selected2['Year'],
                                 y=selected2['Value'],
-                                mode="lines", name="N. people with drinking water services if only population grow",
+                                mode="lines", name="n° people with access to drinking water services if there no percentual change since 2000",
                                 line=go.scatter.Line(color="gray"))
     
     fig1.add_trace(reference_line)
     col2.plotly_chart(fig1,use_column_width = True)
   
 elif graph=='Geografical Map':
-    
     st.sidebar.info('Remember to close the sidebar if you want to interact with the map :)')
-    st.sidebar.warning("If you can't see the slider to select year, or you see it badly, try to change broswer and use Chrome or Firefox")
+    st.sidebar.warning("If you still can't see the slider to select year, or you see it badly, try to change broswer and use Chrome or Firefox!")
     with st.container():
-        st.title('Africa')
+        st.title('Access to water in Africa is not yet to be taken for granted')
         components.html(source_code, height = 700, scrolling=False)
         
  

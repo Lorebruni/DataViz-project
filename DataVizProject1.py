@@ -54,7 +54,7 @@ graph = st.sidebar.selectbox('What type of graph',['Geografical Map','Time serie
 
 if graph == 'Time series':
     country = st.sidebar.selectbox('Select a Country:',clist)
-    st.header("**National Statistics for African states**")
+    st.title("National Statistics for African states")
     st.write('''In this section you can explore in more detail the change over time for a specif country, only states with information aviable for each year since 2000 are 
               selectable. (You can choose a single indicator by clicking on the legend).''')
 

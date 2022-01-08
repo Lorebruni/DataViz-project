@@ -94,7 +94,7 @@ elif graph=='Geografical Map':
     st.sidebar.warning("If you still can't see the slider to select year, or you see it badly, try to change broswer and use Chrome or Firefox!")
     with st.container():
         st.title('Access to water in Africa is not yet to be taken for granted')
-        st.text('''On 28 July 2010 the General Assembly of Nations Unite recognized the human right to water as fundamental also fo the realization of other human rights. The level of availability and access to basic drinking water services is particularly high
+        st.write('''On 28 July 2010 the General Assembly of Nations Unite recognized the human right to water as fundamental also fo the realization of other human rights. The level \\ of availability and access to basic drinking water services is particularly high
                  low in many countries of the African continent''')
         components.html(source_code, height = 700, scrolling=False)
         

@@ -92,9 +92,9 @@ if graph == 'Time series':
 elif graph=='Geografical Map':
     st.sidebar.info('Remember to close the sidebar if you want to interact with the map :)')
     st.sidebar.warning("If you still can't see the slider to select year, or you see it badly, try to change broswer and use Chrome or Firefox!")
-    st.text('On 28 July 2010 the General Assembly of Nations Unite recognized the human right to water as fundamental also fo the realization of other fundamental rights')
     with st.container():
         st.title('Access to water in Africa is not yet to be taken for granted')
+        st.text('On 28 July 2010 the General Assembly of Nations Unite recognized the human right to water as fundamental also fo the realization of other fundamental rights')
         components.html(source_code, height = 700, scrolling=False)
         
  

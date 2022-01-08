@@ -55,6 +55,8 @@ graph = st.sidebar.selectbox('What type of graph',['Geografical Map','Time serie
 if graph == 'Time series':
     country = st.sidebar.selectbox('Select a Country:',clist)
     st.header("**National Statistics for African states**")
+    st.write('''In this section you can explore in more detail the change over time for a specif country, only state with information aviable for each year since 2000 are 
+              selectable. (You can choose a single indicator by clicking on the legend).''')
 
     col1, col2 = st.columns(2)
 
@@ -63,7 +65,7 @@ if graph == 'Time series':
                    color='Indicator Name', markers=True, range_y=[0,100],
                    title='Drinking water services for rural, urban and total population',
                    template="seaborn")
-    newnames = {'% of total population using drinking water services':'% of population', 
+    newnames = {'% of total population using drinking water services':'% of total population', 
                   '% of rural population using drinking water services': '% of rural population',
                   '% of urban population using drinking water services': '% of urban population'}
     fig.for_each_trace(lambda t: t.update(name = newnames[t.name],
@@ -75,7 +77,7 @@ if graph == 'Time series':
 
     selected=wdi_scatter[wdi_scatter["Country Name"] == country]
     fig1 = px.line(selected, 
-                    x = 'Year', y = 'Value',  #log_y=True,?
+                    x = 'Year', y = 'Value', 
                     labels=dict(x ='Years', y= 'Number of people'), color='Indicator Name', markers=True,
                     title = "Population growth vs Population with drinking services growth",
                     template="seaborn")

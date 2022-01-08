@@ -94,8 +94,10 @@ elif graph=='Geografical Map':
     st.sidebar.warning("If you still can't see the slider to select year, or you see it badly, try to change broswer and use Chrome or Firefox!")
     with st.container():
         st.title('Access to water in Africa is not yet to be taken for granted')
-        st.write('''On 28 July 2010 the General Assembly of Nations Unite recognized the human right to water as fundamental also fo the realization of other human rights. The level \\ of availability and access to basic drinking water services is particularly high
-                 low in many countries of the African continent''')
+        st.write('''On 28 July 2010 the General Assembly of Nations Unite recognized the human right to water as fundamental also fo the realization of other human rights. 
+                    Still in 2020 the level of availability and access to basic drinking water services was particularly low in many countries of the African continent. 
+                    On the map below you can explore how the situation changed in different states of the continent since 2020 both for the percentual of people with access to 
+                    basic drinking services and for the inequalities between urban and rural population''')
         components.html(source_code, height = 700, scrolling=False)
         
  

@@ -98,7 +98,8 @@ elif graph=='Geografical Map':
                     Despite so in 2020 the level of availability and access to basic drinking water services was particularly low in many countries of the African continent.
                     Such services are those including water from an improved source, so that provided collection time is not more than 30 minutes for a round trip.
                     On the map below you can have a general wiev in how the situation changed in different states of the continent since 2020 both for the percentual of people 
-                    with access to basic drinking services and for the inequalities between urban and rural population.''')
+                    with access to basic drinking services and for the inequalities between urban and rural population, more insights can be found in the section relative to 
+                    temporal series''')
         components.html(source_code, height = 700, scrolling=False)
         
  

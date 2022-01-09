@@ -81,15 +81,15 @@ if graph == 'Time series':
                    x = 'Year', y = 'Value', 
                    labels=dict(x ='Years', y= 'Number of people'), color='Indicator Name', markers=True,
                    title = "Population growth vs Population with drinking services growth",
-                   template="seaborn")
+                   template="seaborn", )
     
     selected2=line[line["Country Name"] == country]
     reference_line = go.Scatter(x=selected2['Year'],
                                 y=selected2['Value'],
                                 mode="lines", name="If there had been no percentage change since 2000",
                                 line=go.scatter.Line(color="gray"))
-    
-    fig1.add_trace(reference_line,legend={'traceorder':'grouped'})
+    fig1.update_layout( legend={'traceorder':'normal'})
+    fig1.add_trace(reference_line)
     col2.plotly_chart(fig1,use_column_width = True)
   
 elif graph=='Geografical Map':

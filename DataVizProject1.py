@@ -84,7 +84,9 @@ if graph == 'Time series':
                    x = 'Year', y = 'Value', 
                    labels=dict(x ='Years', y= 'Number of people'), color='Indicator Name', markers=True,
                    title = "Population growth vs Population with drinking services growth",
-                   template="seaborn")
+                   template="seaborn", 
+                   category_orders={"Indicator Name": ['Total population',
+                                                       'Number of people using drinking water services']})
     
     selected2=line[line["Country Name"] == country]
     reference_line = go.Scatter(x=selected2['Year'],

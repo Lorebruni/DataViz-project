@@ -74,9 +74,9 @@ if graph == 'Time series':
                                           hovertemplate = t.hovertemplate.replace(t.name, newnames[t.name])
                                            )
                         )
-    fig.update_layout(category_orders={"Indicator Name": ['% of urban population using drinking water services': '% of urban population',
-                                                          '% of total population using drinking water services':'% of total population',
-                                                          '% of rural population using drinking water services': '% of rural population']})
+    fig.update_layout(category_orders={"Indicator Name": ['% of urban population',
+                                                          '% of total population',
+                                                          '% of rural population']})
     col1.plotly_chart(fig,use_column_width = True)
 
     selected=wdi_scatter[wdi_scatter["Country Name"] == country]

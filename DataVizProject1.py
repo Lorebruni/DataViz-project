@@ -71,8 +71,7 @@ if graph == 'Time series':
                 '% of rural population using drinking water services': '% of rural population'}
     fig.for_each_trace(lambda t: t.update(name = newnames[t.name],
                                           legendgroup = newnames[t.name],
-                                          hovertemplate = t.hovertemplate.replace(t.name, newnames[t.name]),
-                                          legend={'traceorder':'normal'}
+                                          hovertemplate = t.hovertemplate.replace(t.name, newnames[t.name])
                                            )
                         )
     col1.plotly_chart(fig,use_column_width = True)

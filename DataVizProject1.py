@@ -74,6 +74,9 @@ if graph == 'Time series':
                                           hovertemplate = t.hovertemplate.replace(t.name, newnames[t.name])
                                            )
                         )
+    fig.update_layout(category_orders={"Indicator Name": ['% of urban population using drinking water services': '% of urban population',
+                                                          '% of total population using drinking water services':'% of total population',
+                                                          '% of rural population using drinking water services': '% of rural population']})
     col1.plotly_chart(fig,use_column_width = True)
 
     selected=wdi_scatter[wdi_scatter["Country Name"] == country]
@@ -81,15 +84,15 @@ if graph == 'Time series':
                    x = 'Year', y = 'Value', 
                    labels=dict(x ='Years', y= 'Number of people'), color='Indicator Name', markers=True,
                    title = "Population growth vs Population with drinking services growth",
-                   template="seaborn", )
+                   template="seaborn")
     
     selected2=line[line["Country Name"] == country]
     reference_line = go.Scatter(x=selected2['Year'],
                                 y=selected2['Value'],
                                 mode="lines", name="If there had been no percentage change since 2000",
                                 line=go.scatter.Line(color="gray"))
-    fig1.update_layout( legend={'traceorder':'normal'})
     fig1.add_trace(reference_line)
+    
     col2.plotly_chart(fig1,use_column_width = True)
   
 elif graph=='Geografical Map':

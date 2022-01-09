@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[9]:
+# In[2]:
 
 
 import pandas as pd
@@ -12,7 +12,7 @@ from plotly.subplots import make_subplots
 import plotly.graph_objects as go
 
 
-# In[11]:
+# In[4]:
 
 
 line=pd.read_csv('line.csv')
@@ -28,7 +28,8 @@ source_code = africa_html.read()
 clist=wdi_new1["Country Name"].unique()
 
 
-# In[14]:
+# In[1]:
+
 
 
 st.set_page_config(layout = "wide",initial_sidebar_state="collapsed")
@@ -55,7 +56,7 @@ graph = st.sidebar.selectbox('What type of graph',['Geografical Map','Time serie
 if graph == 'Time series':
     country = st.sidebar.selectbox('Select a Country:',clist)
     st.title("National Statistics for African states")
-    st.write('''In this section you can explore in more detail the change over time for a specif country, only states with information aviable for each year since 2000 are 
+    st.write('''In this section you can explore in more detail the change over time for a specif country, only states with information available for each year since 2000 are 
               selectable. (You can choose a single indicator by clicking on the legend).''')
 
     col1, col2 = st.columns(2)
@@ -65,22 +66,24 @@ if graph == 'Time series':
                    color='Indicator Name', markers=True, range_y=[0,100],
                    title='Drinking water services for rural, urban and total population',
                    template="seaborn")
-    newnames = {'% of total population using drinking water services':'% of total population', 
-                  '% of rural population using drinking water services': '% of rural population',
-                  '% of urban population using drinking water services': '% of urban population'}
+    newnames = {'% of urban population using drinking water services': '% of urban population',
+                '% of total population using drinking water services':'% of total population', 
+                '% of rural population using drinking water services': '% of rural population'}
     fig.for_each_trace(lambda t: t.update(name = newnames[t.name],
-                                            legendgroup = newnames[t.name],
-                                            hovertemplate = t.hovertemplate.replace(t.name, newnames[t.name])
+                                          legendgroup = newnames[t.name],
+                                          hovertemplate = t.hovertemplate.replace(t.name, newnames[t.name]),
+                                          legend={'traceorder':'normal'}
                                            )
                         )
     col1.plotly_chart(fig,use_column_width = True)
 
     selected=wdi_scatter[wdi_scatter["Country Name"] == country]
     fig1 = px.line(selected, 
-                    x = 'Year', y = 'Value', 
-                    labels=dict(x ='Years', y= 'Number of people'), color='Indicator Name', markers=True,
-                    title = "Population growth vs Population with drinking services growth",
-                    template="seaborn")
+                   x = 'Year', y = 'Value', 
+                   labels=dict(x ='Years', y= 'Number of people'), color='Indicator Name', markers=True,
+                   title = "Population growth vs Population with drinking services growth",
+                   template="seaborn",
+                   legend={'traceorder':'normal'})
     
     selected2=line[line["Country Name"] == country]
     reference_line = go.Scatter(x=selected2['Year'],
@@ -96,13 +99,11 @@ elif graph=='Geografical Map':
     st.sidebar.warning("If you still can't see the slider to select year, or you see it badly, try to change broswer and use Chrome or Firefox!")
     with st.container():
         st.title('Access to water in Africa is not yet to be taken for granted')
-        st.write('''On 28 July 2010 the General Assembly of Nations Unite recognized the human right to water as fundamental also fo the realization of other human rights. 
-                    Despite so in 2020 the level of availability and access to basic drinking water services was particularly low in many countries of the African continent.
+        st.write('''On 28 July 2010 the United Nations General Assembly recognized the human right to water as fundamental also for the realization of other human rights. 
+                    Despite this declaration in 2020 the level of availability and access to basic drinking water services was particularly low in many countries of the African continent.
                     Such services are those including water from an improved source, so that provided collection time is not more than 30 minutes for a round trip.
-                    On the map below you can have a general wiev in how the situation changed in different states of the continent since 2020 both for the percentual of people 
-                    with access to basic drinking services and for the inequalities between urban and rural population, more insights can be found in the section relative to 
-                    temporal series.''')
+                    On the map below you can have a general wiev in how the situation changed in different states of the continent since 2000 both for the percentual of people 
+                    with access to basic drinking services and for the inequalities between urban and rural population. More insights about statistics of the single states can be found in 
+                    the section relative to the time series.''')
         components.html(source_code, height = 700, scrolling=False)
-        
- 
 

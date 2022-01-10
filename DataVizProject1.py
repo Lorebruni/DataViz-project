@@ -99,7 +99,7 @@ if graph == 'Time series':
   
 elif graph=='Geografical Map':
     st.sidebar.info('Remember to close the sidebar if you want to interact with the map :)')
-    st.sidebar.warning("If you still can't see the slider to select year, or you see it badly, try to change broswer and use Chrome or Firefox!")
+    st.sidebar.warning("If you still can't see the slider to select year, or you see it badly, try to change broswer and use Chrome, Edge or Firefox!")
     with st.container():
         st.title('Access to water in Africa is not yet to be taken for granted')
         st.write('''On 28 July 2010 the United Nations General Assembly recognized the human right to water as fundamental also for the realization of other human rights. 
@@ -107,6 +107,6 @@ elif graph=='Geografical Map':
                     Such services are those including water from an improved source, so that provided collection time is not more than 30 minutes for a round trip.
                     On the map below you can have a general wiev in how the situation changed in different states of the continent since 2000 both for the percentual of people 
                     with access to basic drinking services and for the inequalities between urban and rural population. More insights about statistics of the single states can be found in 
-                    the section relative to the time series.''')
+                    the section relative to the time series (click on the arrow at the top left to access such section.''')
         components.html(source_code, height = 700, scrolling=False)
 

@@ -64,7 +64,7 @@ if graph == 'Time series':
     fig = px.line(wdi_new1[wdi_new1["Country Name"] == country], x="Year", y="Percentage (%)", 
                    labels=dict(x = 'Years', y = 'Percentage of people using drinking water services'), 
                    color='Indicator Name', markers=True, range_y=[0,100],
-                   title='Drinking water services for rural, urban and total population',
+                   title='<b>Drinking water services for rural, urban and total population</b>',
                    template="seaborn", 
                    category_orders={"Indicator Name": ['% of urban population using drinking water services',
                                                        '% of total population using drinking water services',
@@ -83,7 +83,7 @@ if graph == 'Time series':
     fig1 = px.line(selected, 
                    x = 'Year', y = 'Value', 
                    labels=dict(x ='Years', y= 'Number of people'), color='Indicator Name', markers=True,
-                   title = "Population growth vs Population with drinking services growth",
+                   title = "<b>Population growth vs Population with drinking services growth</b>",
                    template="seaborn", 
                    category_orders={"Indicator Name": ['Total population',
                                                        'Number of people using drinking water services']})

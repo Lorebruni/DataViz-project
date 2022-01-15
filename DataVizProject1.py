@@ -61,7 +61,7 @@ if graph == 'Time series':
 
     col1, col2 = st.columns(2)
 
-    fig = px.line(wdi_new1[wdi_new1["Country Name"] == country], x="Year", y="Percentage", 
+    fig = px.line(wdi_new1[wdi_new1["Country Name"] == country], x="Year", y="Percentage (%)", 
                    labels=dict(x = 'Years', y = 'Percentage of people using drinking water services'), 
                    color='Indicator Name', markers=True, range_y=[0,100],
                    title='Drinking water services for rural, urban and total population',

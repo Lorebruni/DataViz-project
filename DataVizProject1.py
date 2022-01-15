@@ -59,7 +59,7 @@ if graph == 'Time series':
     st.write('''In this section you can explore in more detail the change over time for a specif country, only states with information available for each year since 2000 are 
               selectable.''')
 
-    col1, col2 = st.columns(2)
+    #col1, col2 = st.columns(2)
 
     fig = px.line(wdi_new1[wdi_new1["Country Name"] == country], x="Year", y="Percentage (%)", 
                    labels=dict(x = 'Years', y = 'Percentage of people using drinking water services'), 
@@ -77,7 +77,7 @@ if graph == 'Time series':
                                           hovertemplate = t.hovertemplate.replace(t.name, newnames[t.name])
                                            )
                         )
-    col1.plotly_chart(fig,use_column_width = True)
+    #col1.plotly_chart(fig,use_column_width = True)
 
     selected=wdi_scatter[wdi_scatter["Country Name"] == country]
     fig1 = px.line(selected, 
@@ -95,7 +95,7 @@ if graph == 'Time series':
                                 line=go.scatter.Line(color="gray"))
     fig1.add_trace(reference_line)
     
-    col2.plotly_chart(fig1,use_column_width = True)
+    #col2.plotly_chart(fig1,use_column_width = True)
   
 elif graph=='Geografical Map':
     st.sidebar.info('Remember to close the sidebar if you want to interact with the map :)')

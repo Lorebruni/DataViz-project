@@ -78,6 +78,7 @@ if graph == 'Time series':
                                            )
                         )
     #col1.plotly_chart(fig,use_column_width = True)
+    st.pyplot(fig)
 
     selected=wdi_scatter[wdi_scatter["Country Name"] == country]
     fig1 = px.line(selected, 
@@ -96,7 +97,8 @@ if graph == 'Time series':
     fig1.add_trace(reference_line)
     
     #col2.plotly_chart(fig1,use_column_width = True)
-  
+    st.pyplot(fig1)  
+
 elif graph=='Geografical Map':
     st.sidebar.info('Remember to close the sidebar if you want to interact with the map :)')
     st.sidebar.warning("If you still can't see the slider to select year, or you see it badly, try to change broswer and use Chrome, Edge or Firefox!")

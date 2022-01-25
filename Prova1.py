@@ -10,7 +10,10 @@ import streamlit.components.v1 as components
 import plotly.express as px
 from plotly.subplots import make_subplots
 import plotly.graph_objects as go
-import matplotlib as mtp
+from matplotlib import rc
+
+rc('font',**{'family':'sans-serif','sans-serif':['Helvetica']})
+rc('text', usetex=True)
 
 
 # In[2]:

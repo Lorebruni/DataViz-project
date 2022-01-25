@@ -106,7 +106,7 @@ elif graph=='Geografical Map':
     st.sidebar.info('Remember to close the sidebar if you want to interact with the map :)')
     st.sidebar.warning("If you still can't see the slider to select year, or you see it badly, try to change broswer and use Chrome, Edge or Firefox!")
     with st.container():
-        st.title('Access to water in Africa is not yet to be taken for granted')
+        st.title(r'Access to water in Africa \\ is not yet to be taken for granted')
         st.write('''On 28 July 2010 the United Nations General Assembly recognized the human right to water as fundamental also for the realization of other human rights. 
                     Despite this declaration in 2020 the level of availability and access to basic drinking water services was particularly low in many countries of the African continent.
                     Such services are those including water from an improved source, so that provided collection time is not more than 30 minutes for a round trip.

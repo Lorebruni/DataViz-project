@@ -96,7 +96,7 @@ if graph == 'Time series':
     selected2=line[line["Country Name"] == country]
     reference_line = go.Scatter(x=selected2['Year'],
                                 y=selected2['Value'],
-                                mode="lines", name=r"Number of people using drinking water services \\ If there had been no percentage change since 2000",
+                                mode="lines", name=r'Number of people using drinking water services \newline If there had been no percentage change since 2000',
                                 line=go.scatter.Line(color="gray"))
     fig1.add_trace(reference_line)
     fig1.update_yaxes(rangemode="tozero")

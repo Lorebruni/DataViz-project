@@ -91,6 +91,11 @@ if graph == 'Time series':
     newnames = {'Total population': 'Total population',
                 'Number of people using drinking water services':'PUW (People using water service)'}
     
+    fig1.for_each_trace(lambda t: t.update(name = newnames[t.name],
+                                          legendgroup = newnames[t.name],
+                                          hovertemplate = t.hovertemplate.replace(t.name, newnames[t.name])
+                                           )
+                        )
     selected2=line[line["Country Name"] == country]
     reference_line = go.Scatter(x=selected2['Year'],
                                 y=selected2['Value'],

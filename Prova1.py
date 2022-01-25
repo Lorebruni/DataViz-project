@@ -12,9 +12,6 @@ from plotly.subplots import make_subplots
 import plotly.graph_objects as go
 from matplotlib import rc
 
-rc('font',**{'family':'sans-serif','sans-serif':['Helvetica']})
-rc('text', usetex=True)
-
 
 # In[2]:
 
@@ -34,6 +31,9 @@ clist=wdi_new1["Country Name"].unique()
 
 # In[1]:
 
+
+rc('font',**{'family':'sans-serif','sans-serif':['Helvetica']})
+rc('text', usetex=True)
 
 
 st.set_page_config(layout = "wide",initial_sidebar_state="collapsed")
@@ -96,7 +96,7 @@ if graph == 'Time series':
     selected2=line[line["Country Name"] == country]
     reference_line = go.Scatter(x=selected2['Year'],
                                 y=selected2['Value'],
-                                mode="lines", name=r'Number of people using drinking water services \newline If there had been no percentage change since 2000',
+                                mode="lines", name=r'Number of people using drinking water services \textbf{If there had been no percentage change since 2000}',
                                 line=go.scatter.Line(color="gray"))
     fig1.add_trace(reference_line)
     fig1.update_yaxes(rangemode="tozero")

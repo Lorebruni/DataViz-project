@@ -17,7 +17,7 @@ import plotly.graph_objects as go
 
 line=pd.read_csv('line.csv')
 wdi_scatter=pd.read_csv('wdi_scatter.csv')
-wdi_new1=pd.read_csv('wdi_new1.csv')
+wdi_new1=pd.read_csv('population_percentage.csv')
 africa_html=open("slider_map0_modified.html", 'r', encoding='utf-8')
 source_code = africa_html.read() 
 
@@ -29,6 +29,7 @@ clist=wdi_new1["Country Name"].unique()
 
 
 # In[1]:
+
 
 
 st.set_page_config(layout = "wide",initial_sidebar_state="collapsed")
@@ -93,7 +94,7 @@ if graph == 'Time series':
                                 mode="lines", name="If there had been no percentage change since 2000",
                                 line=go.scatter.Line(color="gray"))
     fig1.add_trace(reference_line)
-    fig1.update_yaxes(rangemode="tozero")
+    
     col2.plotly_chart(fig1,use_column_width = True) 
 
 elif graph=='Geografical Map':

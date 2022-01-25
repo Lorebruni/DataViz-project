@@ -85,6 +85,7 @@ if graph == 'Time series':
                    labels=dict(x ='Years', y= 'Number of people'), color='Indicator Name', markers=True,
                    title = "<b>Population growth vs Population with drinking services growth</b>",
                    template="seaborn", 
+                   color_discrete_map={ "Total population": "red", "Number of people using drinking water services": "blue" },
                    category_orders={"Indicator Name": ['Total population',
                                                        'Number of people using drinking water services']})
     

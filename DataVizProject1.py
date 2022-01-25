@@ -93,6 +93,7 @@ if graph == 'Time series':
                                 mode="lines", name="If there had been no percentage change since 2000",
                                 line=go.scatter.Line(color="gray"))
     fig1.add_trace(reference_line)
+    fig1.update_yaxes(rangemode="tozero")
     col2.plotly_chart(fig1,use_column_width = True) 
 
 elif graph=='Geografical Map':

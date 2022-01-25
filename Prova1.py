@@ -65,6 +65,9 @@ if graph == 'Time series':
                    color='Indicator Name', markers=True, range_y=[0,100],
                    title='<b>Drinking water services for rural, urban and total population</b>',
                    template="seaborn", 
+                   color_discrete_map={ '% of urban population using drinking water services': "blue", 
+                                        '% of total population using drinking water services': "orange",
+                                        '% of rural population using drinking water services': "green"},
                    category_orders={"Indicator Name": ['% of urban population using drinking water services',
                                                        '% of total population using drinking water services',
                                                        '% of rural population using drinking water services']})

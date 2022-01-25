@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[2]:
+# In[1]:
 
 
 import pandas as pd
@@ -12,12 +12,12 @@ from plotly.subplots import make_subplots
 import plotly.graph_objects as go
 
 
-# In[4]:
+# In[2]:
 
 
 line=pd.read_csv('line.csv')
 wdi_scatter=pd.read_csv('wdi_scatter.csv')
-wdi_new1=pd.read_csv('population_percentage.csv')
+wdi_new1=pd.read_csv('wdi_new1.csv')
 africa_html=open("slider_map0_modified.html", 'r', encoding='utf-8')
 source_code = africa_html.read() 
 
@@ -29,7 +29,6 @@ clist=wdi_new1["Country Name"].unique()
 
 
 # In[1]:
-
 
 
 st.set_page_config(layout = "wide",initial_sidebar_state="collapsed")
@@ -94,7 +93,7 @@ if graph == 'Time series':
                                 mode="lines", name="If there had been no percentage change since 2000",
                                 line=go.scatter.Line(color="gray"))
     fig1.add_trace(reference_line)
-    
+    fig1.update_yaxes(rangemode="tozero")
     col2.plotly_chart(fig1,use_column_width = True) 
 
 elif graph=='Geografical Map':
@@ -110,3 +109,4 @@ elif graph=='Geografical Map':
                     the section relative to the time series (click on the arrow at the top left to access such section).''')
         components.html(source_code, height = 700, scrolling=False)
         st.markdown('<a href="https://www.flaticon.com/free-icons/information" title="information icons">Information icons created by Freepik - Flaticon</a>',unsafe_allow_html=True)
+

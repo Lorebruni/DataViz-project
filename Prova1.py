@@ -35,7 +35,7 @@ clist=wdi_new1["Country Name"].unique()
 rc('font',**{'family':'sans-serif','sans-serif':['Helvetica']})
 rc('text', usetex=True)
 
-testo=r'Ciao \textbf[MARCO}'
+testo=r'Ciao \textbf{MARCO}'
 
 st.set_page_config(layout = "wide",initial_sidebar_state="collapsed")
 

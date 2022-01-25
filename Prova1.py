@@ -84,6 +84,8 @@ if graph == 'Time series':
         xanchor="right",
         x=1
     ))
+    fig.update_layout(legend_title_text='')
+    
     col2.plotly_chart(fig,use_column_width = False)
 
     selected=wdi_scatter[wdi_scatter["Country Name"] == country]
@@ -104,11 +106,22 @@ if graph == 'Time series':
                                           hovertemplate = t.hovertemplate.replace(t.name, newnames[t.name])
                                            )
                         )
+    
+    fig1.update_layout(legend=dict(
+        orientation="h",
+        yanchor="bottom",
+        y=1.02,
+        xanchor="right",
+        x=1
+    ))
+    fig1.update_layout(legend_title_text='')
+    
     selected2=line[line["Country Name"] == country]
     reference_line = go.Scatter(x=selected2['Year'],
                                 y=selected2['Value'],
                                 mode="lines", name=r'PUW if no percentage change since 2000',
                                 line=go.scatter.Line(color="gray"))
+    
     fig1.add_trace(reference_line)
     fig1.update_yaxes(rangemode="tozero")
     col2.plotly_chart(fig1,use_column_width = False) 

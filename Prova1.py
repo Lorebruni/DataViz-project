@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[2]:
+# In[1]:
 
 
 import pandas as pd
@@ -12,7 +12,7 @@ from plotly.subplots import make_subplots
 import plotly.graph_objects as go
 
 
-# In[4]:
+# In[2]:
 
 
 line=pd.read_csv('line.csv')
@@ -94,7 +94,7 @@ if graph == 'Time series':
                                 mode="lines", name="If there had been no percentage change since 2000",
                                 line=go.scatter.Line(color="gray"))
     fig1.add_trace(reference_line)
-    
+    fig1.update_yaxes(rangemode="tozero")
     col2.plotly_chart(fig1,use_column_width = True) 
 
 elif graph=='Geografical Map':
@@ -110,3 +110,4 @@ elif graph=='Geografical Map':
                     the section relative to the time series (click on the arrow at the top left to access such section).''')
         components.html(source_code, height = 700, scrolling=False)
         st.markdown('<a href="https://www.flaticon.com/free-icons/information" title="information icons">Information icons created by Freepik - Flaticon</a>',unsafe_allow_html=True)
+

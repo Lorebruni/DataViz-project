@@ -76,6 +76,14 @@ if graph == 'Time series':
                                           hovertemplate = t.hovertemplate.replace(t.name, newnames[t.name])
                                            )
                         )
+    
+    fig.update_layout(legend=dict(
+        orientation="h",
+        yanchor="bottom",
+        y=1.02,
+        xanchor="right",
+        x=1
+    ))
     col2.plotly_chart(fig,use_column_width = False)
 
     selected=wdi_scatter[wdi_scatter["Country Name"] == country]

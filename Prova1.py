@@ -10,7 +10,6 @@ import streamlit.components.v1 as components
 import plotly.express as px
 from plotly.subplots import make_subplots
 import plotly.graph_objects as go
-from matplotlib import rc
 
 
 # In[2]:
@@ -31,11 +30,6 @@ clist=wdi_new1["Country Name"].unique()
 
 # In[1]:
 
-
-rc('font',**{'family':'sans-serif','sans-serif':['Helvetica']})
-rc('text', usetex=True)
-
-testo=r'Ciao \textbf{MARCO}'
 
 st.set_page_config(layout = "wide",initial_sidebar_state="collapsed")
 
@@ -92,12 +86,12 @@ if graph == 'Time series':
                    template="seaborn", 
                    color_discrete_map={ "Total population": "red", "Number of people using drinking water services": "purple" },
                    category_orders={"Indicator Name": ['Total population',
-                                                       'Number of people using drinking water services']})
+                                                       'People using drinking water services (PUW)']})
     
     selected2=line[line["Country Name"] == country]
     reference_line = go.Scatter(x=selected2['Year'],
                                 y=selected2['Value'],
-                                mode="lines", name=r'Number of people using drinking water services \textbf{If there had been no percentage change since 2000}',
+                                mode="lines", name=r'PUW if no percentage change since 2000}',
                                 line=go.scatter.Line(color="gray"))
     fig1.add_trace(reference_line)
     fig1.update_yaxes(rangemode="tozero")
@@ -108,7 +102,6 @@ elif graph=='Geografical Map':
     st.sidebar.warning("If you still can't see the slider to select year, or you see it badly, try to change broswer and use Chrome, Edge or Firefox!")
     with st.container():
         st.title(r'Access to water in Africa is not yet to be taken for granted')
-        st.write(testo)
         st.write('''On 28 July 2010 the United Nations General Assembly recognized the human right to water as fundamental also for the realization of other human rights. 
                     Despite this declaration in 2020 the level of availability and access to basic drinking water services was particularly low in many countries of the African continent.
                     Such services are those including water from an improved source, so that provided collection time is not more than 30 minutes for a round trip.

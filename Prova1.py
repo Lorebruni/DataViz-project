@@ -58,7 +58,7 @@ if graph == 'Time series':
     st.write('''In this section you can explore in more detail the change over time for a specif country, only states with information available for each year since 2000 are 
               selectable.''')
 
-    col1, col2 = st.columns(2)
+    col, col1, col2 = st.columns([1,4,4])
 
     fig = px.line(wdi_new1[wdi_new1["Country Name"] == country], x="Year", y="Percentage (%)", 
                    labels=dict(x = 'Years', y = 'Percentage of people using drinking water services'), 

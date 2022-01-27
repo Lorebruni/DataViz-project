@@ -130,8 +130,11 @@ if graph == 'Time series':
                                 y=selected2['Value'],
                                 mode="lines", name=r'PUW if no percentage change since 2000',
                                 line=go.scatter.Line(color="gray", dash='dot'))
+    area_underline = go.Scatter(x=selected2['Year'],
+                                y=selected2['Value'], fill='tozeroy')) 
     
     fig1.add_trace(reference_line)
+    fig1.add_trace(area_underline)
     fig1.update_yaxes(rangemode="tozero")
     fig1.update_xaxes(nticks=20)
     col2.plotly_chart(fig1,use_column_width = False) 

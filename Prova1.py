@@ -101,7 +101,7 @@ if graph == 'Time series':
                    x = 'Year', y = 'Value', 
                    labels={"Indicator Name":"Indicator", "Year":"Year", "Value":"Population"},
                    color='Indicator Name', markers=True,
-                   title = "<b>Growth of population in total and with access to basic water services</b>",
+                   title = "<b>Total and with access to basic water services population growth</b>",
                    template="seaborn", 
                    color_discrete_map={ "Total population": "red", "Number of people using drinking water services": "purple" },
                    category_orders={"Indicator Name": ['Total population',

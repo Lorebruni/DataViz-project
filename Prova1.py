@@ -108,7 +108,7 @@ if graph == 'Time series':
                                                        'Number of people using drinking water services']})
     
     newnames = {'Total population': 'Total population',
-                'Number of people using drinking water services':'PUW (People using water service)'}
+                'Number of people using drinking water services':'PUW (People using basic water service)'}
     
     fig1.for_each_trace(lambda t: t.update(name = newnames[t.name],
                                           legendgroup = newnames[t.name],

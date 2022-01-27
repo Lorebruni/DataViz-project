@@ -133,7 +133,7 @@ if graph == 'Time series':
     
     fig1.add_trace(reference_line)
     fig1.update_yaxes(rangemode="tozero")
-    fig.update_xaxes(nticks=20)
+    fig1.update_xaxes(nticks=20)
     col2.plotly_chart(fig1,use_column_width = False) 
 
 elif graph=='Geografical Map':

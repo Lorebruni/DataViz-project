@@ -130,7 +130,7 @@ if graph == 'Time series':
                                 y=selected2['Value'],
                                 fill=None, labels={"PUW if no percentage change in PUW since 2000":""},
                                 mode="lines", name=r'PUW if no percentage change in PUW since 2000',
-                                line=go.scatter.Line(color="#404040", dash='dot'))
+                                line=go.scatter.Line(color="grey", dash='dot'))
     
     fig1.add_trace(reference_line)
     fig1.update_yaxes(rangemode="tozero")

@@ -57,7 +57,7 @@ graph = st.sidebar.selectbox('What type of graph',['Geografical Map','Time serie
 if graph == 'Time series':
     country = st.sidebar.selectbox('Select a Country:',clist)
     st.title("National Statistics for %s" % (country))
-    st.write('''In this section you can explore in more detail the change over time for a specif country, only states with information available for each year since 2000 are 
+    st.write('''In this section you can explore in more detail the change over time for a specific country, only states with information available for each year since 2000 are 
               selectable.''')
 
     col1, col2 = st.columns(2)
@@ -65,7 +65,7 @@ if graph == 'Time series':
     fig = px.line(wdi_new1[wdi_new1["Country Name"] == country], x="Year", y="Percentage (%)", 
                    labels={"Indicator Name":"Indicator", "Year":"Year", "Percentage (%)":"Percentage (%)"}, 
                    color='Indicator Name', markers=True, range_y=[0,100],
-                   title='<b>Drinking water services for rural, urban and total population</b>',
+                   title='<b>Population(%) with access to basic water services</b>',
                    template="seaborn", 
                    color_discrete_map={ '% of urban population using drinking water services': "blue", 
                                         '% of total population using drinking water services': "orange",
@@ -93,7 +93,7 @@ if graph == 'Time series':
     ))
     fig.update_layout(legend_title_text='')
     fig.update_xaxes(nticks=20, autorange=True)
-    col1.plotly_chart(fig,use_column_width = True)
+    col2.plotly_chart(fig,use_column_width = True)
 
     selected=wdi_scatter[wdi_scatter["Country Name"] == country]
     
@@ -101,7 +101,7 @@ if graph == 'Time series':
                    x = 'Year', y = 'Value', 
                    labels={"Indicator Name":"Indicator", "Year":"Year", "Value":"Population"},
                    color='Indicator Name', markers=True,
-                   title = "<b>Population growth vs Population with drinking services growth</b>",
+                   title = "<b>Growth of population in total and with access to basic water services</b>",
                    template="seaborn", 
                    color_discrete_map={ "Total population": "red", "Number of people using drinking water services": "purple" },
                    category_orders={"Indicator Name": ['Total population',
@@ -135,7 +135,7 @@ if graph == 'Time series':
     fig1.add_trace(reference_line)
     fig1.update_yaxes(rangemode="tozero")
     fig1.update_xaxes(nticks=20)
-    col2.plotly_chart(fig1,use_column_width = False) 
+    col1.plotly_chart(fig1,use_column_width = False) 
 
 elif graph=='Geografical Map':
     st.sidebar.info('Remember to close the sidebar to fully interact with the map :)')

@@ -73,9 +73,11 @@ if graph == 'Time series':
                    category_orders={"Indicator Name": ['% of urban population using drinking water services',
                                                        '% of total population using drinking water services',
                                                        '% of rural population using drinking water services']})
+    
     newnames = {'% of urban population using drinking water services': '% of urban population',
                 '% of total population using drinking water services':'% of total population', 
                 '% of rural population using drinking water services': '% of rural population'}
+    
     fig.for_each_trace(lambda t: t.update(name = newnames[t.name],
                                           legendgroup = newnames[t.name],
                                           hovertemplate = t.hovertemplate.replace(t.name, newnames[t.name])
@@ -90,10 +92,11 @@ if graph == 'Time series':
         x=1
     ))
     fig.update_layout(legend_title_text='')
-    
-    col1.plotly_chart(fig,use_column_width = False)
+    fig.update_xaxes(nticks=20)
+    col1.plotly_chart(fig,use_column_width = True)
 
     selected=wdi_scatter[wdi_scatter["Country Name"] == country]
+    
     fig1 = px.line(selected, 
                    x = 'Year', y = 'Value', 
                    labels={"Indicator Name":"Indicator", "Year":"Year", "Value":"Population"},
@@ -130,6 +133,7 @@ if graph == 'Time series':
     
     fig1.add_trace(reference_line)
     fig1.update_yaxes(rangemode="tozero")
+    fig.update_xaxes(nticks=20)
     col2.plotly_chart(fig1,use_column_width = False) 
 
 elif graph=='Geografical Map':

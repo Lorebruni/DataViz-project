@@ -21,7 +21,7 @@ wdi_new1=pd.read_csv('population_percentage.csv')
 africa_html=open("slider_map0_modified.html", 'r', encoding='utf-8')
 source_code = africa_html.read() 
 
-wdi_scatter['Value']=round(wdi_scatter['Value'],1)
+wdi_scatter['Value']=round(wdi_scatter['Value'],0)
 
 # In[12]:
 

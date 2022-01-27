@@ -139,7 +139,6 @@ if graph == 'Time series':
 
 elif graph=='Geografical Map':
     st.sidebar.info('Remember to close the sidebar to fully interact with the map :)')
-    st.sidebar.warning("If you still can't see the slider to select year, or you see it badly, try to change broswer and use Chrome, Edge or Firefox!")
     with st.container():
         st.title(r'Access to water in Africa is not yet to be taken for granted')
         st.write('''On 28 July 2010 the United Nations General Assembly recognized the human right to water as fundamental also for the realization of other human rights. 

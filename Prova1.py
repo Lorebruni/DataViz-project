@@ -128,7 +128,7 @@ if graph == 'Time series':
     selected2=line[line["Country Name"] == country]
     reference_line = go.Scatter(x=selected2['Year'],
                                 y=selected2['Value'],
-                                fill=None,
+                                fill=None, labels={"PUW if no percentage change in PUW since 2000":""},
                                 mode="lines", name=r'PUW if no percentage change in PUW since 2000',
                                 line=go.scatter.Line(color="#404040", dash='dot'))
     

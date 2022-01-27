@@ -108,7 +108,7 @@ if graph == 'Time series':
                                                        'Number of people using drinking water services']})
     
     newnames = {'Total population': 'Total population',
-                'Number of people using drinking water services':'PUW (People using basic water service)'}
+                'Number of people using drinking water services':'PUW (People using basic water services)'}
     
     fig1.for_each_trace(lambda t: t.update(name = newnames[t.name],
                                           legendgroup = newnames[t.name],
@@ -129,8 +129,8 @@ if graph == 'Time series':
     reference_line = go.Scatter(x=selected2['Year'],
                                 y=selected2['Value'],
                                 fill=None,
-                                mode="lines", name=r'PUW if no percentage change since 2000',
-                                line=go.scatter.Line(color="gray", dash='dot'))
+                                mode="lines", name=r'PUW if no percentage change in PUW since 2000',
+                                line=go.scatter.Line(color="#404040", dash='dot'))
     
     fig1.add_trace(reference_line)
     fig1.update_yaxes(rangemode="tozero")

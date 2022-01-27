@@ -92,7 +92,7 @@ if graph == 'Time series':
         x=1
     ))
     fig.update_layout(legend_title_text='')
-    fig.update_xaxes(nticks=20)
+    fig.update_xaxes(nticks=20, autorange=True)
     col1.plotly_chart(fig,use_column_width = True)
 
     selected=wdi_scatter[wdi_scatter["Country Name"] == country]

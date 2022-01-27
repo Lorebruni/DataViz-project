@@ -22,6 +22,8 @@ africa_html=open("slider_maps.html", 'r', encoding='utf-8')
 source_code = africa_html.read() 
 
 
+wdi_scatter['Value']=round(wdi_scatter['Value'],0)
+
 # In[12]:
 
 
@@ -123,7 +125,7 @@ if graph == 'Time series':
     reference_line = go.Scatter(x=selected2['Year'],
                                 y=selected2['Value'],
                                 mode="lines", name=r'PUW if no percentage change since 2000',
-                                line=go.scatter.Line(color="gray", dash='dash'))
+                                line=go.scatter.Line(color="gray", dash='dot'))
     
     fig1.add_trace(reference_line)
     fig1.update_yaxes(rangemode="tozero")

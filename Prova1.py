@@ -148,6 +148,6 @@ elif graph=='Geografical Map':
                     On the map below you can have a general wiev in how the situation changed in different states of the continent since 2000 both for the percentual of people 
                     with access to basic drinking services and for the inequalities between urban and rural population. More insights about statistics of the single states can be found in 
                     the section relative to the time series (click on the arrow at the top left to access such section).''')
-        components.html(source_code, height = 700, scrolling=False)
+        components.html(source_code, height = 700, scrolling=True)
         st.markdown('<a href="https://www.flaticon.com/free-icons/information" title="information icons">Information icons created by Freepik - Flaticon</a>',unsafe_allow_html=True)
 

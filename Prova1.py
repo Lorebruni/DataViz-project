@@ -89,7 +89,7 @@ if graph == 'Time series':
         x=1
     ))
     fig.update_layout(legend_title_text='')
-    fig.update_xaxes(nticks=20, autorange=False)
+    fig.update_xaxes(autorange=True)
     col2.plotly_chart(fig,use_column_width = True)
 
     selected=wdi_scatter[wdi_scatter["Country Name"] == country]
@@ -131,7 +131,7 @@ if graph == 'Time series':
     
     fig1.add_trace(reference_line)
     fig1.update_yaxes(rangemode="tozero")
-    fig1.update_xaxes(nticks=20)
+    fig1.update_xaxes(autorange=True)
     col1.plotly_chart(fig1,use_column_width = False) 
 
 elif graph=='Geografical Map':
